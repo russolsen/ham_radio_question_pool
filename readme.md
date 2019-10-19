@@ -18,7 +18,6 @@ The JSON version looks like this:
 
 ```json
 [
-  ...
   {
     "id": "T1A10",
     "correct": 3,
@@ -29,8 +28,7 @@ The JSON version looks like this:
       "An emergency service using amateur operators certified by a civil defense organization as being enrolled in that organization",
       "All of these choices are correct"
     ]
-  },
-  ...
+  }
 ]
 ```
 Note that the correct answer index is *zero* based.
