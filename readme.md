@@ -4,7 +4,7 @@ Amateur radio question pools in various formats.
 
 In the US most anyone can
 [get a license](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service)
-to operate an amateur radio station by taking a multiple choice test.
+to operate an amateur radio station (i.e. HAM radio) by taking a multiple choice test.
 There are no age restrictions and the test questions
 are publically available.
 
@@ -64,48 +64,49 @@ Given all that, the YAML version is about what you would expect:
 
 ```yaml
 ---
-- :id: E1A01
+- :id: T1A10
   :correct: 3
-  :question: When using a transceiver that displays the carrier frequency of phone
-    signals, which of the following displayed frequencies represents the highest frequency
-    at which a properly adjusted USB emission will be totally within the band?
+  :question: Which of the following describes the Radio Amateur Civil Emergency Service
+    (RACES)?
   :answers:
-  - The exact upper band edge
-  - 300 Hz below the upper band edge
-  - 1 kHz below the upper band edge
-  - 3 kHz below the upper band edge
--
+  - A radio service using amateur frequencies for emergency management or civil defense
+    communications
+  - A radio service using amateur stations for emergency management or civil defense
+    communications
+  - An emergency service using amateur operators certified by a civil defense organization
+    as being enrolled in that organization
+  - All of these choices are correct
 ```
 
 And the CSV:
 
 ```
 id,correct,question,a,b,c,d
-T1A01,2,Which of the following is a purpose of the Amateur Radio Service as stated in the FCC rules and regulations?,Providing personal radio communications for as many citizens as possible,Providing communications for international non-profit organizations,Advancing skills in the technical and communication phases of the radio art,All of these choices are correct
-T1A02,2,Which agency regulates and enforces the rules for the Amateur Radio Service in the United States?,FEMA,Homeland Security,The FCC,All of these choices are correct
-T1A03,3,What are the FCC rules regarding the use of a phonetic alphabet for station identification in the Amateur Radio Service?,It is required when transmitting emergency messages,It is prohibited,It is required when in contact with foreign stations,It is encouraged
+T1A10,3,Which of the following describes the Radio Amateur Civil Emergency Service (RACES)?,A radio service using amateur frequencies for emergency management or civil defense communications,A radio service using amateur stations for emergency management or civil defense communications,An emergency service using amateur operators certified by a civil defense organization as being enrolled in that organization,All of these choices are correct
 ```
 
 And last but certainly not least, the plain text version looks like this:
 
 ```
-T1A02 (C) [97.1]
-Which agency regulates and enforces the rules for the Amateur Radio Service in the United States?
-A. FEMA
-B. Homeland Security
-C. The FCC
+T1A10 (D) [97.3(a)(38), 97.407]
+Which of the following describes the Radio Amateur Civil Emergency Service (RACES)? 
+A. A radio service using amateur frequencies for emergency management or civil defense communications
+B. A radio service using amateur stations for emergency management or civil defense communications
+C. An emergency service using amateur operators certified by a civil defense organization as being enrolled in that organization
 D. All of these choices are correct
 
-T1A03 (D) [97.119(b)(2)]
-What are the FCC rules regarding the use of a phonetic alphabet for station identification in the Amateur Radio Service?
-A. It is required when transmitting emergency messages
-B. It is prohibited
-C. It is required when in contact with foreign stations
-D. It is encouraged
+T1A11 (B) [97.101 (d)]
+When is willful interference to other amateur radio stations permitted?
+A. To stop another amateur station which is breaking the FCC rules
+B. At no time 
+C. When making short test transmissions
+D. At any time, stations in the Amateur Radio Service are not protected from willful interference
 
 ```
 
-Note that there is a blank line after each question, including the last question.
+Note that the correct answer (`(D)`) is coded in the question header along with the question ID
+and references to the appropriate regulations.
+Also note that there is a blank line after each question, including the last question.
 
 ## Why?
 
@@ -128,7 +129,9 @@ has a good introduction to the whole topic of US amateur radio licensing.
 
 The original source of the questions is  [NCVEC](http://www.ncvec.org/page.php?id=338).
 
-Jason Staten's fine work is at  (https://github.com/statianzo) at https://github.com/statianzo/hampool.
+[Jason Staten's](https://github.com/statianzo)
+fine work is at 
+[https://github.com/statianzo/hampool](https://github.com/statianzo/hampool).
 
 You can find online amateur radio testing at https://hamexam.org and https://arrlexamreview.appspot.com.
 
