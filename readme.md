@@ -56,9 +56,11 @@ The JSON version looks like this:
   }
 ]
 ```
-Note that the correct answer index is *zero* based.
+Note that the correct answer index is *zero* based, so that the
+correct answer to question `T1A10` is the fourth one,
+`All of these choices are correct`.
 
-Given that the YAML version is about what you would expect:
+Given all that, the YAML version is about what you would expect:
 
 ```yaml
 ---
@@ -87,7 +89,7 @@ T1A03,3,What are the FCC rules regarding the use of a phonetic alphabet for stat
 And last but certainly not least, the plain text version looks like this:
 
 ```
-8 T1A02 (C) [97.1]
+T1A02 (C) [97.1]
 Which agency regulates and enforces the rules for the Amateur Radio Service in the United States?
 A. FEMA
 B. Homeland Security
