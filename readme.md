@@ -1,6 +1,6 @@
 # question_pool
 
-Amateur radio question pools various formats formats.
+Amateur radio question pools in various formats.
 
 In the US most anyone can
 [get a license](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service)
