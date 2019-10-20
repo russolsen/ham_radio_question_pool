@@ -1,8 +1,33 @@
 # question_pool
 
-> Amateur radio question pools various formats formats
+Amateur radio question pools various formats formats.
 
-Questions are available in:
+In the US most anyone can get a license to operate an
+amateur radio station by taking a multiple choice test.
+There are no age restrictions and the test questions
+are publically available.
+
+There are actually three tests of increaing difficulty:
+* Technician
+* General
+* Amateur Extra
+
+Passing the technican test means that you get a technican
+license which allows you to operate a station in various
+specific radion bands, mostly in the VHF and UHF regions.
+
+Passing the general test in addition to the technician
+test gives you access to more frequencies while passing
+the amateur extra test gives you even more.
+
+You do need to pass the tests in order, first technician
+then general then amateur extra, but there's no requirement
+that you keep going - you can stop at technican or general.
+
+In any case, while the questions are publically available at
+[NCVEC](http://www.ncvec.org/page.php?id=338), they are delivered
+in Word or PDF format. This project aims to make the question
+accessable in various machine readable formats, including:
 * JSON
 * YAML
 * CSV
@@ -10,9 +35,7 @@ Questions are available in:
 
 ## Usage
 
-WARNING: While I have done my best to spot check the data provided here,
-I am still in the process of wading through all of this and there may
-be errors!
+*WARNING: While I have done my best to spot check the data provided here, I am still in the process of wading through all of this and there may be errors!*
 
 The JSON version looks like this:
 
@@ -61,6 +84,9 @@ T1A03,3,What are the FCC rules regarding the use of a phonetic alphabet for stat
 
 ## Why?
 
+I set out to do this work because I wanted to keep track of my progress with
+some simple tools of my own.
+
 This project largely overlaps the fine work done by Jason Staten (https://github.com/statianzo)
 at https://github.com/statianzo/hampool.
 
@@ -68,10 +94,20 @@ I started doing my version before I found
 Jason's. I decided to put this one out there because the version of the General exam question
 pool in Jason's repo is now out of date.
 
-As Jason says, doing sort of thing is necessary because:
-
-> The amateur radio question pools made [available by NCVEC](http://www.ncvec.org/page.php?id=338) aren't available in an easily
-> consumable format...
-
 In any case, hope someone gets some use from this.
+
+## See Also
+
+[Wikipedia](https://en.wikipedia.org/wiki/Amateur_radio_licensing_in_the_United_States)
+has a good introduction to the whole topic of US amateur radio licensing.
+
+The original source of the questions is  [NCVEC](http://www.ncvec.org/page.php?id=338).
+
+Jason Staten's fine work is at  (https://github.com/statianzo) at https://github.com/statianzo/hampool.
+
+You can find online amateur radio testing at https://hamexam.org and https://arrlexamreview.appspot.com.
+
+
+
+
 
