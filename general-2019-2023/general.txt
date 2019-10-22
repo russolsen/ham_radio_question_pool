@@ -2126,7 +2126,7 @@ B. A series of DC pulses at the same frequency as the AC input
 C. A sine wave at half the frequency of the AC input
 D. A steady DC voltage
 
-G7A08(C)
+G7A08 (C)
 Which of the following is an advantage of a switchmode power supply as compared to a linear power supply?
 A. Faster switching time makes higher output voltage possible
 B. Fewer circuit components are required

@@ -303,7 +303,7 @@ G7A04,0,What is an advantage of a half-wave rectifier in a power supply?,Only on
 G7A05,1,What portion of the AC cycle is converted to DC by a half-wave rectifier?,90 degrees,180 degrees,270 degrees,360 degrees
 G7A06,3,What portion of the AC cycle is converted to DC by a full-wave rectifier?,90 degrees,180 degrees,270 degrees,360 degrees
 G7A07,0,What is the output waveform of an unfiltered full-wave rectifier connected to a resistive load?,A series of DC pulses at twice the frequency of the AC input,A series of DC pulses at the same frequency as the AC input,A sine wave at half the frequency of the AC input,A steady DC voltage
-G7A08,-24,Which of the following is an advantage of a switchmode power supply as compared to a linear power supply?,Faster switching time makes higher output voltage possible,Fewer circuit components are required,High-frequency operation allows the use of smaller components,All these choices are correct
+G7A08,2,Which of the following is an advantage of a switchmode power supply as compared to a linear power supply?,Faster switching time makes higher output voltage possible,Fewer circuit components are required,High-frequency operation allows the use of smaller components,All these choices are correct
 G7A09,2,Which symbol in figure G7-1 represents a field effect transistor?,Symbol 2,Symbol 5,Symbol 1,Symbol 4
 G7A10,3,Which symbol in figure G7-1 represents a Zener diode?,Symbol 4,Symbol 1,Symbol 11,Symbol 5
 G7A11,1,Which symbol in figure G7-1 represents an NPN junction transistor?,Symbol 1,Symbol 2,Symbol 7,Symbol 11

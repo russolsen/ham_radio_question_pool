@@ -3345,7 +3345,7 @@
   },
   {
     "id": "G7A08",
-    "correct": -24,
+    "correct": 2,
     "question": "Which of the following is an advantage of a switchmode power supply as compared to a linear power supply?",
     "answers": [
       "Faster switching time makes higher output voltage possible",
