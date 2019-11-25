@@ -635,7 +635,7 @@ B. 60
 C. 525
 D. 1080
 
-E2B03 D) 
+E2B03 (D) 
 How is an interlaced scanning pattern generated in a fast-scan (NTSC) television system?
 A. By scanning two fields simultaneously
 B. By scanning each field from bottom to top
@@ -3731,17 +3731,17 @@ D. Negative feedback and balanced feedback
 
 E7H07 (D)
 How can an oscillator’s microphonic responses be reduced?
-Use of NP0 capacitors
-Eliminating noise on the oscillator’s power supply
-Using the oscillator only for CW and digital signals
-Mechanically isolating the oscillator circuitry from its enclosure
+A. Use of NP0 capacitors
+B. Eliminating noise on the oscillator’s power supply
+C. Using the oscillator only for CW and digital signals
+D. Mechanically isolating the oscillator circuitry from its enclosure
 
 E7H08 (A)
 Which of the following components can be used to reduce thermal drift in crystal oscillators?
-NP0 capacitors
-Toroidal inductors
-Wirewound resistors
-Non-inductive resistors
+A. NP0 capacitors
+B. Toroidal inductors
+C. Wirewound resistors
+D. Non-inductive resistors
 
 E7H09 (A)
 What type of frequency synthesizer circuit uses a phase accumulator, lookup table, digital to analog converter, and a low-pass anti-alias filter?

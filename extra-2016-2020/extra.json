@@ -1002,7 +1002,7 @@
   },
   {
     "id": "E2B03",
-    "correct": -24,
+    "correct": 3,
     "question": "How is an interlaced scanning pattern generated in a fast-scan (NTSC) television system?",
     "answers": [
       "By scanning two fields simultaneously",
@@ -5867,10 +5867,10 @@
     "correct": 3,
     "question": "How can an oscillator’s microphonic responses be reduced?",
     "answers": [
-      " of NP0 capacitors",
-      "minating noise on the oscillator’s power supply",
-      "ng the oscillator only for CW and digital signals",
-      "hanically isolating the oscillator circuitry from its enclosure"
+      "Use of NP0 capacitors",
+      "Eliminating noise on the oscillator’s power supply",
+      "Using the oscillator only for CW and digital signals",
+      "Mechanically isolating the oscillator circuitry from its enclosure"
     ]
   },
   {
@@ -5878,10 +5878,10 @@
     "correct": 0,
     "question": "Which of the following components can be used to reduce thermal drift in crystal oscillators?",
     "answers": [
-      " capacitors",
-      "oidal inductors",
-      "ewound resistors",
-      "-inductive resistors"
+      "NP0 capacitors",
+      "Toroidal inductors",
+      "Wirewound resistors",
+      "Non-inductive resistors"
     ]
   },
   {
