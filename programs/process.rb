@@ -4,17 +4,6 @@ require 'json'
 require 'yaml'
 require 'csv'
 
-class Question
-  attr_accessor :qid, :correct, :question, :anwsers
-
-  def initialize(qid, correct, question, answers)
-    @qid = qid
-    @correct = correct
-    @question = question
-    @answers = answers
-  end
-end
-
 def parse_header(header)
   id = header[0,5]
   correct_char = header[7,1]
