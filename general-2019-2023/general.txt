@@ -272,7 +272,7 @@ C. You must keep a record of all third-party traffic
 D. You must keep a record of the manufacturer of your equipment and the antenna used
 
 G1C13 (C) [97.309(a)(4)]
-What must be done before using a new digital protocol on the air? 
+What must be done before using a new digital protocol on the air?
 A. Type-certify equipment to FCC standards
 B. Obtain an experimental license from the FCC
 C. Publicly document the technical characteristics of the protocol

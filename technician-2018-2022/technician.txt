@@ -62,7 +62,7 @@ C. Amateur operators in a local or regional area whose stations are eligible to 
 D. FCC Regional Field Office
 
 T1A10 (D) [97.3(a)(38), 97.407]
-Which of the following describes the Radio Amateur Civil Emergency Service (RACES)? 
+Which of the following describes the Radio Amateur Civil Emergency Service (RACES)?
 A. A radio service using amateur frequencies for emergency management or civil defense communications
 B. A radio service using amateur stations for emergency management or civil defense communications
 C. An emergency service using amateur operators certified by a civil defense organization as being enrolled in that organization
@@ -139,7 +139,7 @@ C. To allow for transmitter frequency drift
 D. All of these choices are correct
 
 T1B10 (D) [97.301(e), 97.305(c)]
-Which of the following HF bands have frequencies available to the Technician class operator for RTTY and data transmissions? 
+Which of the following HF bands have frequencies available to the Technician class operator for RTTY and data transmissions?
 A. 10 meter, 12 meter, 17 meter, and 40 meter bands
 B. 10 meter, 15 meter, 40 meter, and 80 meter bands
 C. 30 meter band only
@@ -223,7 +223,7 @@ C. Five years
 D. Ten years 
 
 T1C10 (C) [97.5a]
-How soon after passing the examination for your first amateur radio license may you operate a transmitter on an Amateur Radio Service frequency? 
+How soon after passing the examination for your first amateur radio license may you operate a transmitter on an Amateur Radio Service frequency?
 A. Immediately
 B. 30 days after the test date
 C. As soon as your operator/station license grant appears in the FCC’s license database
@@ -286,7 +286,7 @@ C. Beacon, repeater, or space stations
 D. Earth, repeater, or space stations
 
 T1D08 (B) [97.113(a)(3)(iii)]
-In which of the following circumstances may the control operator of an amateur station receive compensation for operating that station? 
+In which of the following circumstances may the control operator of an amateur station receive compensation for operating that station?
 A. When the communication is related to the sale of amateur equipment by the control operator's employer
 B. When the communication is incidental to classroom instruction at an educational institution
 C. When the communication is made to obtain emergency information for a local broadcast station
@@ -398,7 +398,7 @@ C. Only after failing to comply with an FCC notice of violation
 D. Only when presented with a valid warrant by an FCC official or government agent
 
 T1F02 (C) [97.119 (a)]
-When using tactical identifiers such as “Race Headquarters” during a community service net operation, how often must your station transmit the station’s FCC-assigned call sign? 
+When using tactical identifiers such as “Race Headquarters” during a community service net operation, how often must your station transmit the station’s FCC-assigned call sign?
 A. Never, the tactical call is sufficient
 B. Once during every hour
 C. At the end of each communication and every ten minutes during a communication
@@ -699,7 +699,7 @@ C. Remain on frequency without transmitting until asked to do so by the net cont
 D. All of these choices are correct 
 
 T2C08 (A)
-Which of the following is a characteristic of good traffic handling? 
+Which of the following is a characteristic of good traffic handling?
 A. Passing messages exactly as received
 B. Making decisions as to whether messages are worthy of relay or delivery
 C. Ensuring that any newsworthy messages are relayed to the news media
@@ -744,7 +744,7 @@ T3A02 (B)
 Why might the range of VHF and UHF signals be greater in the winter?
 A. Less ionospheric absorption
 B. Less absorption by vegetation
-C. Less solar activity
+C. Less solar activity
 D. Less tropospheric absorption
 
 T3A03 (C)
@@ -821,7 +821,7 @@ T3A13 (C)
 What weather condition would decrease range at microwave frequencies?
 A. High winds
 B. Low barometric pressure
-C. Precipitation
+C. Precipitation
 D. Colder temperatures
 
 T3B01 (C)
@@ -1287,7 +1287,7 @@ C. 3 amperes
 D. 3,000,000 amperes
 
 T5B07 (C)
-If a frequency display calibrated in megahertz shows a reading of 3.525 MHz, what would it show if it were calibrated in kilohertz? 
+If a frequency display calibrated in megahertz shows a reading of 3.525 MHz, what would it show if it were calibrated in kilohertz?
 A. 0.003525 kHz
 B. 35.25 kHz
 C. 3525 kHz
@@ -1371,7 +1371,7 @@ C. Farad
 D. Tesla
 
 T5C06 (A)
-What does the abbreviation “RF” refer to? 
+What does the abbreviation “RF” refer to?
 A. Radio frequency signals of all types
 B. The resonant frequency of a tuned circuit
 C. The real frequency transmitted as opposed to the apparent frequency
@@ -1413,14 +1413,14 @@ C. 12 amperes
 D. 132 amperes
 
 T5C12 (A)
-What is impedance? 
+What is impedance?
 A. A measure of the opposition to AC current flow in a circuit
 B. The inverse of resistance
 C. The Q or Quality Factor of a component
 D. The power handling capability of a component
 
 T5C13 (D)
-What is a unit of impedance? 
+What is a unit of impedance?
 A. Volts
 B. Amperes
 C. Coulombs
@@ -1518,7 +1518,7 @@ C. 12 volts
 D. 20 volts
 
 T5D13 (B)
-What happens to current at the junction of two components in series? 
+What happens to current at the junction of two components in series?
 A. It divides equally between them
 B. It is unchanged
 C. It divides based on the on the value of the components
@@ -1883,7 +1883,7 @@ D. Total Harmonic Distortion
 
 T7A02 (B)
 What is a transceiver?
-A. A type of antenna switch
+A. A type of antenna switch
 B. A unit combining the functions of a transmitter and a receiver
 C. A component in a repeater that filters out unwanted interference
 D. A type of antenna matching network
@@ -2855,7 +2855,7 @@ C. It takes into account the antenna feed line loss
 D. It takes into account the thermal effects of the final amplifier
 
 T0C11 (C)
-What is the definition of duty cycle during the averaging time for RF exposure? 
+What is the definition of duty cycle during the averaging time for RF exposure?
 A. The difference between the lowest power output and the highest power output of a transmitter
 B. The difference between the PEP and average power output of a transmitter
 C. The percentage of time that a transmitter is transmitting
@@ -2869,7 +2869,7 @@ C. RF radiation is limited in range to a few feet
 D. RF radiation is perfectly safe
 
 T0C13 (C)
-If the averaging time for exposure is 6 minutes, how much power density is permitted if the signal is present for 3 minutes and absent for 3 minutes rather than being present for the entire 6 minutes? 
+If the averaging time for exposure is 6 minutes, how much power density is permitted if the signal is present for 3 minutes and absent for 3 minutes rather than being present for the entire 6 minutes?
 A. 3 times as much
 B. 1/2 as much
 C. 2 times as much

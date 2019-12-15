@@ -902,7 +902,7 @@ C. Acknowledgement
 D. Connect
 
 E2D09 (D)
-Which of these digital modes has the fastest data throughput under clear communication conditions? 
+Which of these digital modes has the fastest data throughput under clear communication conditions?
 A. AMTOR
 B. 170 Hz shift, 45 baud RTTY
 C. PSK31
@@ -924,9 +924,9 @@ D. Latitude and longitude
 
 E2D12 (A)
 How does JT65 improve EME communications?
-It can decode signals many dB below the noise floor using FEC
-It controls the receiver to track Doppler shift
-It supplies signals to guide the antenna to track the Moon
+A. It can decode signals many dB below the noise floor using FEC
+B. It controls the receiver to track Doppler shift
+C. It supplies signals to guide the antenna to track the Moon
 D. All of these choices are correct
 
 E2D13 (A)
@@ -3696,10 +3696,10 @@ D. Colpitts, Hartley and Pierce
 
 E7H02 (C)
 Which describes a microphonic?
-An IC used for amplifying microphone signals
-Distortion caused by RF pickup on the microphone cable
-Changes in oscillator frequency due to mechanical vibration
-Excess loading of the microphone by an oscillator
+A. An IC used for amplifying microphone signals
+B. Distortion caused by RF pickup on the microphone cable
+C. Changes in oscillator frequency due to mechanical vibration
+D. Excess loading of the microphone by an oscillator
 
 E7H03 (A)
 How is positive feedback supplied in a Hartley oscillator?
@@ -4024,7 +4024,7 @@ C. Excess 3 code
 D. Gray code
 
 E8C10 (D)
-What is an advantage of Gray code in digital communications where symbols are transmitted as multiple bits
+What is an advantage of Gray code in digital communications where symbols are transmitted as multiple bits?
 A. It increases security
 B. It has more possible states than simple binary
 C. It has more resolution than simple binary
