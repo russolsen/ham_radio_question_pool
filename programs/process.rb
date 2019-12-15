@@ -79,10 +79,13 @@ puts "reading #{text_name}"
 questions = nil
 open(text_name) { |f| questions = read_questions(f) }
 
+puts "writing #{json_name}"
 open(json_name, 'w') {|f| f.puts(JSON.pretty_generate(questions))}
 
+puts "writing #{yaml_name}"
 open(yaml_name, 'w') {|f| f.puts(YAML.dump(questions))}
 
+puts "writing #{csv_name}"
 CSV.open(csv_name, 'w') do |csv|
   csv << ['id', 'correct', 'question', 'a', 'b', 'c', 'd']
   questions.each do |q|

@@ -1456,9 +1456,9 @@
     "correct": 0,
     "question": "How does JT65 improve EME communications?",
     "answers": [
-      "can decode signals many dB below the noise floor using FEC",
-      "controls the receiver to track Doppler shift",
-      "supplies signals to guide the antenna to track the Moon",
+      "It can decode signals many dB below the noise floor using FEC",
+      "It controls the receiver to track Doppler shift",
+      "It supplies signals to guide the antenna to track the Moon",
       "All of these choices are correct"
     ]
   },
@@ -5812,10 +5812,10 @@
     "correct": 2,
     "question": "Which describes a microphonic?",
     "answers": [
-      "IC used for amplifying microphone signals",
-      "tortion caused by RF pickup on the microphone cable",
-      "nges in oscillator frequency due to mechanical vibration",
-      "ess loading of the microphone by an oscillator"
+      "An IC used for amplifying microphone signals",
+      "Distortion caused by RF pickup on the microphone cable",
+      "Changes in oscillator frequency due to mechanical vibration",
+      "Excess loading of the microphone by an oscillator"
     ]
   },
   {
@@ -6327,7 +6327,7 @@
   {
     "id": "E8C10",
     "correct": 3,
-    "question": "What is an advantage of Gray code in digital communications where symbols are transmitted as multiple bits",
+    "question": "What is an advantage of Gray code in digital communications where symbols are transmitted as multiple bits?",
     "answers": [
       "It increases security",
       "It has more possible states than simple binary",
