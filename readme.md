@@ -1,4 +1,4 @@
-# question_pool
+# Ham Radio Question Pool
 
 Amateur radio question pools in various formats.
 
@@ -36,8 +36,6 @@ accessable in various machine readable formats, including:
 * Simple plain text
 
 ## Usage
-
-*WARNING: While I have done my best to spot check the data provided here, I am still in the process of wading through all of this and there may be errors!*
 
 The JSON version looks like this:
 
