@@ -1,0 +1,4354 @@
+E1A01 (A) [97.305, 97.307(b)]
+Which of the following carrier frequencies is illegal for LSB AFSK emissions on the 17 meter band RTTY and data segment of 18.068 to 18.110 MHz?
+A. 18.068 MHz
+B. 18.100 MHz
+C. 18.107 MHz
+D. 18.110 MHz
+
+E1A02 (D) [97.301, 97.305]
+When using a transceiver that displays the carrier frequency of phone signals, which of the following displayed frequencies represents the lowest frequency at which a properly adjusted LSB emission will be totally within the band?
+A. The exact lower band edge
+B. 300 Hz above the lower band edge
+C. 1 kHz above the lower band edge
+D. 3 kHz above the lower band edge
+
+E1A03 (C) [97.305, 97.307(b)]
+What is the maximum legal carrier frequency on the 20 meter band for transmitting USB AFSK digital signals having a 1 kHz bandwidth?
+A. 14.070 MHz
+B. 14.100 MHz
+C. 14.149 MHz
+D. 14.349 MHz
+
+E1A04 (C) [97.301, 97.305] 
+With your transceiver displaying the carrier frequency of phone signals, you hear a DX station calling CQ on 3.601 MHz LSB. Is it legal to return the call using lower sideband on the same frequency?
+A. Yes, because the DX station initiated the contact
+B. Yes, because the displayed frequency is within the 75 meter phone band segment
+C. No, the sideband will extend beyond the edge of the phone band segment
+D. No, U.S. stations are not permitted to use phone emissions below 3.610 MHz
+
+E1A05 (C) [97.313]
+What is the maximum power output permitted on the 60 meter band?
+A. 50 watts PEP effective radiated power relative to an isotropic radiator
+B. 50 watts PEP effective radiated power relative to a dipole
+C. 100 watts PEP effective radiated power relative to the gain of a half-wave dipole
+D. 100 watts PEP effective radiated power relative to an isotropic radiator
+
+E1A06 (B) [97.303(h)(1)]
+Where must the carrier frequency of a CW signal be set to comply with FCC rules for 60 meter operation?
+A. At the lowest frequency of the channel
+B. At the center frequency of the channel
+C. At the highest frequency of the channel
+D. On any frequency where the signal's sidebands are within the channel
+
+E1A07 (C) [97.313(k)] 
+What is the maximum power permitted on the 2200 meter band?
+A. 50 watts PEP
+B. 100 watts PEP
+C. 1 watt EIRP (Equivalent isotropic radiated power)
+D. 5 watts EIRP (Equivalent isotropic radiated power)
+
+E1A08 (B) [97.219]
+If a station in a message forwarding system inadvertently forwards a message that is in violation of FCC rules, who is primarily accountable for the rules violation?
+A. The control operator of the packet bulletin board station
+B. The control operator of the originating station
+C. The control operators of all the stations in the system
+D. The control operators of all the stations in the system not authenticating the source from which they accept communications
+
+E1A09 (A) [97.219]
+What action or actions should you take if your digital message forwarding station inadvertently forwards a communication that violates FCC rules?
+A. Discontinue forwarding the communication as soon as you become aware of it
+B. Notify the originating station that the communication does not comply with FCC rules
+C. Notify the nearest FCC Field Engineers office
+D. All these choices are correct
+
+E1A10 (A) [97.11]
+If an amateur station is installed aboard a ship or aircraft, what condition must be met before the station is operated?
+A. Its operation must be approved by the master of the ship or the pilot in command of the aircraft
+B. The amateur station operator must agree not to transmit when the main radio of the ship or aircraft is in use
+C. The amateur station must have a power supply that is completely independent of the main ship or aircraft power supply
+D. The amateur operator must have an FCC Marine or Aircraft endorsement on his or her amateur license
+
+E1A11 (B) [97.5]
+Which of the following describes authorization or licensing required when operating an amateur station aboard a U.S.-registered vessel in international waters?
+A. Any amateur license with an FCC Marine or Aircraft endorsement
+B. Any FCC-issued amateur license
+C. Only General Class or higher amateur licenses
+D. An unrestricted Radiotelephone Operator Permit
+
+E1A12 (C)
+What special operating frequency restrictions are imposed on slow scan TV transmissions?
+A. None; they are allowed on all amateur frequencies
+B. They are restricted to 7.245 MHz, 14.245 MHz, 21.345 MHz, and 28.945 MHz
+C. They are restricted to phone band segments
+D. They are not permitted above 54 MHz
+
+E1A13 (B) [97.5]
+Who must be in physical control of the station apparatus of an amateur station aboard any vessel or craft that is documented or registered in the United States?
+A. Only a person with an FCC Marine Radio license grant
+B. Any person holding an FCC issued amateur license or who is authorized for alien reciprocal operation
+C. Only a person named in an amateur station license grant
+D. Any person named in an amateur station license grant or a person holding an unrestricted Radiotelephone Operator Permit
+
+E1A14 (D) [97.313(l)]
+Except in some parts of Alaska, what is the maximum power permitted on the 630 meter band?
+A. 50 watts PEP
+B. 100 watts PEP
+C. 1 watt EIRP
+D. 5 watts EIRP
+
+E1B01 (D) [97.3]
+Which of the following constitutes a spurious emission?
+A. An amateur station transmission made without the proper call sign identification
+B. A signal transmitted to prevent its detection by any station other than the intended recipient
+C. Any transmitted signal that unintentionally interferes with another licensed radio station
+D. An emission outside the signal's necessary bandwidth that can be reduced or eliminated without affecting the information transmitted
+
+E1B02 (A) [97.307(f)(2)]
+Which of the following is an acceptable bandwidth for Digital Radio Mondiale (DRM) based voice or SSTV digital transmissions made on the HF amateur bands?
+A. 3 kHz
+B. 10 kHz
+C. 15 kHz
+D. 20 kHz
+
+E1B03 (A) [97.13]
+Within what distance must an amateur station protect an FCC monitoring facility from harmful interference?
+A. 1 mile
+B. 3 miles
+C. 10 miles
+D. 30 miles
+
+E1B04 (C) [97.13, 1.1305-1.1319]
+What must be done before placing an amateur station within an officially designated wilderness area or wildlife preserve, or an area listed in the National Register of Historic Places?
+A. A proposal must be submitted to the National Park Service
+B. A letter of intent must be filed with the Environmental Protection Agency
+C. An Environmental Assessment must be submitted to the FCC
+D. A form FSD-15 must be submitted to the Department of the Interior
+
+E1B05 (C) [97.3]
+What is the National Radio Quiet Zone?
+A. An area in Puerto Rico surrounding the Arecibo Radio Telescope
+B. An area in New Mexico surrounding the White Sands Test Area
+C. An area surrounding the National Radio Astronomy Observatory
+D. An area in Florida surrounding Cape Canaveral
+
+E1B06 (A) [97.15]
+Which of the following additional rules apply if you are installing an amateur station antenna at a site at or near a public use airport?
+A. You may have to notify the Federal Aviation Administration and register it with the FCC as required by Part 17 of the FCC rules
+B. You must submit engineering drawings to the FAA
+C. You must file an Environmental Impact Statement with the EPA before construction begins
+D. You must obtain a construction permit from the airport zoning authority
+
+E1B07 (C) [97.15]
+To what type of regulations does PRB-1 apply?
+A. Homeowners associations
+B. FAA tower height limits
+C. State and local zoning
+D. Use of wireless devices in vehicles
+
+E1B08 (D) [97.121]
+What limitations may the FCC place on an amateur station if its signal causes interference to domestic broadcast reception, assuming that the receivers involved are of good engineering design?
+A. The amateur station must cease operation
+B. The amateur station must cease operation on all frequencies below 30 MHz
+C. The amateur station must cease operation on all frequencies above 30 MHz
+D. The amateur station must avoid transmitting during certain hours on frequencies that cause the interference
+
+E1B09 (C) [97.407]
+Which amateur stations may be operated under RACES rules?
+A. Only those club stations licensed to Amateur Extra Class operators
+B. Any FCC-licensed amateur station except a Technician Class
+C. Any FCC-licensed amateur station certified by the responsible civil defense organization for the area served
+D. Any FCC-licensed amateur station participating in the Military Auxiliary Radio System (MARS)
+
+E1B10 (A) [97.407]
+What frequencies are authorized to an amateur station operating under RACES rules?
+A. All amateur service frequencies authorized to the control operator
+B. Specific segments in the amateur service MF, HF, VHF and UHF bands
+C. Specific local government channels
+D. Military Auxiliary Radio System (MARS) channels
+
+E1B11 (B) [97.15]
+What does PRB-1 require of regulations affecting amateur radio?
+A. No limitations may be placed on antenna size or placement
+B. Reasonable accommodations of amateur radio must be made
+C. Amateur radio operations must be permitted in any private residence
+D. Use of wireless devices in a vehicle is exempt from regulation
+
+E1B12 (A) [97.303(b)]
+What must the control operator of a repeater operating in the 70 cm band do if a radiolocation system experiences interference from that repeater?
+A. Cease operation or make changes to the repeater to mitigate the interference
+B. File an FAA NOTAM (Notice to Airmen) with the repeater system's ERP, call sign, and six-character grid locator
+C. Reduce the repeater antenna HAAT (Height Above Average Terrain)
+D. All these choices are correct
+
+E1C01 (D) [97.303]
+What is the maximum bandwidth for a data emission on 60 meters?
+A. 60 Hz
+B. 170 Hz
+C. 1.5 kHz
+D. 2.8 kHz
+
+E1C02 (C) [97.117]
+Which of the following types of communications may be transmitted to amateur stations in foreign countries?
+A. Business-related messages for non-profit organizations
+B. Messages intended for users of the maritime satellite service
+C. Communications incidental to the purpose of the amateur service and remarks of a personal nature
+D. All these choices are correct
+
+E1C03 (B) [97.109(d)]
+How do the control operator responsibilities of a station under automatic control differ from one under local control?
+A. Under local control there is no control operator
+B. Under automatic control the control operator is not required to be present at the control point
+C. Under automatic control there is no control operator
+D. Under local control a control operator is not required to be present at a control point
+
+E1C04 (A)
+What is meant by IARP?
+A. An international amateur radio permit that allows U.S. amateurs to operate in certain countries of the Americas
+B. The internal amateur radio practices policy of the FCC
+C. An indication of increased antenna reflected power
+D. A forecast of intermittent aurora radio propagation
+
+E1C05 (A) [97.221(c)(1), 97.115(c)]
+When may an automatically controlled station originate third party communications?
+A. Never
+B. Only when transmitting RTTY or data emissions
+C. When agreed upon by the sending or receiving station
+D. When approved by the National Telecommunication and Information Administration
+
+E1C06 (C)
+Which of the following is required in order to operate in accordance with CEPT rules in foreign countries where permitted?
+A. You must identify in the official language of the country in which you are operating
+B. The U.S. embassy must approve of your operation
+C. You must bring a copy of FCC Public Notice DA 16-1048
+D. You must append "/CEPT" to your call sign
+
+E1C07 (D) [97.3(a)(8)]
+At what level below a signal's mean power level is its bandwidth determined according to FCC rules?
+A. 3 dB
+B. 6 dB
+C. 23 dB
+D. 26 dB
+
+E1C08 (B) [97.213]
+What is the maximum permissible duration of a remotely controlled station's transmissions if its control link malfunctions?
+A. 30 seconds
+B. 3 minutes
+C. 5 minutes
+D. 10 minutes
+
+E1C09 (B) [97.307]
+What is the highest modulation index permitted at the highest modulation frequency for angle modulation below 29.0 MHz?
+A. 0.5
+B. 1.0
+C. 2.0
+D. 3.0
+
+E1C10 (A) [97.307]
+What is the permitted mean power of any spurious emission relative to the mean power of the fundamental emission from a station transmitter or external RF amplifier installed after January 1, 2003 and transmitting on a frequency below 30 MHz?
+A. At least 43 dB below
+B. At least 53 dB below
+C. At least 63 dB below
+D. At least 73 dB below
+
+E1C11 (A) [97.5]
+Which of the following operating arrangements allows an FCC-licensed U.S. citizen to operate in many European countries, and alien amateurs from many European countries to operate in the U.S.?
+A. CEPT agreement
+B. IARP agreement
+C. ITU reciprocal license
+D. All these choices are correct
+
+E1C12 (D) [97.305(c)]
+On what portion of the 630 meter band are phone emissions permitted?
+A. None
+B. Only the top 3 kHz
+C. Only the bottom 3 kHz
+D. The entire band
+
+E1C13 (C) [97.303(g)]
+What notifications must be given before transmitting on the 630 meter or 2200 meter bands?
+A. A special endorsement must be requested from the FCC
+B. An environmental impact statement must be filed with the Department of the Interior
+C. Operators must inform the Utilities Telecom Council of their call sign and coordinates of the station
+D. Operators must inform the FAA of their intent to operate, giving their call sign and distance to the nearest runway
+
+E1C14 (B) [97.303(g)]
+How long must an operator wait after filing a notification with the Utilities Telecom Commission before operating on the 2200 meter or 630 meter band?
+A. Operators must not operate until approval is received
+B. Operators may operate after 30 days, providing they have not been told that their station is within 1 km of PLC systems using those frequencies
+C. Operators may not operate until a test signal has been transmitted in coordination with the local power company
+D. Operations may commence immediately, and may continue unless interference is reported by the UTC
+
+E1D01 (A) [97.3]
+What is the definition of telemetry?
+A. One-way transmission of measurements at a distance from the measuring instrument
+B. Two-way transmissions in excess of 1000 feet
+C. Two-way transmissions of data
+D. One-way transmission that initiates, modifies, or terminates the functions of a device at a distance
+
+E1D02 (A) [97.211(b)]
+Which of the following may transmit special codes intended to obscure the meaning of messages?
+A. Telecommand signals from a space telecommand station
+B. Data containing personal information 
+C. Auxiliary relay links carrying repeater audio 
+D. Binary control characters
+
+E1D03 (B) [97.3(a)(45)]
+What is a space telecommand station?
+A. An amateur station located on the surface of the Earth for communication with other Earth stations by means of Earth satellites
+B. An amateur station that transmits communications to initiate, modify or terminate functions of a space station
+C. An amateur station located in a satellite or a balloon more than 50 kilometers above the surface of the earth
+D. An amateur station that receives telemetry from a satellite or balloon more than 50 kilometers above the surface of the earth
+
+E1D04 (A) [97.119(a)]
+Which of the following is required in the identification transmissions from a balloon-borne telemetry station?
+A. Call sign
+B. The output power of the balloon transmitter
+C. The station's six-character Maidenhead grid locator
+D. All these choices are correct
+
+E1D05 (D) [97.213(d)]
+What must be posted at the station location of a station being operated by telecommand on or within 50 km of the earth's surface?
+A. A photocopy of the station license
+B. A label with the name, address, and telephone number of the station licensee
+C. A label with the name, address, and telephone number of the control operator
+D. All these choices are correct
+
+E1D06 (A) [97.215(c)]
+What is the maximum permitted transmitter output power when operating a model craft by telecommand?
+A. 1 watt
+B. 2 watts
+C. 5 watts
+D. 100 watts
+
+E1D07 (A) [97.207]
+Which HF amateur bands have frequencies authorized for space stations?
+A. Only the 40, 20, 17, 15, 12, and 10 meter bands
+B. Only the 40, 20, 17, 15, and 10 meter bands
+C. Only the 40, 30, 20, 15, 12, and 10 meter bands
+D. All HF bands
+
+E1D08 (D) [97.207]
+Which VHF amateur bands have frequencies authorized for space stations?
+A. 6 meters and 2 meters
+B. 6 meters, 2 meters, and 1.25 meters
+C. 2 meters and 1.25 meters
+D. 2 meters
+
+E1D09 (B) [97.207]
+Which UHF amateur bands have frequencies authorized for space stations?
+A. 70 cm only
+B. 70 cm and 13 cm
+C. 70 cm and 33 cm
+D. 33 cm and 13 cm
+
+E1D10 (B) [97.211]
+Which amateur stations are eligible to be telecommand stations of space stations (subject to the privileges of the class of operator license held by the control operator of the station)?
+A. Any amateur station designated by NASA
+B. Any amateur station so designated by the space station licensee
+C. Any amateur station so designated by the ITU
+D. All these choices are correct
+
+E1D11 (D) [97.209]
+Which amateur stations are eligible to operate as Earth stations?
+A. Any amateur station whose licensee has filed a pre-space notification with the FCC's International Bureau
+B. Only those of General, Advanced or Amateur Extra Class operators
+C. Only those of Amateur Extra Class operators
+D. Any amateur station, subject to the privileges of the class of operator license held by the control operator
+
+E1D12 (A) [97.207(e), 97.203(g)]
+Which of the following amateur stations may transmit one-way communications?
+A. A space station, beacon station, or telecommand station
+B. A local repeater or linked repeater station
+C. A message forwarding station or automatically controlled digital station
+D. All these choices are correct 
+
+E1E01 (A) [97.527]
+For which types of out-of-pocket expenses do the Part 97 rules state that VEs and VECs may be reimbursed?
+A. Preparing, processing, administering, and coordinating an examination for an amateur radio operator license
+B. Teaching an amateur operator license examination preparation course
+C. No expenses are authorized for reimbursement
+D. Providing amateur operator license examination preparation training materials
+
+E1E02 (C) [97.523]
+Who does Part 97 task with maintaining the pools of questions for all U.S. amateur license examinations?
+A. The VEs
+B. The FCC
+C. The VECs
+D. The ARRL
+
+E1E03 (C) [97.521]
+What is a Volunteer Examiner Coordinator?
+A. A person who has volunteered to administer amateur operator license examinations
+B. A person who has volunteered to prepare amateur operator license examinations
+C. An organization that has entered into an agreement with the FCC to coordinate, prepare, and administer amateur operator license examinations
+D. The person who has entered into an agreement with the FCC to be the VE session manager
+
+E1E04 (D) [97.509, 97.525]
+Which of the following best describes the Volunteer Examiner accreditation process?
+A. Each General, Advanced and Amateur Extra Class operator is automatically accredited as a VE when the license is granted
+B. The amateur operator applying must pass a VE examination administered by the FCC Enforcement Bureau
+C. The prospective VE obtains accreditation from the FCC
+D. The procedure by which a VEC confirms that the VE applicant meets FCC requirements to serve as an examiner
+
+E1E05 (B) [97.503]
+What is the minimum passing score on all amateur operator license examinations?
+A. Minimum passing score of 70%
+B. Minimum passing score of 74%
+C. Minimum passing score of 80%
+D. Minimum passing score of 77%
+
+E1E06 (C) [97.509]
+Who is responsible for the proper conduct and necessary supervision during an amateur operator license examination session?
+A. The VEC coordinating the session
+B. The FCC
+C. Each administering VE
+D. The VE session manager
+
+E1E07 (B) [97.509]
+What should a VE do if a candidate fails to comply with the examiner's instructions during an amateur operator license examination?
+A. Warn the candidate that continued failure to comply will result in termination of the examination
+B. Immediately terminate the candidate's examination
+C. Allow the candidate to complete the examination, but invalidate the results
+D. Immediately terminate everyone's examination and close the session
+
+E1E08 (C) [97.509]
+To which of the following examinees may a VE not administer an examination?
+A. Employees of the VE
+B. Friends of the VE
+C. Relatives of the VE as listed in the FCC rules
+D. All these choices are correct
+
+E1E09 (A) [97.509]
+What may be the penalty for a VE who fraudulently administers or certifies an examination?
+A. Revocation of the VE's amateur station license grant and the suspension of the VE's amateur operator license grant
+B. A fine of up to $1000 per occurrence
+C. A sentence of up to one year in prison
+D. All these choices are correct
+
+E1E10 (C) [97.509(h)]
+What must the administering VEs do after the administration of a successful examination for an amateur operator license?
+A. They must collect and send the documents to the NCVEC for grading
+B. They must collect and submit the documents to the coordinating VEC for grading
+C. They must submit the application document to the coordinating VEC according to the coordinating VEC instructions
+D. They must collect and send the documents to the FCC according to instructions
+
+E1E11 (B) [97.509(m)]
+What must the VE team do if an examinee scores a passing grade on all examination elements needed for an upgrade or new license?
+A. Photocopy all examination documents and forward them to the FCC for processing
+B. Three VEs must certify that the examinee is qualified for the license grant and that they have complied with the administering VE requirements
+C. Issue the examinee the new or upgrade license
+D. All these choices are correct
+
+E1E12 (A) [97.509(j)]
+What must the VE team do with the application form if the examinee does not pass the exam?
+A. Return the application document to the examinee
+B. Maintain the application form with the VEC's records
+C. Send the application form to the FCC and inform the FCC of the grade
+D. Destroy the application form
+
+E1F01 (B) [97.305]
+On what frequencies are spread spectrum transmissions permitted?
+A. Only on amateur frequencies above 50 MHz
+B. Only on amateur frequencies above 222 MHz
+C. Only on amateur frequencies above 420 MHz
+D. Only on amateur frequencies above 144 MHz
+
+E1F02 (C) [97.107]
+What privileges are authorized in the U.S. to persons holding an amateur service license granted by the government of Canada?
+A. None, they must obtain a U.S. license
+B. All privileges of the Amateur Extra Class license
+C. The operating terms and conditions of the Canadian amateur service license, not to exceed U.S. Amateur Extra Class license privileges
+D. Full privileges, up to and including those of the Amateur Extra Class license, on the 80, 40, 20, 15, and 10 meter bands
+
+E1F03 (A) [97.315]
+Under what circumstances may a dealer sell an external RF power amplifier capable of operation below 144 MHz if it has not been granted FCC certification?
+A. It was purchased in used condition from an amateur operator and is sold to another amateur operator for use at that operator's station
+B. The equipment dealer assembled it from a kit
+C. It was imported from a manufacturer in a country that does not require certification of RF power amplifiers
+D. It was imported from a manufacturer in another country and was certificated by that country's government
+
+E1F04 (A) [97.3]
+Which of the following geographic descriptions approximately describes "Line A"?
+A. A line roughly parallel to and south of the border between the U.S. and Canada
+B. A line roughly parallel to and west of the U.S. Atlantic coastline
+C. A line roughly parallel to and north of the border between the U.S. and Mexico
+D. A line roughly parallel to and east of the U.S. Pacific coastline
+
+E1F05 (D) [97.303]
+Amateur stations may not transmit in which of the following frequency segments if they are located in the contiguous 48 states and north of Line A?
+A. 440 MHz - 450 MHz
+B. 53 MHz - 54 MHz
+C. 222 MHz - 223 MHz
+D. 420 MHz - 430 MHz
+
+E1F06 (A) [1.931]
+Under what circumstances might the FCC issue a Special Temporary Authority (STA) to an amateur station?
+A. To provide for experimental amateur communications
+B. To allow regular operation on Land Mobile channels
+C. To provide additional spectrum for personal use
+D. To provide temporary operation while awaiting normal licensing
+
+E1F07 (D) [97.113]
+When may an amateur station send a message to a business?
+A. When the total money involved does not exceed $25
+B. When the control operator is employed by the FCC or another government agency
+C. When transmitting international third-party communications
+D. When neither the amateur nor his or her employer has a pecuniary interest in the communications
+
+E1F08 (A) [97.113(c)]
+Which of the following types of amateur station communications are prohibited?
+A. Communications transmitted for hire or material compensation, except as otherwise provided in the rules
+B. Communications that have political content, except as allowed by the Fairness Doctrine
+C. Communications that have religious content
+D. Communications in a language other than English
+
+E1F09 (D) [97.311]
+Which of the following conditions apply when transmitting spread spectrum emissions?
+A. A station transmitting SS emission must not cause harmful interference to other stations employing other authorized emissions
+B. The transmitting station must be in an area regulated by the FCC or in a country that permits SS emissions
+C. The transmission must not be used to obscure the meaning of any communication
+D. All these choices are correct
+
+E1F10 (B) [97.201]
+Who may be the control operator of an auxiliary station?
+A. Any licensed amateur operator
+B. Only Technician, General, Advanced or Amateur Extra Class operators
+C. Only General, Advanced or Amateur Extra Class operators
+D. Only Amateur Extra Class operators
+
+E1F11 (D) [97.317]
+Which of the following best describes one of the standards that must be met by an external RF power amplifier if it is to qualify for a grant of FCC certification?
+A. It must produce full legal output when driven by not more than 5 watts of mean RF input power
+B. It must be capable of external RF switching between its input and output networks
+C. It must exhibit a gain of 0 dB or less over its full output range
+D. It must satisfy the FCC's spurious emission standards when operated at the lesser of 1500 watts or its full output power
+
+E2A01 (C)
+What is the direction of an ascending pass for an amateur satellite?
+A. From west to east
+B. From east to west
+C. From south to north
+D. From north to south
+
+E2A02 (D)
+Which of the following occurs when a satellite is using an inverted linear transponder?
+A. Doppler shift is reduced because the uplink and downlink shifts are in opposite directions
+B. Signal position in the band is reversed
+C. Upper sideband on the uplink becomes lower sideband on the downlink, and vice versa
+D. All these choices are correct
+
+E2A03 (D)
+How is the signal inverted by an inverting linear transponder?
+A. The signal is detected and remodulated on the reverse sideband
+B. The signal is passed through a non-linear filter
+C. The signal is reduced to I and Q components and the Q component is filtered out
+D. The signal is passed through a mixer and the difference rather than the sum is transmitted
+
+E2A04 (B)
+What is meant by the term mode? as applied to an amateur radio satellite?
+A. Whether the satellite is in a low earth or geostationary orbit
+B. The satellite's uplink and downlink frequency bands
+C. The satellite's orientation with respect to the Earth
+D. Whether the satellite is in a polar or equatorial orbit
+
+E2A05 (D)
+What do the letters in a satellite's mode designator specify?
+A. Power limits for uplink and downlink transmissions
+B. The location of the ground control station
+C. The polarization of uplink and downlink signals
+D. The uplink and downlink frequency ranges
+
+E2A06 (A)
+What are Keplerian elements?
+A. Parameters that define the orbit of a satellite
+B. Phase reversing elements in a Yagi antenna
+C. High-emission heater filaments used in magnetron tubes
+D. Encrypting codes used for spread spectrum modulation
+
+E2A07 (D)
+Which of the following types of signals can be relayed through a linear transponder?
+A. FM and CW
+B. SSB and SSTV
+C. PSK and packet
+D. All these choices are correct
+
+E2A08 (B)
+Why should effective radiated power to a satellite that uses a linear transponder be limited?
+A. To prevent creating errors in the satellite telemetry
+B. To avoid reducing the downlink power to all other users
+C. To prevent the satellite from emitting out-of-band signals
+D. To avoid interfering with terrestrial QSOs
+
+E2A09 (A)
+What do the terms L band and S band specify regarding satellite communications?
+A. The 23 centimeter and 13 centimeter bands
+B. The 2 meter and 70 centimeter bands
+C. FM and Digital Store-and-Forward systems
+D. Which sideband to use
+
+E2A10 (B)
+What type of satellite appears to stay in one position in the sky?
+A. HEO
+B. Geostationary
+C. Geomagnetic
+D. LEO
+
+E2A11 (B)
+What type of antenna can be used to minimize the effects of spin modulation and Faraday rotation?
+A. A linearly polarized antenna
+B. A circularly polarized antenna
+C. An isotropic antenna
+D. A log-periodic dipole array
+
+E2A12 (C)
+What is the purpose of digital store-and-forward functions on an amateur radio satellite?
+A. To upload operational software for the transponder
+B. To delay download of telemetry between satellites
+C. To store digital messages in the satellite for later download by other stations
+D. To relay messages between satellites
+
+E2A13 (B)
+Which of the following techniques is normally used by low Earth orbiting digital satellites to relay messages around the world?
+A. Digipeating
+B. Store-and-forward
+C. Multi-satellite relaying
+D. Node hopping
+
+E2B01 (A)
+How many times per second is a new frame transmitted in a fast-scan (NTSC) television system?
+A. 30
+B. 60
+C. 90
+D. 120
+
+E2B02 (C)
+How many horizontal lines make up a fast-scan (NTSC) television frame?
+A. 30
+B. 60
+C. 525
+D. 1080
+
+E2B03 (D)
+How is an interlaced scanning pattern generated in a fast-scan (NTSC) television system?
+A. By scanning two fields simultaneously
+B. By scanning each field from bottom to top
+C. By scanning lines from left to right in one field and right to left in the next
+D. By scanning odd numbered lines in one field and even numbered lines in the next
+
+E2B04 (A)
+How is color information sent in analog SSTV?
+A. Color lines are sent sequentially
+B. Color information is sent on a 2.8 kHz subcarrier
+C. Color is sent in a color burst at the end of each line
+D. Color is amplitude modulated on the frequency modulated intensity signal
+
+E2B05 (C)
+Which of the following describes the use of vestigial sideband in analog fast-scan TV transmissions?
+A. The vestigial sideband carries the audio information
+B. The vestigial sideband contains chroma information
+C. Vestigial sideband reduces bandwidth while allowing for simple video detector circuitry
+D. Vestigial sideband provides high frequency emphasis to sharpen the picture
+
+E2B06 (A)
+What is vestigial sideband modulation?
+A. Amplitude modulation in which one complete sideband and a portion of the other are transmitted
+B. A type of modulation in which one sideband is inverted
+C. Narrow-band FM modulation achieved by filtering one sideband from the audio before frequency modulating the carrier
+D. Spread spectrum modulation achieved by applying FM modulation following single sideband amplitude modulation
+
+E2B07 (B)
+What is the name of the signal component that carries color information in NTSC video?
+A. Luminance
+B. Chroma
+C. Hue
+D. Spectral intensity
+
+E2B08 (A)
+What technique allows commercial analog TV receivers to be used for fast-scan TV operations on the 70 cm band?
+A. Transmitting on channels shared with cable TV
+B. Using converted satellite TV dishes
+C. Transmitting on the abandoned TV channel 2
+D. Using USB and demodulating the signal with a computer sound card
+
+E2B09 (D)
+What hardware, other than a receiver with SSB capability and a suitable computer, is needed to decode SSTV using Digital Radio Mondiale (DRM)?
+A. A special IF converter
+B. A special front end limiter
+C. A special notch filter to remove synchronization pulses
+D. No other hardware is needed
+
+E2B10 (A)
+What aspect of an analog slow-scan television signal encodes the brightness of the picture?
+A. Tone frequency
+B. Tone amplitude
+C. Sync amplitude
+D. Sync frequency
+
+E2B11 (B)
+What is the function of the Vertical Interval Signaling (VIS) code sent as part of an SSTV transmission?
+A. To lock the color burst oscillator in color SSTV images
+B. To identify the SSTV mode being used
+C. To provide vertical synchronization
+D. To identify the call sign of the station transmitting
+
+E2B12 (A)
+What signals SSTV receiving software to begin a new picture line?
+A. Specific tone frequencies
+B. Elapsed time
+C. Specific tone amplitudes
+D. A two-tone signal
+
+E2C01 (D)
+What indicator is required to be used by U.S.-licensed operators when operating a station via remote control and the remote transmitter is located in the U.S.?
+A. / followed by the USPS two-letter abbreviation for the state in which the remote station is located
+B. /R# where # is the district of the remote station
+C. / followed by the ARRL Section of the remote station
+D. No additional indicator is required
+
+E2C02 (A)
+Which of the following best describes the term self-spotting? in connection with HF contest operating?
+A. The often-prohibited practice of posting one's own call sign and frequency on a spotting network
+B. The acceptable practice of manually posting the call signs of stations on a spotting network
+C. A manual technique for rapidly zero beating or tuning to a station's frequency before calling that station
+D. An automatic method for rapidly zero beating or tuning to a station's frequency before calling that station
+
+E2C03 (A)
+From which of the following bands is amateur radio contesting generally excluded?
+A. 30 meters
+B. 6 meters
+C. 2 meters
+D. 33 centimeters
+
+E2C04 (B)
+Which of the following frequencies are sometimes used for amateur radio mesh networks?
+A. HF frequencies where digital communications are permitted
+B. Frequencies shared with various unlicensed wireless data services
+C. Cable TV channels 41 through 43
+D. The 60 meter band channel centered on 5373 kHz
+
+E2C05 (B)
+What is the function of a DX QSL Manager?
+A. To allocate frequencies for DXpeditions
+B. To handle the receiving and sending of confirmation cards for a DX station
+C. To run a net to allow many stations to contact a rare DX station
+D. To relay calls to and from a DX station
+
+E2C06 (C)
+During a VHF/UHF contest, in which band segment would you expect to find the highest level of SSB or CW activity?
+A. At the top of each band, usually in a segment reserved for contests
+B. In the middle of each band, usually on the national calling frequency
+C. In the weak signal segment of the band, with most of the activity near the calling frequency
+D. In the middle of the band, usually 25 kHz above the national calling frequency
+
+E2C07 (A)
+What is the Cabrillo format?
+A. A standard for submission of electronic contest logs
+B. A method of exchanging information during a contest QSO
+C. The most common set of contest rules
+D. The rules of order for meetings between contest sponsors
+
+E2C08 (B)
+Which of the following contacts may be confirmed through the U.S. QSL bureau system?
+A. Special event contacts between stations in the U.S.
+B. Contacts between a U.S. station and a non-U.S. station
+C. Repeater contacts between U.S. club members
+D. Contacts using tactical call signs
+
+E2C09 (C)
+What type of equipment is commonly used to implement an amateur radio mesh network?
+A. A 2 meter VHF transceiver with a 1200 baud modem
+B. An optical cable connection between the USB ports of 2 separate computers
+C. A wireless router running custom firmware
+D. A 440 MHz transceiver with a 9600 baud modem
+
+E2C10 (D)
+Why might a DX station state that they are listening on another frequency?
+A. Because the DX station may be transmitting on a frequency that is prohibited to some responding stations
+B. To separate the calling stations from the DX station
+C. To improve operating efficiency by reducing interference
+D. All these choices are correct
+
+E2C11 (A)
+How should you generally identify your station when attempting to contact a DX station during a contest or in a pileup?
+A. Send your full call sign once or twice
+B. Send only the last two letters of your call sign until you make contact
+C. Send your full call sign and grid square
+D. Send the call sign of the DX station three times, the words this is,then your call sign three times
+
+E2C12 (C)
+What technique do individual nodes use to form a mesh network?
+A. Forward error correction and Viterbi codes
+B. Acting as store-and-forward digipeaters
+C. Discovery and link establishment protocols
+D. Custom code plugs for the local trunking systems
+
+E2D01 (B)
+Which of the following digital modes is designed for meteor scatter communications?
+A. WSPR
+B. MSK144
+C. Hellschreiber
+D. APRS
+
+E2D02 (D)
+Which of the following is a good technique for making meteor scatter contacts?
+A. 15-second timed transmission sequences with stations alternating based on location
+B. Use of special digital modes
+C. Short transmissions with rapidly repeated call signs and signal reports
+D. All these choices are correct
+
+E2D03 (D)
+Which of the following digital modes is especially useful for EME communications?
+A. MSK144
+B. PACTOR III
+C. Olivia
+D. JT65
+
+E2D04 (C)
+What technology is used to track, in real time, balloons carrying amateur radio transmitters?
+A. Ultrasonics
+B. Bandwidth compressed LORAN
+C. APRS
+D. Doppler shift of beacon signals
+
+E2D05 (B)
+What is one advantage of the JT65 mode?
+A. Uses only a 65 Hz bandwidth
+B. The ability to decode signals which have a very low signal-to-noise ratio
+C. Easily copied by ear if necessary
+D. Permits fast-scan TV transmissions over narrow bandwidth
+
+E2D06 (A)
+Which of the following describes a method of establishing EME contacts?
+A. Time synchronous transmissions alternately from each station
+B. Storing and forwarding digital messages
+C. Judging optimum transmission times by monitoring beacons reflected from the moon
+D. High-speed CW identification to avoid fading
+
+E2D07 (C)
+What digital protocol is used by APRS?
+A. PACTOR
+B. 802.11
+C. AX.25
+D. AMTOR
+
+E2D08 (A)
+What type of packet frame is used to transmit APRS beacon data?
+A. Unnumbered Information
+B. Disconnect
+C. Acknowledgement
+D. Connect
+
+E2D09 (A)
+What type of modulation is used for JT65 contacts?
+A. Multi-tone AFSK
+B. PSK
+C. RTTY
+D. IEEE 802.11
+
+E2D10 (C)
+How can an APRS station be used to help support a public service communications activity?
+A. An APRS station with an emergency medical technician can automatically transmit medical data to the nearest hospital
+B. APRS stations with General Personnel Scanners can automatically relay the participant numbers and time as they pass the check points
+C. An APRS station with a Global Positioning System unit can automatically transmit information to show a mobile station's position during the event
+D. All these choices are correct
+
+E2D11 (D)
+Which of the following data are used by the APRS network to communicate station location?
+A. Polar coordinates
+B. Time and frequency
+C. Radio direction finding spectrum analysis
+D. Latitude and longitude
+
+E2E01 (B)
+Which of the following types of modulation is common for data emissions below 30 MHz?
+A. DTMF tones modulating an FM signal
+B. FSK
+C. Pulse modulation
+D. Spread spectrum
+
+E2E02 (A)
+What do the letters FEC mean as they relate to digital operation?
+A. Forward Error Correction
+B. First Error Correction
+C. Fatal Error Correction
+D. Final Error Correction
+
+E2E03 (C)
+How is the timing of FT4 contacts organized?
+A. By exchanging ACK/NAK packets
+B. Stations take turns on alternate days
+C. Alternating transmissions at 7.5 second intervals
+D. It depends on the lunar phase
+
+E2E04 (A)
+What is indicated when one of the ellipses in an FSK crossed-ellipse display suddenly disappears?
+A. Selective fading has occurred
+B. One of the signal filters is saturated
+C. The receiver has drifted 5 kHz from the desired receive frequency
+D. The mark and space signal have been inverted
+
+E2E05 (A)
+Which of these digital modes does not support keyboard-to-keyboard operation?
+A. PACTOR
+B. RTTY
+C. PSK31
+D. MFSK
+
+E2E06 (C)
+What is the most common data rate used for HF packet?
+A. 48 baud
+B. 110 baud
+C. 300 baud
+D. 1200 baud
+
+E2E07 (D)
+Which of the following is a possible reason that attempts to initiate contact with a digital station on a clear frequency are unsuccessful?
+A. Your transmit frequency is incorrect
+B. The protocol version you are using is not supported by the digital station
+C. Another station you are unable to hear is using the frequency
+D. All these choices are correct
+
+E2E08 (B)
+Which of the following HF digital modes can be used to transfer binary files?
+A. Hellschreiber
+B. PACTOR
+C. RTTY
+D. AMTOR
+
+E2E09 (D)
+Which of the following HF digital modes uses variable-length coding for bandwidth efficiency?
+A. RTTY
+B. PACTOR
+C. MT63
+D. PSK31
+
+E2E10 (C)
+Which of these digital modes has the narrowest bandwidth?
+A. MFSK16
+B. 170 Hz shift, 45-baud RTTY
+C. PSK31
+D. 300-baud packet
+
+E2E11 (A)
+What is the difference between direct FSK and audio FSK?
+A. Direct FSK applies the data signal to the transmitter VFO, while AFSK transmits tones via phone
+B. Direct FSK occupies less bandwidth
+C. Direct FSK can transmit faster baud rates
+D. Only direct FSK can be decoded by computer
+
+E2E12 (A)
+How do ALE stations establish contact?
+A. ALE constantly scans a list of frequencies, activating the radio when the designated call sign is received
+B. ALE radios monitor an internet site for the frequency they are being paged on
+C. ALE radios send a constant tone code to establish a frequency for future use
+D. ALE radios activate when they hear their signal echoed by back scatter
+
+E2E13 (D)
+Which of these digital modes has the fastest data throughput under clear communication conditions? 
+A. AMTOR
+B. 170 Hz shift, 45 baud RTTY
+C. PSK31
+D. 300 baud packet
+
+E3A01 (D)
+What is the approximate maximum separation measured along the surface of the Earth between two stations communicating by EME?
+A. 500 miles, if the moon is at perigee
+B. 2000 miles, if the moon is at apogee
+C. 5000 miles, if the moon is at perigee
+D. 12,000 miles, if the moon is visible by both stations
+
+E3A02 (B)
+What characterizes libration fading of an EME signal?
+A. A slow change in the pitch of the CW signal
+B. A fluttery irregular fading
+C. A gradual loss of signal as the sun rises
+D. The returning echo is several hertz lower in frequency than the transmitted signal
+
+E3A03 (A)
+When scheduling EME contacts, which of these conditions will generally result in the least path loss?
+A. When the moon is at perigee
+B. When the moon is full
+C. When the moon is at apogee
+D. When the MUF is above 30 MHz
+
+E3A04 (D)
+What do Hepburn maps predict?
+A. Sporadic E propagation
+B. Locations of auroral reflecting zones
+C. Likelihood of rain scatter along cold or warm fronts
+D. Probability of tropospheric propagation
+
+E3A05 (C)
+Tropospheric propagation of microwave signals often occurs in association with what phenomenon?
+A. Grayline
+B. Lightning discharges
+C. Warm and cold fronts
+D. Sprites and jets
+
+E3A06 (B)
+What might help to restore contact when DX signals become too weak to copy across an entire HF band a few hours after sunset?
+A. Switch to a higher frequency HF band
+B. Switch to a lower frequency HF band
+C. Wait 90 minutes or so for the signal degradation to pass
+D. Wait 24 hours before attempting another communication on the band
+
+E3A07 (C)
+Atmospheric ducts capable of propagating microwave signals often form over what geographic feature?
+A. Mountain ranges
+B. Forests
+C. Bodies of water
+D. Urban areas
+
+E3A08 (A)
+When a meteor strikes the Earth's atmosphere, a cylindrical region of free electrons is formed at what layer of the ionosphere?
+A. The E layer
+B. The F1 layer
+C. The F2 layer
+D. The D layer
+
+E3A09 (C)
+Which of the following frequency ranges is most suited for meteor scatter communications?
+A. 1.8 MHz - 1.9 MHz
+B. 10 MHz - 14 MHz
+C. 28 MHz - 148 MHz
+D. 220 MHz - 450 MHz
+
+E3A10 (B)
+Which type of atmospheric structure can create a path for microwave propagation?
+A. The jet stream
+B. Temperature inversion
+C. Wind shear
+D. Dust devil
+
+E3A11 (B)
+What is a typical range for tropospheric propagation of microwave signals?
+A. 10 miles to 50 miles
+B. 100 miles to 300 miles
+C. 1200 miles
+D. 2500 miles
+
+E3A12 (C)
+What is the cause of auroral activity?
+A. The interaction in the F2 layer between the solar wind and the Van Allen belt
+B. An extreme low-pressure area in the polar regions
+C. The interaction in the E layer of charged particles from the Sun with the Earth's magnetic field
+D. Meteor showers concentrated in the extreme northern and southern latitudes
+
+E3A13 (A)
+Which of these emission modes is best for auroral propagation?
+A. CW
+B. SSB
+C. FM
+D. RTTY
+
+E3A14 (B)
+What is meant by circularly polarized electromagnetic waves?
+A. Waves with an electric field bent into a circular shape
+B. Waves with a rotating electric field
+C. Waves that circle the Earth
+D. Waves produced by a loop antenna
+
+E3B01 (A)
+What is transequatorial propagation?
+A. Propagation between two mid-latitude points at approximately the same distance north and south of the magnetic equator
+B. Propagation between points located on the magnetic equator
+C. Propagation between a point on the equator and its antipodal point
+D. Propagation between points at the same latitude
+
+E3B02 (C)
+What is the approximate maximum range for signals using transequatorial propagation?
+A. 1000 miles
+B. 2500 miles
+C. 5000 miles
+D. 7500 miles
+
+E3B03 (C)
+What is the best time of day for transequatorial propagation?
+A. Morning
+B. Noon
+C. Afternoon or early evening
+D. Late at night
+
+E3B04 (B)
+What is meant by the terms "extraordinary" and "ordinary" waves?
+A. Extraordinary waves describe rare long-skip propagation compared to ordinary waves, which travel shorter distances
+B. Independent waves created in the ionosphere that are elliptically polarized
+C. Long-path and short-path waves
+D. Refracted rays and reflected waves
+
+E3B05 (C)
+Which amateur bands typically support long-path propagation?
+A. Only 160 meters to 40 meters
+B. Only 30 meters to 10 meters
+C. 160 meters to 10 meters
+D. 6 meters to 2 meters
+
+E3B06 (B)
+Which of the following amateur bands most frequently provides long-path propagation?
+A. 80 meters
+B. 20 meters
+C. 10 meters
+D. 6 meters
+
+E3B07 (C)
+What happens to linearly polarized radio waves that split into ordinary and extraordinary waves in the ionosphere?
+A. They are bent toward the magnetic poles
+B. They become depolarized
+C. They become elliptically polarized
+D. They become phase locked
+
+E3B08 (D)
+What is the term for the long path opening that exists between two points on the Earth which are simultaneously near sunrise and sunset?
+A. Transequatorial
+B. Sporadic E
+C. Long-path
+D. Grayline
+
+E3B09 (A)
+At what time of year is sporadic E propagation most likely to occur?
+A. Around the solstices, especially the summer solstice
+B. Around the solstices, especially the winter solstice
+C. Around the equinoxes, especially the spring equinox
+D. Around the equinoxes, especially the fall equinox
+
+E3B10 (A)
+Why is chordal hop propagation desirable?
+A. The signal experiences less loss compared to multi-hop using Earth as a reflector
+B. The MUF for chordal hop propagation is much lower than for normal skip propagation
+C. Atmospheric noise is lower in the direction of chordal hop propagation
+D. Signals travel faster along ionospheric chords
+
+E3B11 (D)
+At what time of day can sporadic E propagation occur?
+A. Only around sunset
+B. Only around sunset and sunrise
+C. Only in hours of darkness
+D. Any time
+
+E3B12 (B)
+What is the primary characteristic of chordal hop propagation?
+A. Propagation away from the great circle bearing between stations
+B. Successive ionospheric refractions without an intermediate reflection from the ground
+C. Propagation across the geomagnetic equator
+D. Signals reflected back toward the transmitting station
+
+E3C01 (B)
+What does the radio communication term "ray tracing" describe?
+A. The process in which an electronic display presents a pattern
+B. Modeling a radio wave's path through the ionosphere
+C. Determining the radiation pattern from an array of antennas
+D. Evaluating high voltage sources for x-rays
+
+E3C02 (A)
+What is indicated by a rising A or K index?
+A. Increasing disruption of the geomagnetic field
+B. Decreasing disruption of the geomagnetic field
+C. Higher levels of solar UV radiation
+D. An increase in the critical frequency
+
+E3C03 (B)
+Which of the following signal paths is most likely to experience high levels of absorption when the A index or K index is elevated?
+A. Transequatorial
+B. Polar
+C. Sporadic E
+D. NVIS
+
+E3C04 (C)
+What does the value of Bz (B sub Z) represent?
+A. Geomagnetic field stability
+B. Critical frequency for vertical transmissions
+C. Direction and strength of the interplanetary magnetic field
+D. Duration of long-delayed echoes
+
+E3C05 (A)
+What orientation of Bz (B sub z) increases the likelihood that incoming particles from the sun will cause disturbed conditions?
+A. Southward
+B. Northward
+C. Eastward
+D. Westward
+
+E3C06 (A)
+By how much does the VHF/UHF radio horizon distance exceed the geometric horizon?
+A. By approximately 15 percent of the distance
+B. By approximately twice the distance
+C. By approximately 50 percent of the distance
+D. By approximately four times the distance
+
+E3C07 (D)
+Which of the following descriptors indicates the greatest solar flare intensity?
+A. Class A
+B. Class B
+C. Class M
+D. Class X
+
+E3C08 (A)
+What does the space weather term G5 mean?
+A. An extreme geomagnetic storm
+B. Very low solar activity
+C. Moderate solar wind
+D. Waning sunspot numbers
+
+E3C09 (B)
+How does the intensity of an X3 flare compare to that of an X2 flare?
+A. 10 percent greater
+B. 50 percent greater
+C. Twice as great
+D. Four times as great
+
+E3C10 (B)
+What does the 304A solar parameter measure?
+A. The ratio of x-ray flux to radio flux, correlated to sunspot number
+B. UV emissions at 304 angstroms, correlated to the solar flux index
+C. The solar wind velocity at 304 degrees from the solar equator, correlated to solar activity
+D. The solar emission at 304 GHz, correlated to x-ray flare levels
+
+E3C11 (C)
+What does VOACAP software model?
+A. AC voltage and impedance
+B. VHF radio propagation
+C. HF propagation
+D. AC current and impedance
+
+E3C12 (C)
+How does the maximum range of ground-wave propagation change when the signal frequency is increased?
+A. It stays the same
+B. It increases
+C. It decreases
+D. It peaks at roughly 14 MHz
+
+E3C13 (A)
+What type of polarization is best for ground-wave propagation?
+A. Vertical
+B. Horizontal
+C. Circular
+D. Elliptical
+
+E3C14 (D)
+Why does the radio-path horizon distance exceed the geometric horizon?
+A. E-region skip
+B. D-region skip
+C. Due to the Doppler effect
+D. Downward bending due to density variations in the atmosphere
+
+E3C15 (B)
+What might be indicated by a sudden rise in radio background noise across a large portion of the HF spectrum?
+A. A temperature inversion has occurred 
+B. A solar flare has occurred
+C. Increased transequatorial propagation is likely
+D. Long-path propagation is likely
+
+E4A01 (A)
+Which of the following limits the highest frequency signal that can be accurately displayed on a digital oscilloscope? 
+A. Sampling rate of the analog-to-digital converter
+B. Amount of memory 
+C. Q of the circuit
+D. All these choices are correct
+
+E4A02 (B)
+Which of the following parameters does a spectrum analyzer display on the vertical and horizontal axes?
+A. RF amplitude and time
+B. RF amplitude and frequency
+C. SWR and frequency
+D. SWR and time
+
+E4A03 (B)
+Which of the following test instruments is used to display spurious signals and/or intermodulation distortion products generated by an SSB transmitter?
+A. A wattmeter
+B. A spectrum analyzer
+C. A logic analyzer
+D. A time-domain reflectometer
+
+E4A04 (A)
+How is the compensation of an oscilloscope probe typically adjusted?
+A. A square wave is displayed and the probe is adjusted until the horizontal portions of the displayed wave are as nearly flat as possible
+B. A high frequency sine wave is displayed and the probe is adjusted for maximum amplitude
+C. A frequency standard is displayed and the probe is adjusted until the deflection time is accurate
+D. A DC voltage standard is displayed and the probe is adjusted until the displayed voltage is accurate
+
+E4A05 (D)
+What is the purpose of the prescaler function on a frequency counter?
+A. It amplifies low-level signals for more accurate counting
+B. It multiplies a higher frequency signal so a low-frequency counter can display the operating frequency
+C. It prevents oscillation in a low-frequency counter circuit
+D. It divides a higher frequency signal so a low-frequency counter can display the input frequency
+
+E4A06 (A)
+What is the effect of aliasing on a digital oscilloscope caused by setting the time base too slow?
+A. A false, jittery low-frequency version of the signal is displayed
+B. All signals will have a DC offset
+C. Calibration of the vertical scale is no longer valid
+D. Excessive blanking occurs, which prevents display of the signal
+
+E4A07 (B)
+Which of the following is an advantage of using an antenna analyzer compared to an SWR bridge to measure antenna SWR?
+A. Antenna analyzers automatically tune your antenna for resonance
+B. Antenna analyzers do not need an external RF source
+C. Antenna analyzers display a time-varying representation of the modulation envelope
+D. All these choices are correct
+
+E4A08 (D)
+Which of the following measures SWR?
+A. A spectrum analyzer
+B. A Q meter
+C. An ohmmeter
+D. An antenna analyzer
+
+E4A09 (A)
+Which of the following is good practice when using an oscilloscope probe?
+A. Keep the signal ground connection of the probe as short as possible
+B. Never use a high-impedance probe to measure a low-impedance circuit
+C. Never use a DC-coupled probe to measure an AC circuit
+D. All these choices are correct
+
+E4A10 (D)
+Which of the following displays multiple digital signal states simultaneously?
+A. Network analyzer
+B. Bit error rate tester
+C. Modulation monitor
+D. Logic analyzer
+
+E4A11 (D)
+How should an antenna analyzer be connected when measuring antenna resonance and feed point impedance?
+A. Loosely couple the analyzer near the antenna base
+B. Connect the analyzer via a high-impedance transformer to the antenna
+C. Loosely couple the antenna and a dummy load to the analyzer
+D. Connect the antenna feed line directly to the analyzer's connector
+
+E4B01 (B)
+Which of the following factors most affects the accuracy of a frequency counter?
+A. Input attenuator accuracy
+B. Time base accuracy
+C. Decade divider accuracy
+D. Temperature coefficient of the logic
+
+E4B02 (A)
+What is the significance of voltmeter sensitivity expressed in ohms per volt?
+A. The full scale reading of the voltmeter multiplied by its ohms per volt rating will indicate the input impedance of the voltmeter
+B. When used as a galvanometer, the reading in volts multiplied by the ohms per volt rating will determine the power drawn by the device under test
+C. When used as an ohmmeter, the reading in ohms divided by the ohms per volt rating will determine the voltage applied to the circuit
+D. When used as an ammeter, the full scale reading in amps divided by ohms per volt rating will determine the size of shunt needed
+
+E4B03 (C)
+Which S parameter is equivalent to forward gain?
+A. S11
+B. S12
+C. S21
+D. S22
+
+E4B04 (A)
+Which S parameter represents input port return loss or reflection coefficient (equivalent to VSWR)?
+A. S11
+B. S12
+C. S21
+D. S22
+
+E4B05 (B)
+What three test loads are used to calibrate an RF vector network analyzer?
+A. 50 ohms, 75 ohms, and 90 ohms
+B. Short circuit, open circuit, and 50 ohms
+C. Short circuit, open circuit, and resonant circuit
+D. 50 ohms through 1/8 wavelength, 1/4 wavelength, and 1/2 wavelength of coaxial cable
+
+E4B06 (D)
+How much power is being absorbed by the load when a directional power meter connected between a transmitter and a terminating load reads 100 watts forward power and 25 watts reflected power?
+A. 100 watts
+B. 125 watts
+C. 25 watts
+D. 75 watts
+
+E4B07 (A)
+What do the subscripts of S parameters represent?
+A. The port or ports at which measurements are made
+B. The relative time between measurements
+C. Relative quality of the data
+D. Frequency order of the measurements
+
+E4B08 (C)
+Which of the following can be used to measure the Q of a series-tuned circuit?
+A. The inductance to capacitance ratio
+B. The frequency shift
+C. The bandwidth of the circuit's frequency response
+D. The resonant frequency of the circuit
+
+E4B09 (D)
+What is indicated if the current reading on an RF ammeter placed in series with the antenna feed line of a transmitter increases as the transmitter is tuned to resonance?
+A. There is possibly a short to ground in the feed line
+B. The transmitter is not properly neutralized
+C. There is an impedance mismatch between the antenna and feed line
+D. There is more power going into the antenna
+
+E4B10 (B)
+Which of the following methods measures intermodulation distortion in an SSB transmitter?
+A. Modulate the transmitter using two RF signals having non-harmonically related frequencies and observe the RF output with a spectrum analyzer
+B. Modulate the transmitter using two AF signals having non-harmonically related frequencies and observe the RF output with a spectrum analyzer
+C. Modulate the transmitter using two AF signals having harmonically related frequencies and observe the RF output with a peak reading wattmeter
+D. Modulate the transmitter using two RF signals having harmonically related frequencies and observe the RF output with a logic analyzer
+
+E4B11 (D)
+Which of the following can be measured with a vector network analyzer?
+A. Input impedance
+B. Output impedance
+C. Reflection coefficient
+D. All these choices are correct
+
+E4C01 (D)
+What is an effect of excessive phase noise in a receiver's local oscillator?
+A. It limits the receiver's ability to receive strong signals
+B. It can affect the receiver's frequency calibration
+C. It decreases receiver third-order intercept point
+D. It can combine with strong signals on nearby frequencies to generate interference
+
+E4C02 (A)
+Which of the following receiver circuits can be effective in eliminating interference from strong out-of-band signals?
+A. A front-end filter or pre-selector
+B. A narrow IF filter
+C. A notch filter
+D. A properly adjusted product detector
+
+E4C03 (C)
+What is the term for the suppression in an FM receiver of one signal by another stronger signal on the same frequency?
+A. Desensitization
+B. Cross-modulation interference
+C. Capture effect
+D. Frequency discrimination
+
+E4C04 (D)
+What is the noise figure of a receiver?
+A. The ratio of atmospheric noise to phase noise
+B. The ratio of the noise bandwidth in hertz to the theoretical bandwidth of a resistive network
+C. The ratio of thermal noise to atmospheric noise
+D. The ratio in dB of the noise generated by the receiver to the theoretical minimum noise
+
+E4C05 (B)
+What does a receiver noise floor of -174 dBm represent?
+A. The minimum detectable signal as a function of receive frequency
+B. The theoretical noise in a 1 Hz bandwidth at the input of a perfect receiver at room temperature
+C. The noise figure of a 1 Hz bandwidth receiver
+D. The galactic noise contribution to minimum detectable signal
+
+E4C06 (D)
+A CW receiver with the AGC off has an equivalent input noise power density of -174 dBm/Hz.  What would be the level of an unmodulated carrier input to this receiver that would yield an audio output SNR of 0 dB in a 400 Hz noise bandwidth?
+A. -174 dBm
+B. -164 dBm
+C. -155 dBm
+D. -148 dBm
+
+E4C07 (B)
+What does the MDS of a receiver represent?
+A. The meter display sensitivity
+B. The minimum discernible signal
+C. The multiplex distortion stability
+D. The maximum detectable spectrum
+
+E4C08 (D)
+An SDR receiver is overloaded when input signals exceed what level?
+A. One-half the maximum sample rate
+B. One-half the maximum sampling buffer size
+C. The maximum count value of the analog-to-digital converter
+D. The reference voltage of the analog-to-digital converter
+
+E4C09 (C)
+Which of the following choices is a good reason for selecting a high frequency for the design of the IF in a superheterodyne HF or VHF communications receiver?
+A. Fewer components in the receiver
+B. Reduced drift
+C. Easier for front-end circuitry to eliminate image responses
+D. Improved receiver noise figure
+
+E4C10 (C)
+What is an advantage of having a variety of receiver IF bandwidths from which to select?
+A. The noise figure of the RF amplifier can be adjusted to match the modulation type, thus increasing receiver sensitivity 
+B. Receiver power consumption can be reduced when wider bandwidth is not required
+C. Receive bandwidth can be set to match the modulation bandwidth, maximizing signal-to-noise ratio and minimizing interference
+D. Multiple frequencies can be received simultaneously if desired
+
+E4C11 (D)
+Why can an attenuator be used to reduce receiver overload on the lower frequency HF bands with little or no impact on signal-to-noise ratio? 
+A. The attenuator has a low-pass filter to increase the strength of lower frequency signals
+B. The attenuator has a noise filter to suppress interference
+C. Signals are attenuated separately from the noise
+D. Atmospheric noise is generally greater than internally generated noise even after attenuation
+
+E4C12 (D)
+Which of the following has the largest effect on an SDR receiver's dynamic range?
+A. CPU register width in bits
+B. Anti-aliasing input filter bandwidth
+C. RAM speed used for data storage
+D. Analog-to-digital converter sample width in bits
+
+E4C13 (C)
+How does a narrow-band roofing filter affect receiver performance?
+A. It improves sensitivity by reducing front end noise
+B. It improves intelligibility by using low Q circuitry to reduce ringing
+C. It improves dynamic range by attenuating strong signals near the receive frequency
+D. All these choices are correct
+
+E4C14 (D)
+What transmit frequency might generate an image response signal in a receiver tuned to 14.300 MHz and that uses a 455 kHz IF frequency?
+A. 13.845 MHz
+B. 14.755 MHz
+C. 14.445 MHz
+D. 15.210 MHz
+
+E4C15 (D)
+What is reciprocal mixing?
+A. Two out-of-band signals mixing to generate an in-band spurious signal
+B. In-phase signals cancelling in a mixer resulting in loss of receiver sensitivity
+C. Two digital signals combining from alternate time slots
+D. Local oscillator phase noise mixing with adjacent strong signals to create interference to desired signals
+
+E4D01 (A)
+What is meant by the blocking dynamic range of a receiver?
+A. The difference in dB between the noise floor and the level of an incoming signal that will cause 1 dB of gain compression
+B. The minimum difference in dB between the levels of two FM signals that will cause one signal to block the other
+C. The difference in dB between the noise floor and the third-order intercept point
+D. The minimum difference in dB between two signals which produce third-order intermodulation products greater than the noise floor
+
+E4D02 (A)
+Which of the following describes problems caused by poor dynamic range in a receiver?
+A. Spurious signals caused by cross-modulation and desensitization from strong adjacent signals
+B. Oscillator instability requiring frequent retuning and loss of ability to recover the opposite sideband
+C. Cross-modulation of the desired signal and insufficient audio power to operate the speaker
+D. Oscillator instability and severe audio distortion of all but the strongest received signals
+
+E4D03 (B)
+How can intermodulation interference between two repeaters occur?
+A. When the repeaters are in close proximity and the signals cause feedback in the final amplifier of one or both transmitters
+B. When the repeaters are in close proximity and the signals mix in the final amplifier of one or both transmitters
+C. When the signals from the transmitters are reflected out of phase from airplanes passing overhead
+D. When the signals from the transmitters are reflected in phase from airplanes passing overhead
+
+E4D04 (B)
+Which of the following may reduce or eliminate intermodulation interference in a repeater caused by another transmitter operating in close proximity?
+A. A band-pass filter in the feed line between the transmitter and receiver
+B. A properly terminated circulator at the output of the repeater's transmitter
+C. Utilizing a Class C final amplifier
+D. Utilizing a Class D final amplifier
+
+E4D05 (A)
+What transmitter frequencies would cause an intermodulation-product signal in a receiver tuned to 146.70 MHz when a nearby station transmits on 146.52 MHz?
+A. 146.34 MHz and 146.61 MHz
+B. 146.88 MHz and 146.34 MHz
+C. 146.10 MHz and 147.30 MHz
+D. 173.35 MHz and 139.40 MHz
+
+E4D06 (D)
+What is the term for spurious signals generated by the combination of two or more signals in a non-linear device or circuit?
+A. Amplifier desensitization
+B. Neutralization
+C. Adjacent channel interference
+D. Intermodulation 
+
+E4D07 (A)
+Which of the following reduces the likelihood of receiver desensitization?
+A. Decrease the RF bandwidth of the receiver
+B. Raise the receiver IF frequency
+C. Increase the receiver front end gain
+D. Switch from fast AGC to slow AGC
+
+E4D08 (C)
+What causes intermodulation in an electronic circuit?
+A. Too little gain
+B. Lack of neutralization
+C. Nonlinear circuits or devices
+D. Positive feedback
+
+E4D09 (C)
+What is the purpose of the preselector in a communications receiver?
+A. To store often-used frequencies
+B. To provide a range of AGC time constants
+C. To increase rejection of signals outside the desired band
+D. To allow selection of the optimum RF amplifier device
+
+E4D10 (C)
+What does a third-order intercept level of 40 dBm mean with respect to receiver performance?
+A. Signals less than 40 dBm will not generate audible third-order intermodulation products
+B. The receiver can tolerate signals up to 40 dB above the noise floor without producing third-order intermodulation products
+C. A pair of 40 dBm input signals will theoretically generate a third-order intermodulation product that has the same output amplitude as either of the input signals
+D. A pair of 1 mW input signals will produce a third-order intermodulation product that is 40 dB stronger than the input signal
+
+E4D11 (A)
+Why are odd-order intermodulation products, created within a receiver, of particular interest compared to other products?
+A. Odd-order products of two signals in the band of interest are also likely to be within the band
+B. Odd-order products overload the IF filters
+C. Odd-order products are an indication of poor image rejection
+D. Odd-order intermodulation produces three products for every input signal within the band of interest
+
+E4D12 (A)
+What is the term for the reduction in receiver sensitivity caused by a strong signal near the received frequency?
+A. Desensitization
+B. Quieting
+C. Cross-modulation interference
+D. Squelch gain rollback
+
+E4E01 (A)
+What problem can occur when using an automatic notch filter (ANF) to remove interfering carriers while receiving CW signals?
+A. Removal of the CW signal as well as the interfering carrier
+B. Any nearby signal passing through the DSP system will overwhelm the desired signal
+C. Received CW signals will appear to be modulated at the DSP clock frequency
+D. Ringing in the DSP filter will completely remove the spaces between the CW characters
+
+E4E02 (D)
+Which of the following types of noise can often be reduced with a digital signal processing noise filter?
+A. Broadband white noise
+B. Ignition noise
+C. Power line noise
+D. All these choices are correct
+
+E4E03 (B)
+Which of the following signals might a receiver noise blanker be able to remove from desired signals?
+A. Signals that are constant at all IF levels
+B. Signals that appear across a wide bandwidth
+C. Signals that appear at one IF but not another
+D. Signals that have a sharply peaked frequency distribution
+
+E4E04 (D)
+How can conducted and radiated noise caused by an automobile alternator be suppressed?
+A. By installing filter capacitors in series with the DC power lead and a blocking capacitor in the field lead
+B. By installing a noise suppression resistor and a blocking capacitor in both leads
+C. By installing a high-pass filter in series with the radio's power lead and a low-pass filter in parallel with the field lead
+D. By connecting the radio's power leads directly to the battery and by installing coaxial capacitors in line with the alternator leads
+
+E4E05 (B)
+How can radio frequency interference from an AC motor be suppressed?
+A. By installing a high-pass filter in series with the motor's power leads
+B. By installing a brute-force AC-line filter in series with the motor leads
+C. By installing a bypass capacitor in series with the motor leads
+D. By using a ground-fault current interrupter in the circuit used to power the motor
+
+E4E06 (C)
+What is one type of electrical interference that might be caused by a nearby personal computer?
+A. A loud AC hum in the audio output of your station receiver
+B. A clicking noise at intervals of a few seconds
+C. The appearance of unstable modulated or unmodulated signals at specific frequencies
+D. A whining type noise that continually pulses off and on
+
+E4E07 (B)
+Which of the following can cause shielded cables to radiate or receive interference?
+A. Low inductance ground connections at both ends of the shield
+B. Common-mode currents on the shield and conductors
+C. Use of braided shielding material
+D. Tying all ground connections to a common point resulting in differential-mode currents in the shield
+
+E4E08 (B)
+What current flows equally on all conductors of an unshielded multi-conductor cable?
+A. Differential-mode current
+B. Common-mode current
+C. Reactive current only
+D. Return current
+
+E4E09 (C)
+What undesirable effect can occur when using an IF noise blanker?
+A. Received audio in the speech range might have an echo effect
+B. The audio frequency bandwidth of the received signal might be compressed
+C. Nearby signals may appear to be excessively wide even if they meet emission standards
+D. FM signals can no longer be demodulated
+
+E4E10 (D)
+What might be the cause of a loud roaring or buzzing AC line interference that comes and goes at intervals?
+A. Arcing contacts in a thermostatically controlled device
+B. A defective doorbell or doorbell transformer inside a nearby residence
+C. A malfunctioning illuminated advertising display
+D. All these choices are correct
+
+E4E11 (B)
+What could cause local AM broadcast band signals to combine to generate spurious signals in the MF or HF bands?
+A. One or more of the broadcast stations is transmitting an over-modulated signal
+B. Nearby corroded metal joints are mixing and re-radiating the broadcast signals
+C. You are receiving skywave signals from a distant station
+D. Your station receiver IF amplifier stage is defective
+
+E5A01 (A)
+What can cause the voltage across reactances in a series RLC circuit to be higher than the voltage applied to the entire circuit?
+A. Resonance
+B. Capacitance
+C. Conductance
+D. Resistance
+
+E5A02 (C)
+What is resonance in an LC or RLC circuit?
+A. The highest frequency that will pass current
+B. The lowest frequency that will pass current
+C. The frequency at which the capacitive reactance equals the inductive reactance
+D. The frequency at which the reactive impedance equals the resistive impedance
+
+E5A03 (D)
+What is the magnitude of the impedance of a series RLC circuit at resonance?
+A. High, as compared to the circuit resistance
+B. Approximately equal to capacitive reactance
+C. Approximately equal to inductive reactance
+D. Approximately equal to circuit resistance
+
+E5A04 (A)
+What is the magnitude of the impedance of a parallel RLC circuit at resonance?
+A. Approximately equal to circuit resistance
+B. Approximately equal to inductive reactance
+C. Low compared to the circuit resistance
+D. High compared to the circuit resistance
+
+E5A05 (A)
+What is the result of increasing the Q of an impedance-matching circuit?
+A. Matching bandwidth is decreased
+B. Matching bandwidth is increased
+C. Matching range is increased
+D. It has no effect on impedance matching
+
+E5A06 (B)
+What is the magnitude of the circulating current within the components of a parallel LC circuit at resonance?
+A. It is at a minimum
+B. It is at a maximum
+C. It equals 1 divided by the quantity 2 times pi, multiplied by the square root of inductance L multiplied by capacitance C
+D. It equals 2 multiplied by pi, multiplied by frequency, multiplied by inductance
+
+E5A07 (A)
+What is the magnitude of the current at the input of a parallel RLC circuit at resonance?
+A. Minimum
+B. Maximum
+C. R/L
+D. L/R
+
+E5A08 (C)
+What is the phase relationship between the current through and the voltage across a series resonant circuit at resonance?
+A. The voltage leads the current by 90 degrees
+B. The current leads the voltage by 90 degrees
+C. The voltage and current are in phase
+D. The voltage and current are 180 degrees out of phase
+
+E5A09 (C)
+How is the Q of an RLC parallel resonant circuit calculated?
+A. Reactance of either the inductance or capacitance divided by the resistance
+B. Reactance of either the inductance or capacitance multiplied by the resistance
+C. Resistance divided by the reactance of either the inductance or capacitance
+D. Reactance of the inductance multiplied by the reactance of the capacitance
+
+E5A10 (A)
+How is the Q of an RLC series resonant circuit calculated?
+A. Reactance of either the inductance or capacitance divided by the resistance
+B. Reactance of either the inductance or capacitance multiplied by the resistance
+C. Resistance divided by the reactance of either the inductance or capacitance
+D. Reactance of the inductance multiplied by the reactance of the capacitance
+
+E5A11 (C)
+What is the half-power bandwidth of a resonant circuit that has a resonant frequency of 7.1 MHz and a Q of 150?
+A. 157.8 Hz
+B. 315.6 Hz
+C. 47.3 kHz
+D. 23.67 kHz
+
+E5A12 (C)
+What is the half-power bandwidth of a resonant circuit that has a resonant frequency of 3.7 MHz and a Q of 118?
+A. 436.6 kHz
+B. 218.3 kHz
+C. 31.4 kHz
+D. 15.7 kHz
+
+E5A13 (C)
+What is an effect of increasing Q in a series resonant circuit?
+A. Fewer components are needed for the same performance
+B. Parasitic effects are minimized
+C. Internal voltages increase
+D. Phase shift can become uncontrolled
+
+E5A14 (C)
+What is the resonant frequency of an RLC circuit if R is 22 ohms, L is 50 microhenries and C is 40 picofarads?
+A. 44.72 MHz
+B. 22.36 MHz
+C. 3.56 MHz
+D. 1.78 MHz
+
+E5A15 (A)
+Which of the following increases Q for inductors and capacitors?
+A. Lower losses
+B. Lower reactance
+C. Lower self-resonant frequency
+D. Higher self-resonant frequency
+
+E5A16 (D)
+What is the resonant frequency of an RLC circuit if R is 33 ohms, L is 50 microhenries and C is 10 picofarads?
+A. 23.5 MHz
+B. 23.5 kHz
+C. 7.12 kHz
+D. 7.12 MHz
+
+E5B01 (B)
+What is the term for the time required for the capacitor in an RC circuit to be charged to 63.2% of the applied voltage or to discharge to 36.8% of its initial voltage?
+A. An exponential rate of one
+B. One time constant
+C. One exponential period
+D. A time factor of one
+
+E5B02 (D)
+What letter is commonly used to represent susceptance?
+A. G
+B. X
+C. Y
+D. B
+
+E5B03 (B)
+How is impedance in polar form converted to an equivalent admittance?
+A. Take the reciprocal of the angle and change the sign of the magnitude
+B. Take the reciprocal of the magnitude and change the sign of the angle
+C. Take the square root of the magnitude and add 180 degrees to the angle
+D. Square the magnitude and subtract 90 degrees from the angle
+
+E5B04 (D)
+What is the time constant of a circuit having two 220 microfarad capacitors and two 1 megohm resistors, all in parallel?
+A. 55 seconds
+B. 110 seconds
+C. 440 seconds
+D. 220 seconds
+
+E5B05 (D)
+What happens to the magnitude of a pure reactance when it is converted to a susceptance?
+A. It is unchanged
+B. The sign is reversed
+C. It is shifted by 90 degrees
+D. It becomes the reciprocal
+
+E5B06 (C)
+What is susceptance?
+A. The magnetic impedance of a circuit
+B. The ratio of magnetic field to electric field
+C. The imaginary part of admittance
+D. A measure of the efficiency of a transformer
+
+E5B07 (C)
+What is the phase angle between the voltage across and the current through a series RLC circuit if XC is 500 ohms, R is 1 kilohm, and XL is 250 ohms?
+A. 68.2 degrees with the voltage leading the current
+B. 14.0 degrees with the voltage leading the current
+C. 14.0 degrees with the voltage lagging the current
+D. 68.2 degrees with the voltage lagging the current
+
+E5B08 (A)
+What is the phase angle between the voltage across and the current through a series RLC circuit if XC is 100 ohms, R is 100 ohms, and XL is 75 ohms?
+A. 14 degrees with the voltage lagging the current
+B. 14 degrees with the voltage leading the current
+C. 76 degrees with the voltage leading the current
+D. 76 degrees with the voltage lagging the current
+
+E5B09 (D)
+What is the relationship between the AC current through a capacitor and the voltage across a capacitor?
+A. Voltage and current are in phase
+B. Voltage and current are 180 degrees out of phase
+C. Voltage leads current by 90 degrees
+D. Current leads voltage by 90 degrees
+
+E5B10 (A)
+What is the relationship between the AC current through an inductor and the voltage across an inductor?
+A. Voltage leads current by 90 degrees
+B. Current leads voltage by 90 degrees
+C. Voltage and current are 180 degrees out of phase
+D. Voltage and current are in phase
+
+E5B11 (B)
+What is the phase angle between the voltage across and the current through a series RLC circuit if XC is 25 ohms, R is 100 ohms, and XL is 50 ohms?
+A. 14 degrees with the voltage lagging the current
+B. 14 degrees with the voltage leading the current
+C. 76 degrees with the voltage lagging the current
+D. 76 degrees with the voltage leading the current
+
+E5B12 (A)
+What is admittance?
+A. The inverse of impedance
+B. The term for the gain of a field effect transistor
+C. The turns ratio of a transformer
+D. The inverse of Q factor
+
+E5C01 (A)
+Which of the following represents capacitive reactance in rectangular notation?
+A. -jX
+B. +jX
+C. Delta
+D. Omega
+
+E5C02 (C)
+How are impedances described in polar coordinates?
+A. By X and R values
+B. By real and imaginary parts
+C. By phase angle and magnitude
+D. By Y and G values
+
+E5C03 (C)
+Which of the following represents an inductive reactance in polar coordinates?
+A. A positive magnitude
+B. A negative magnitude
+C. A positive phase angle
+D. A negative phase angle
+
+E5C04 (D)
+What coordinate system is often used to display the resistive, inductive, and/or capacitive reactance components of impedance?
+A. Maidenhead grid
+B. Faraday grid
+C. Elliptical coordinates
+D. Rectangular coordinates
+
+E5C05 (C)
+What is the name of the diagram used to show the phase relationship between impedances at a given frequency?
+A. Venn diagram
+B. Near field diagram
+C. Phasor diagram
+D. Far field diagram
+
+E5C06 (B)
+What does the impedance 50-j25 represent?
+A. 50 ohms resistance in series with 25 ohms inductive reactance
+B. 50 ohms resistance in series with 25 ohms capacitive reactance
+C. 25 ohms resistance in series with 50 ohms inductive reactance
+D. 25 ohms resistance in series with 50 ohms capacitive reactance
+
+E5C07 (D)
+Where is the impedance of a pure resistance plotted on rectangular coordinates?
+A. On the vertical axis
+B. On a line through the origin, slanted at 45 degrees
+C. On a horizontal line, offset vertically above the horizontal axis
+D. On the horizontal axis
+
+E5C08 (D)
+What coordinate system is often used to display the phase angle of a circuit containing resistance, inductive and/or capacitive reactance?
+A. Maidenhead grid
+B. Faraday grid
+C. Elliptical coordinates
+D. Polar coordinates
+
+E5C09 (A)
+When using rectangular coordinates to graph the impedance of a circuit, what do the axes represent?
+A. The X axis represents the resistive component and the Y axis represents the reactive component
+B. The X axis represents the reactive component and the Y axis represents the resistive component
+C. The X axis represents the phase angle and the Y axis represents the magnitude
+D. The X axis represents the magnitude and the Y axis represents the phase angle
+
+E5C10 (B)
+Which point on Figure E5-1 best represents the impedance of a series circuit consisting of a 400-ohm resistor and a 38-picofarad capacitor at 14 MHz?
+A. Point 2
+B. Point 4
+C. Point 5
+D. Point 6
+
+E5C11 (B)
+Which point in Figure E5-1 best represents the impedance of a series circuit consisting of a 300-ohm resistor and an 18-microhenry inductor at 3.505 MHz?
+A. Point 1
+B. Point 3
+C. Point 7
+D. Point 8
+
+E5C12 (A)
+Which point on Figure E5-1 best represents the impedance of a series circuit consisting of a 300-ohm resistor and a 19-picofarad capacitor at 21.200 MHz?
+A. Point 1
+B. Point 3
+C. Point 7
+D. Point 8
+
+E5D01 (A)
+What is the result of skin effect?
+A. As frequency increases, RF current flows in a thinner layer of the conductor, closer to the surface
+B. As frequency decreases, RF current flows in a thinner layer of the conductor, closer to the surface
+C. Thermal effects on the surface of the conductor increase the impedance
+D. Thermal effects on the surface of the conductor decrease the impedance
+
+E5D02 (B)
+Why is it important to keep lead lengths short for components used in circuits for VHF and above?
+A. To increase the thermal time constant
+B. To avoid unwanted inductive reactance
+C. To maintain component lifetime
+D. All these choices are correct
+
+E5D03 (D)
+What is microstrip?
+A. Lightweight transmission line made of common zip cord
+B. Miniature coax used for low power applications
+C. Short lengths of coax mounted on printed circuit boards to minimize time delay between microwave circuits
+D. Precision printed circuit conductors above a ground plane that provide constant impedance interconnects at microwave frequencies
+
+E5D04 (B)
+Why are short connections used at microwave frequencies?
+A. To increase neutralizing resistance
+B. To reduce phase shift along the connection
+C. To increase compensating capacitance
+D. To reduce noise figure
+
+E5D05 (C)
+What is the power factor of an RL circuit having a 30-degree phase angle between the voltage and the current?
+A. 1.73
+B. 0.5
+C. 0.866
+D. 0.577
+
+E5D06 (D)
+In what direction is the magnetic field oriented about a conductor in relation to the direction of electron flow?
+A. In the same direction as the current
+B. In a direction opposite to the current
+C. In all directions; omni-directional
+D. In a circle around the conductor
+
+E5D07 (B)
+How many watts are consumed in a circuit having a power factor of 0.71 if the apparent power is 500VA?
+A. 704 W
+B. 355 W
+C. 252 W
+D. 1.42 mW
+
+E5D08 (D)
+How many watts are consumed in a circuit having a power factor of 0.6 if the input is 200VAC at 5 amperes?
+A. 200 watts
+B. 1000 watts
+C. 1600 watts
+D. 600 watts
+
+E5D09 (B)
+What happens to reactive power in an AC circuit that has both ideal inductors and ideal capacitors?
+A. It is dissipated as heat in the circuit
+B. It is repeatedly exchanged between the associated magnetic and electric fields, but is not dissipated
+C. It is dissipated as kinetic energy in the circuit
+D. It is dissipated in the formation of inductive and capacitive fields
+
+E5D10 (A)
+How can the true power be determined in an AC circuit where the voltage and current are out of phase?
+A. By multiplying the apparent power by the power factor
+B. By dividing the reactive power by the power factor
+C. By dividing the apparent power by the power factor
+D. By multiplying the reactive power by the power factor
+
+E5D11 (C)
+What is the power factor of an RL circuit having a 60-degree phase angle between the voltage and the current?
+A. 1.414
+B. 0.866
+C. 0.5
+D. 1.73
+
+E5D12 (B)
+How many watts are consumed in a circuit having a power factor of 0.2 if the input is 100 VAC at 4 amperes?
+A. 400 watts
+B. 80 watts
+C. 2000 watts
+D. 50 watts
+
+E5D13 (B)
+How many watts are consumed in a circuit consisting of a 100-ohm resistor in series with a 100-ohm inductive reactance drawing 1 ampere?
+A. 70.7 watts
+B. 100 watts
+C. 141.4 watts
+D. 200 watts
+
+E5D14 (A)
+What is reactive power?
+A. Wattless, nonproductive power
+B. Power consumed in wire resistance in an inductor
+C. Power lost because of capacitor leakage
+D. Power consumed in circuit Q
+
+E5D15 (D)
+What is the power factor of an RL circuit having a 45-degree phase angle between the voltage and the current?
+A. 0.866
+B. 1.0
+C. 0.5
+D. 0.707
+
+E6A01 (C)
+In what application is gallium arsenide used as a semiconductor material?
+A. In high-current rectifier circuits
+B. In high-power audio circuits
+C. In microwave circuits
+D. In very low-frequency RF circuits
+
+E6A02 (A)
+Which of the following semiconductor materials contains excess free electrons?
+A. N-type
+B. P-type
+C. Bipolar
+D. Insulated gate
+
+E6A03 (C)
+Why does a PN-junction diode not conduct current when reverse biased?
+A. Only P-type semiconductor material can conduct current
+B. Only N-type semiconductor material can conduct current
+C. Holes in P-type material and electrons in the N-type material are separated by the applied voltage, widening the depletion region
+D. Excess holes in P-type material combine with the electrons in N-type material, converting the entire diode into an insulator
+
+E6A04 (C)
+What is the name given to an impurity atom that adds holes to a semiconductor crystal structure?
+A. Insulator impurity
+B. N-type impurity
+C. Acceptor impurity
+D. Donor impurity
+
+E6A05 (C)
+How does DC input impedance at the gate of a field-effect transistor compare with the DC input impedance of a bipolar transistor?
+A. They are both low impedance
+B. An FET has lower input impedance
+C. An FET has higher input impedance
+D. They are both high impedance
+
+E6A06 (B)
+What is the beta of a bipolar junction transistor?
+A. The frequency at which the current gain is reduced to 0.707
+B. The change in collector current with respect to base current
+C. The breakdown voltage of the base to collector junction
+D. The switching speed
+
+E6A07 (D)
+Which of the following indicates that a silicon NPN junction transistor is biased on?
+A. Base-to-emitter resistance of approximately 6 to 7 ohms
+B. Base-to-emitter resistance of approximately 0.6 to 0.7 ohms
+C. Base-to-emitter voltage of approximately 6 to 7 volts
+D. Base-to-emitter voltage of approximately 0.6 to 0.7 volts
+
+E6A08 (D)
+What term indicates the frequency at which the grounded-base current gain of a transistor has decreased to 0.7 of the gain obtainable at 1 kHz?
+A. Corner frequency
+B. Alpha rejection frequency
+C. Beta cutoff frequency
+D. Alpha cutoff frequency
+
+E6A09 (A)
+What is a depletion-mode FET?
+A. An FET that exhibits a current flow between source and drain when no gate voltage is applied
+B. An FET that has no current flow between source and drain when no gate voltage is applied
+C. Any FET without a channel
+D. Any FET for which holes are the majority carriers
+
+E6A10 (B)
+In Figure E6-1, what is the schematic symbol for an N-channel dual-gate MOSFET?
+A. 2
+B. 4
+C. 5
+D. 6
+
+E6A11 (A)
+In Figure E6-1, what is the schematic symbol for a P-channel junction FET?
+A. 1
+B. 2
+C. 3
+D. 6
+
+E6A12 (D)
+Why do many MOSFET devices have internally connected Zener diodes on the gates?
+A. To provide a voltage reference for the correct amount of reverse-bias gate voltage
+B. To protect the substrate from excessive voltages
+C. To keep the gate voltage within specifications and prevent the device from overheating
+D. To reduce the chance of static damage to the gate
+
+E6B01 (B)
+What is the most useful characteristic of a Zener diode?
+A. A constant current drop under conditions of varying voltage
+B. A constant voltage drop under conditions of varying current
+C. A negative resistance region
+D. An internal capacitance that varies with the applied voltage
+
+E6B02 (D)
+What is an important characteristic of a Schottky diode as compared to an ordinary silicon diode when used as a power supply rectifier?
+A. Much higher reverse voltage breakdown
+B. More constant reverse avalanche voltage
+C. Longer carrier retention time
+D. Less forward voltage drop
+
+E6B03 (B)
+What type of bias is required for an LED to emit light?
+A. Reverse bias
+B. Forward bias
+C. Zero bias
+D. Inductive bias
+
+E6B04 (A)
+What type of semiconductor device is designed for use as a voltage-controlled capacitor?
+A. Varactor diode
+B. Tunnel diode
+C. Silicon-controlled rectifier
+D. Zener diode
+
+E6B05 (D)
+What characteristic of a PIN diode makes it useful as an RF switch?
+A. Extremely high reverse breakdown voltage
+B. Ability to dissipate large amounts of power
+C. Reverse bias controls its forward voltage drop
+D. Low junction capacitance
+
+E6B06 (D) 
+Which of the following is a common use of a Schottky diode?
+A. As a rectifier in high current power supplies
+B. As a variable capacitance in an automatic frequency control circuit
+C. As a constant voltage reference in a power supply
+D. As a VHF/UHF mixer or detector
+
+E6B07 (B)
+What is the failure mechanism when a junction diode fails due to excessive current?
+A. Excessive inverse voltage
+B. Excessive junction temperature
+C. Insufficient forward voltage
+D. Charge carrier depletion
+
+E6B08 (A)
+Which of the following is a Schottky barrier diode?
+A. Metal-semiconductor junction
+B. Electrolytic rectifier
+C. PIN junction
+D. Thermionic emission diode
+
+E6B09 (C)
+What is a common use for point-contact diodes?
+A. As a constant current source
+B. As a constant voltage source
+C. As an RF detector
+D. As a high-voltage rectifier
+
+E6B10 (B)
+In Figure E6-2, what is the schematic symbol for a light-emitting diode?
+A. 1
+B. 5
+C. 6
+D. 7
+
+E6B11 (A)
+What is used to control the attenuation of RF signals by a PIN diode?
+A. Forward DC bias current
+B. A sub-harmonic pump signal
+C. Reverse voltage larger than the RF signal
+D. Capacitance of an RF coupling capacitor
+
+E6C01 (A)
+What is the function of hysteresis in a comparator?
+A. To prevent input noise from causing unstable output signals
+B. To allow the comparator to be used with AC input signals
+C. To cause the output to change states continually
+D. To increase the sensitivity
+
+E6C02 (B)
+What happens when the level of a comparator's input signal crosses the threshold?
+A. The IC input can be damaged
+B. The comparator changes its output state
+C. The comparator enters latch-up
+D. The feedback loop becomes unstable
+
+E6C03 (A)
+What is tri-state logic?
+A. Logic devices with 0, 1, and high-impedance output states
+B. Logic devices that utilize ternary math
+C. Low-power logic devices designed to operate at 3 volts
+D. Proprietary logic devices manufactured by Tri-State Devices
+
+E6C04 (C)
+Which of the following is an advantage of BiCMOS logic?
+A. Its simplicity results in much less expensive devices than standard CMOS
+B. It is immune to electrostatic damage
+C. It has the high input impedance of CMOS and the low output impedance of bipolar transistors
+D. All these choices are correct
+
+E6C05 (D)
+What is an advantage of CMOS logic devices over TTL devices?
+A. Differential output capability
+B. Lower distortion
+C. Immune to damage from static discharge
+D. Lower power consumption
+
+E6C06 (C)
+Why do CMOS digital integrated circuits have high immunity to noise on the input signal or power supply?
+A. Large bypass capacitance is inherent
+B. The input switching threshold is about two times the power supply voltage
+C. The input switching threshold is about one-half the power supply voltage
+D. Bandwidth is very limited
+
+E6C07 (B)
+What best describes a pull-up or pull-down resistor?
+A. A resistor in a keying circuit used to reduce key clicks
+B. A resistor connected to the positive or negative supply line used to establish a voltage when an input or output is an open circuit
+C. A resistor that ensures that an oscillator frequency does not drift
+D. A resistor connected to an op-amp output that prevents signals from exceeding the power supply voltage
+
+E6C08 (B)
+In Figure E6-3, what is the schematic symbol for a NAND gate?
+A. 1
+B. 2
+C. 3
+D. 4
+
+E6C09 (B)
+What is a Programmable Logic Device (PLD)?
+A. A logic circuit that can be modified during use
+B. A programmable collection of logic gates and circuits in a single integrated circuit
+C. Programmable equipment used for testing digital logic integrated circuits
+D. A type of transistor whose gain can be changed by digital logic circuits
+
+E6C10 (D)
+In Figure E6-3, what is the schematic symbol for a NOR gate?
+A. 1
+B. 2
+C. 3
+D. 4
+
+E6C11 (C)
+In Figure E6-3, what is the schematic symbol for the NOT operation (inverter)?
+A. 2
+B. 4
+C. 5
+D. 6
+
+E6D01 (A)
+Why should core saturation of an impedance matching transformer be avoided?
+A. Harmonics and distortion could result
+B. Magnetic flux would increase with frequency
+C. RF susceptance would increase
+D. Temporary changes of the core permeability could result
+
+E6D02 (A)
+What is the equivalent circuit of a quartz crystal?
+A. Motional capacitance, motional inductance, and loss resistance in series, all in parallel with a shunt capacitor representing electrode and stray capacitance
+B. Motional capacitance, motional inductance, loss resistance, and a capacitor representing electrode and stray capacitance all in parallel
+C. Motional capacitance, motional inductance, loss resistance, and a capacitor representing electrode and stray capacitance all in series
+D. Motional inductance and loss resistance in series, paralleled with motional capacitance and a capacitor representing electrode and stray capacitance
+
+E6D03 (A)
+Which of the following is an aspect of the piezoelectric effect?
+A. Mechanical deformation of material by the application of a voltage
+B. Mechanical deformation of material by the application of a magnetic field
+C. Generation of electrical energy in the presence of light
+D. Increased conductivity in the presence of light
+
+E6D04 (B)
+Which materials are commonly used as a core in an inductor?
+A. Polystyrene and polyethylene
+B. Ferrite and brass
+C. Teflon and Delrin
+D. Cobalt and aluminum
+
+E6D05 (C)
+What is one reason for using ferrite cores rather than powdered iron in an inductor?
+A. Ferrite toroids generally have lower initial permeability
+B. Ferrite toroids generally have better temperature stability
+C. Ferrite toroids generally require fewer turns to produce a given inductance value
+D. Ferrite toroids are easier to use with surface mount technology
+
+E6D06 (D)
+What core material property determines the inductance of an inductor?
+A. Thermal impedance
+B. Resistance
+C. Reactivity
+D. Permeability
+
+E6D07 (A)
+What is current in the primary winding of a transformer called if no load is attached to the secondary?
+A. Magnetizing current
+B. Direct current
+C. Excitation current
+D. Stabilizing current
+
+E6D08 (B)
+What is one reason for using powdered-iron cores rather than ferrite cores in an inductor?
+A. Powdered-iron cores generally have greater initial permeability
+B. Powdered-iron cores generally maintain their characteristics at higher currents
+C. Powdered-iron cores generally require fewer turns to produce a given inductance
+D. Powdered-iron cores use smaller diameter wire for the same inductance
+
+E6D09 (C)
+What devices are commonly used as VHF and UHF parasitic suppressors at the input and output terminals of a transistor HF amplifier?
+A. Electrolytic capacitors
+B. Butterworth filters
+C. Ferrite beads
+D. Steel-core toroids
+
+E6D10 (A)
+What is a primary advantage of using a toroidal core instead of a solenoidal core in an inductor?
+A. Toroidal cores confine most of the magnetic field within the core material
+B. Toroidal cores make it easier to couple the magnetic energy into other components
+C. Toroidal cores exhibit greater hysteresis
+D. Toroidal cores have lower Q characteristics
+
+E6D11 (B)
+Which type of core material decreases inductance when inserted into a coil?
+A. Ceramic
+B. Brass
+C. Ferrite
+D. Powdered iron
+
+E6D12 (C)
+What is inductor saturation?
+A. The inductor windings are over-coupled
+B. The inductor's voltage rating is exceeded causing a flashover
+C. The ability of the inductor's core to store magnetic energy has been exceeded
+D. Adjacent inductors become over-coupled
+
+E6D13 (A)
+What is the primary cause of inductor self-resonance?
+A. Inter-turn capacitance
+B. The skin effect
+C. Inductive kickback
+D. Non-linear core hysteresis
+
+E6E01 (B)
+Why is gallium arsenide (GaAs) useful for semiconductor devices operating at UHF and higher frequencies?
+A. Higher noise figures
+B. Higher electron mobility
+C. Lower junction voltage drop
+D. Lower transconductance
+
+E6E02 (A)
+Which of the following device packages is a through-hole type?
+A. DIP
+B. PLCC
+C. Ball grid array
+D. SOT
+
+E6E03 (D)
+Which of the following materials is likely to provide the highest frequency of operation when used in MMICs?
+A. Silicon
+B. Silicon nitride
+C. Silicon dioxide
+D. Gallium nitride
+
+E6E04 (A)
+Which is the most common input and output impedance of circuits that use MMICs?
+A. 50 ohms
+B. 300 ohms
+C. 450 ohms
+D. 10 ohms
+
+E6E05 (A)
+Which of the following noise figure values is typical of a low-noise UHF preamplifier?
+A. 2 dB
+B. -10 dB
+C. 44 dBm
+D. -20 dBm
+
+E6E06 (D)
+What characteristics of the MMIC make it a popular choice for VHF through microwave circuits?
+A. The ability to retrieve information from a single signal even in the presence of other strong signals
+B. Plate current that is controlled by a control grid
+C. Nearly infinite gain, very high input impedance, and very low output impedance
+D. Controlled gain, low noise figure, and constant input and output impedance over the specified frequency range
+
+E6E07 (D)
+What type of transmission line is used for connections to MMICs?
+A. Miniature coax
+B. Circular waveguide
+C. Parallel wire
+D. Microstrip
+
+E6E08 (A)
+How is power supplied to the most common type of MMIC?
+A. Through a resistor and/or RF choke connected to the amplifier output lead
+B. MMICs require no operating bias
+C. Through a capacitor and RF choke connected to the amplifier input lead
+D. Directly to the bias voltage (VCC IN) lead
+
+E6E09 (D)
+Which of the following component package types would be most suitable for use at frequencies above the HF range?
+A. TO-220
+B. Axial lead
+C. Radial lead
+D. Surface mount
+
+E6E10 (D)
+What advantage does surface-mount technology offer at RF compared to using through-hole components?
+A. Smaller circuit area
+B. Shorter circuit-board traces
+C. Components have less parasitic inductance and capacitance
+D. All these choices are correct
+
+E6E11 (D)
+What is a characteristic of DIP packaging used for integrated circuits?
+A. Package mounts in a direct inverted position
+B. Low leakage doubly insulated package
+C. Two chips in each package (Dual In Package)
+D. A total of two rows of connecting pins placed on opposite sides of the package (Dual In-line Package)
+
+E6E12 (C)
+Why are DIP through-hole package ICs not typically used at UHF and higher frequencies?
+A. Too many pins
+B. Epoxy coating is conductive above 300 MHz
+C. Excessive lead length
+D. Unsuitable for combining analog and digital signals
+
+E6F01 (C)
+What absorbs the energy from light falling on a photovoltaic cell?
+A. Protons
+B. Photons
+C. Electrons
+D. Holes
+
+E6F02 (A)
+What happens to the conductivity of a photoconductive material when light shines on it?
+A. It increases
+B. It decreases
+C. It stays the same
+D. It becomes unstable
+
+E6F03 (D)
+What is the most common configuration of an optoisolator or optocoupler?
+A. A lens and a photomultiplier
+B. A frequency modulated helium-neon laser
+C. An amplitude modulated helium-neon laser
+D. An LED and a phototransistor
+
+E6F04 (B)
+What is the photovoltaic effect?
+A. The conversion of voltage to current when exposed to light
+B. The conversion of light to electrical energy
+C. The conversion of electrical energy to mechanical energy
+D. The tendency of a battery to discharge when exposed to light
+
+E6F05 (A)
+Which describes an optical shaft encoder?
+A. A device that detects rotation of a control by interrupting a light source with a patterned wheel
+B. A device that measures the strength of a beam of light using analog to digital conversion
+C. A digital encryption device often used to encrypt spacecraft control signals
+D. A device for generating RTTY signals by means of a rotating light source
+
+E6F06 (A)
+Which of these materials is most commonly used to create photoconductive devices?
+A. A crystalline semiconductor
+B. An ordinary metal
+C. A heavy metal
+D. A liquid semiconductor
+
+E6F07 (B)
+What is a solid-state relay?
+A. A relay using transistors to drive the relay coil
+B. A device that uses semiconductors to implement the functions of an electromechanical relay
+C. A mechanical relay that latches in the on or off state each time it is pulsed
+D. A semiconductor passive delay line
+
+E6F08 (C)
+Why are optoisolators often used in conjunction with solid-state circuits when switching 120 VAC?
+A. Optoisolators provide a low impedance link between a control circuit and a power circuit
+B. Optoisolators provide impedance matching between the control circuit and power circuit
+C. Optoisolators provide a very high degree of electrical isolation between a control circuit and the circuit being switched
+D. Optoisolators eliminate the effects of reflected light in the control circuit
+
+E6F09 (D)
+What is the efficiency of a photovoltaic cell?
+A. The output RF power divided by the input DC power
+B. Cost per kilowatt-hour generated
+C. The open-circuit voltage divided by the short-circuit current under full illumination
+D. The relative fraction of light that is converted to current
+
+E6F10 (B)
+What is the most common type of photovoltaic cell used for electrical power generation?
+A. Selenium
+B. Silicon
+C. Cadmium Sulfide
+D. Copper oxide
+
+E6F11 (B)
+What is the approximate open-circuit voltage produced by a fully illuminated silicon photovoltaic cell?
+A. 0.1 V
+B. 0.5 V
+C. 1.5 V
+D. 12 V
+
+E7A01 (C)
+Which circuit is bistable?
+A. An AND gate
+B. An OR gate
+C. A flip-flop
+D. A bipolar amplifier
+
+E7A02 (A)
+What is the function of a decade counter?
+A. It produces one output pulse for every 10 input pulses
+B. It decodes a decimal number for display on a seven-segment LED display
+C. It produces 10 output pulses for every input pulse
+D. It decodes a binary number for display on a seven-segment LED display
+
+E7A03 (B)
+Which of the following can divide the frequency of a pulse train by 2?
+A. An XOR gate
+B. A flip-flop
+C. An OR gate
+D. A multiplexer
+
+E7A04 (B)
+How many flip-flops are required to divide a signal frequency by 4?
+A. 1
+B. 2
+C. 4
+D. 8
+
+E7A05 (D)
+Which of the following is a circuit that continuously alternates between two states without an external clock?
+A. Monostable multivibrator
+B. J-K flip-flop
+C. T flip-flop
+D. Astable multivibrator
+
+E7A06 (A)
+What is a characteristic of a monostable multivibrator?
+A. It switches momentarily to the opposite binary state and then returns to its original state after a set time
+B. It produces a continuous square wave oscillating between 1 and 0
+C. It stores one bit of data in either a 0 or 1 state
+D. It maintains a constant output voltage, regardless of variations in the input voltage
+
+E7A07 (D)
+What logical operation does a NAND gate perform?
+A. It produces logic 0 at its output only when all inputs are logic 0
+B. It produces logic 1 at its output only when all inputs are logic 1
+C. It produces logic 0 at its output if some but not all inputs are logic 1
+D. It produces logic 0 at its output only when all inputs are logic 1
+
+E7A08 (A)
+What logical operation does an OR gate perform?
+A. It produces logic 1 at its output if any or all inputs are logic 1
+B. It produces logic 0 at its output if all inputs are logic 1
+C. It only produces logic 0 at its output when all inputs are logic 1
+D. It produces logic 1 at its output if all inputs are logic 0
+
+E7A09 (C)
+What logical operation is performed by an exclusive NOR gate?
+A. It produces logic 0 at its output only if all inputs are logic 0
+B. It produces logic 1 at its output only if all inputs are logic 1
+C. It produces logic 0 at its output if only one input is logic 1
+D. It produces logic 1 at its output if only one input is logic 1
+
+E7A10 (C)
+What is a truth table?
+A. A table of logic symbols that indicate the high logic states of an op-amp
+B. A diagram showing logic states when the digital device output is true
+C. A list of inputs and corresponding outputs for a digital device
+D. A table of logic symbols that indicate the logic states of an op-amp
+
+E7A11 (D)
+What type of logic defines "1" as a high voltage?
+A. Reverse Logic
+B. Assertive Logic
+C. Negative logic
+D. Positive Logic
+
+E7B01 (A)
+For what portion of the signal cycle does each active element in a push-pull Class AB amplifier conduct?
+A. More than 180 degrees but less than 360 degrees
+B. Exactly 180 degrees
+C. The entire cycle
+D. Less than 180 degrees
+
+E7B02 (A)
+What is a Class D amplifier?
+A. A type of amplifier that uses switching technology to achieve high efficiency
+B. A low power amplifier that uses a differential amplifier for improved linearity
+C. An amplifier that uses drift-mode FETs for high efficiency
+D. A frequency doubling amplifier
+
+E7B03 (A)
+Which of the following components form the output of a class D amplifier circuit?
+A. A low-pass filter to remove switching signal components
+B. A high-pass filter to compensate for low gain at low frequencies
+C. A matched load resistor to prevent damage by switching transients
+D. A temperature compensating load resistor to improve linearity
+
+E7B04 (A)
+Where on the load line of a Class A common emitter amplifier would bias normally be set?
+A. Approximately halfway between saturation and cutoff
+B. Where the load line intersects the voltage axis
+C. At a point where the bias resistor equals the load resistor
+D. At a point where the load line intersects the zero bias current curve
+
+E7B05 (C)
+What can be done to prevent unwanted oscillations in an RF power amplifier?
+A. Tune the stage for maximum SWR
+B. Tune both the input and output for maximum power
+C. Install parasitic suppressors and/or neutralize the stage
+D. Use a phase inverter in the output filter
+
+E7B06 (B)
+Which of the following amplifier types reduces even-order harmonics?
+A. Push-push
+B. Push-pull
+C. Class C
+D. Class AB
+
+E7B07 (D)
+Which of the following is a likely result when a Class C amplifier is used to amplify a single-sideband phone signal?
+A. Reduced intermodulation products
+B. Increased overall intelligibility
+C. Signal inversion
+D. Signal distortion and excessive bandwidth
+
+E7B08 (C)
+How can an RF power amplifier be neutralized?
+A. By increasing the driving power
+B. By reducing the driving power
+C. By feeding a 180-degree out-of-phase portion of the output back to the input
+D. By feeding an in-phase component of the output back to the input
+
+E7B09 (D)
+Which of the following describes how the loading and tuning capacitors are to be adjusted when tuning a vacuum tube RF power amplifier that employs a Pi-network output circuit?
+A. The loading capacitor is set to maximum capacitance and the tuning capacitor is adjusted for minimum allowable plate current
+B. The tuning capacitor is set to maximum capacitance and the loading capacitor is adjusted for minimum plate permissible current
+C. The loading capacitor is adjusted to minimum plate current while alternately adjusting the tuning capacitor for maximum allowable plate current
+D. The tuning capacitor is adjusted for minimum plate current, and the loading capacitor is adjusted for maximum permissible plate current
+
+E7B10 (B)
+In Figure E7-1, what is the purpose of R1 and R2?
+A. Load resistors
+B. Voltage divider bias
+C. Self bias
+D. Feedback
+
+E7B11 (D)
+In Figure E7-1, what is the purpose of R3?
+A. Fixed bias
+B. Emitter bypass
+C. Output load resistor
+D. Self bias
+
+E7B12 (C)
+What type of amplifier circuit is shown in Figure E7-1?
+A. Common base
+B. Common collector
+C. Common emitter
+D. Emitter follower
+
+E7B13 (D)
+Which of the following describes an emitter follower (or common collector) amplifier?
+A. A two-transistor amplifier with the emitters sharing a common bias resistor
+B. A differential amplifier with both inputs fed to the emitter of the input transistor
+C. An OR circuit with only one emitter used for output
+D. An amplifier with a low impedance output that follows the base input voltage
+
+E7B14 (B)
+Why are switching amplifiers more efficient than linear amplifiers?
+A. Switching amplifiers operate at higher voltages
+B. The power transistor is at saturation or cutoff most of the time
+C. Linear amplifiers have high gain resulting in higher harmonic content
+D. Switching amplifiers use push-pull circuits
+
+E7B15 (C)
+What is one way to prevent thermal runaway in a bipolar transistor amplifier?
+A. Neutralization
+B. Select transistors with high beta
+C. Use a resistor in series with the emitter
+D. All these choices are correct
+
+E7B16 (A)
+What is the effect of intermodulation products in a linear power amplifier?
+A. Transmission of spurious signals
+B. Creation of parasitic oscillations
+C. Low efficiency
+D. All these choices are correct
+
+E7B17 (A)
+Why are odd-order rather than even-order intermodulation distortion products of concern in linear power amplifiers?
+A. Because they are relatively close in frequency to the desired signal
+B. Because they are relatively far in frequency from the desired signal
+C. Because they invert the sidebands causing distortion
+D. Because they maintain the sidebands, thus causing multiple duplicate signals
+
+E7B18 (C)
+What is a characteristic of a grounded-grid amplifier?
+A. High power gain
+B. High filament voltage
+C. Low input impedance
+D. Low bandwidth
+
+E7C01 (D)
+How are the capacitors and inductors of a low-pass filter Pi-network arranged between the network's input and output?
+A. Two inductors are in series between the input and output, and a capacitor is connected between the two inductors and ground
+B. Two capacitors are in series between the input and output, and an inductor is connected between the two capacitors and ground
+C. An inductor is connected between the input and ground, another inductor is connected between the output and ground, and a capacitor is connected between the input and output
+D. A capacitor is connected between the input and ground, another capacitor is connected between the output and ground, and an inductor is connected between input and output
+
+E7C02 (C)
+Which of the following is a property of a T-network with series capacitors and a parallel shunt inductor?
+A. It is a low-pass filter
+B. It is a band-pass filter
+C. It is a high-pass filter
+D. It is a notch filter
+
+E7C03 (A)
+What advantage does a series-L Pi-L-network have over a series-L Pi-network for impedance matching between the final amplifier of a vacuum-tube transmitter and an antenna?
+A. Greater harmonic suppression
+B. Higher efficiency
+C. Does not require a capacitor
+D. Greater transformation range
+
+E7C04 (C)
+How does an impedance-matching circuit transform a complex impedance to a resistive impedance?
+A. It introduces negative resistance to cancel the resistive part of impedance
+B. It introduces transconductance to cancel the reactive part of impedance
+C. It cancels the reactive part of the impedance and changes the resistive part to a desired value
+D. Reactive currents are dissipated in matched resistances
+
+E7C05 (D)
+Which filter type is described as having ripple in the passband and a sharp cutoff?
+A. A Butterworth filter
+B. An active LC filter
+C. A passive op-amp filter
+D. A Chebyshev filter
+
+E7C06 (C)
+What are the distinguishing features of an elliptical filter?
+A. Gradual passband rolloff with minimal stop band ripple
+B. Extremely flat response over its pass band with gradually rounded stop band corners
+C. Extremely sharp cutoff with one or more notches in the stop band
+D. Gradual passband rolloff with extreme stop band ripple
+
+E7C07 (B)
+Which describes a Pi-L-network used for matching a vacuum tube final amplifier to a 50-ohm unbalanced output?
+A. A Phase Inverter Load network
+B. A Pi-network with an additional series inductor on the output
+C. A network with only three discrete parts
+D. A matching network in which all components are isolated from ground
+
+E7C08 (A)
+Which of the following factors has the greatest effect on the bandwidth and response shape of a crystal ladder filter?
+A. The relative frequencies of the individual crystals
+B. The DC voltage applied to the quartz crystal
+C. The gain of the RF stage preceding the filter
+D. The amplitude of the signals passing through the filter
+
+E7C09 (D)
+What is a crystal lattice filter?
+A. A power supply filter made with interlaced quartz crystals
+B. An audio filter made with four quartz crystals that resonate at 1kHz intervals
+C. A filter using lattice-shaped quartz crystals for high-Q performance
+D. A filter with narrow bandwidth and steep skirts made using quartz crystals
+
+E7C10 (B)
+Which of the following filters would be the best choice for use in a 2 meter band repeater duplexer?
+A. A crystal filter
+B. A cavity filter
+C. A DSP filter
+D. An L-C filter
+
+E7C11 (C)
+Which of the following describes a receiving filter's ability to reject signals occupying an adjacent channel?
+A. Passband ripple
+B. Phase response
+C. Shape factor
+D. Noise factor
+
+E7C12 (A)
+What is one advantage of a Pi-matching network over an L-matching network consisting of a single inductor and a single capacitor?
+A. The Q of Pi-networks can be controlled
+B. L-networks cannot perform impedance transformation
+C. Pi-networks are more stable
+D. Pi-networks provide balanced input and output
+
+E7D01 (D)
+How does a linear electronic voltage regulator work?
+A. It has a ramp voltage as its output
+B. It eliminates the need for a pass transistor
+C. The control element duty cycle is proportional to the line or load conditions
+D. The conduction of a control element is varied to maintain a constant output voltage
+
+E7D02 (C)
+What is a characteristic of a switching electronic voltage regulator?
+A. The resistance of a control element is varied in direct proportion to the line voltage or load current
+B. It is generally less efficient than a linear regulator
+C. The controlled device's duty cycle is changed to produce a constant average output voltage
+D. It gives a ramp voltage at its output
+
+E7D03 (A)
+What device is typically used as a stable voltage reference in a linear voltage regulator?
+A. A Zener diode
+B. A tunnel diode
+C. An SCR
+D. A varactor diode
+
+E7D04 (B)
+Which of the following types of linear voltage regulator usually make the most efficient use of the primary power source?
+A. A series current source
+B. A series regulator
+C. A shunt regulator
+D. A shunt current source
+
+E7D05 (D)
+Which of the following types of linear voltage regulator places a constant load on the unregulated voltage source?
+A. A constant current source
+B. A series regulator
+C. A shunt current source
+D. A shunt regulator
+
+E7D06 (C)
+What is the purpose of Q1 in the circuit shown in Figure E7-2?
+A. It provides negative feedback to improve regulation
+B. It provides a constant load for the voltage source
+C. It controls the current supplied to the load
+D. It provides D1 with current
+
+E7D07 (A)
+What is the purpose of C2 in the circuit shown in Figure E7-2?
+A. It bypasses rectifier output ripple around D1
+B. It is a brute force filter for the output
+C. To self-resonate at the hum frequency
+D. To provide fixed DC bias for Q1
+
+E7D08 (C)
+What type of circuit is shown in Figure E7-2?
+A. Switching voltage regulator
+B. Grounded emitter amplifier
+C. Linear voltage regulator
+D. Monostable multivibrator
+
+E7D09 (C)
+What is the main reason to use a charge controller with a solar power system?
+A. Prevention of battery undercharge
+B. Control of electrolyte levels during battery discharge
+C. Prevention of battery damage due to overcharge
+D. Matching of day and night charge rates
+
+E7D10 (C)
+What is the primary reason that a high-frequency switching type high-voltage power supply can be both less expensive and lighter in weight than a conventional power supply?
+A. The inverter design does not require any output filtering
+B. It uses a diode bridge rectifier for increased output
+C. The high frequency inverter design uses much smaller transformers and filter components for an equivalent power output
+D. It uses a large power factor compensation capacitor to recover power from the unused portion of the AC cycle
+
+E7D11 (D)
+What is the function of the pass transistor in a linear voltage regulator circuit?
+A. Permits a wide range of output voltage settings 
+B. Provides a stable input impedance over a wide range of source voltage
+C. Maintains nearly constant output impedance over a wide range of load current
+D. Maintains nearly constant output voltage over a wide range of load current
+
+E7D12 (C)
+What is the dropout voltage of an analog voltage regulator?
+A. Minimum input voltage for rated power dissipation
+B. Maximum output voltage drops when the input voltage is varied over its specified range
+C. Minimum input-to-output voltage required to maintain regulation
+D. Maximum that the output voltage may decrease at rated load
+
+E7D13 (C)
+What is the equation for calculating power dissipated by a series linear voltage regulator?
+A. Input voltage multiplied by input current
+B. Input voltage divided by output current
+C. Voltage difference from input to output multiplied by output current
+D. Output voltage multiplied by output current
+
+E7D14 (D)
+What is the purpose of connecting equal-value resistors across power supply filter capacitors connected in series?
+A. Equalize the voltage across each capacitor
+B. Discharge the capacitors when voltage is removed
+C. Provide a minimum load on the supply
+D. All these choices are correct
+
+E7D15 (D)
+What is the purpose of a step-start circuit in a high-voltage power supply?
+A. To provide a dual-voltage output for reduced power applications
+B. To compensate for variations of the incoming line voltage
+C. To allow for remote control of the power supply
+D. To allow the filter capacitors to charge gradually
+
+E7E01 (B)
+Which of the following can be used to generate FM phone emissions?
+A. A balanced modulator on the audio amplifier
+B. A reactance modulator on the oscillator
+C. A reactance modulator on the final amplifier
+D. A balanced modulator on the oscillator
+
+E7E02 (D)
+What is the function of a reactance modulator?
+A. To produce PM signals by using an electrically variable resistance
+B. To produce AM signals by using an electrically variable inductance or capacitance
+C. To produce AM signals by using an electrically variable resistance
+D. To produce PM or FM signals by using an electrically variable inductance or capacitance
+
+E7E03 (D)
+What is a frequency discriminator stage in a FM receiver?
+A. An FM generator circuit
+B. A circuit for filtering two closely adjacent signals
+C. An automatic band-switching circuit
+D. A circuit for detecting FM signals
+
+E7E04 (A)
+What is one way a single-sideband phone signal can be generated?
+A. By using a balanced modulator followed by a filter
+B. By using a reactance modulator followed by a mixer
+C. By using a loop modulator followed by a mixer
+D. By driving a product detector with a DSB signal
+
+E7E05 (D)
+What circuit is added to an FM transmitter to boost the higher audio frequencies?
+A. A de-emphasis network
+B. A heterodyne suppressor
+C. A heterodyne enhancer
+D. A pre-emphasis network
+
+E7E06 (A)
+Why is de-emphasis commonly used in FM communications receivers?
+A. For compatibility with transmitters using phase modulation
+B. To reduce impulse noise reception
+C. For higher efficiency
+D. To remove third-order distortion products
+
+E7E07 (B)
+What is meant by the term "baseband" in radio communications?
+A. The lowest frequency band that the transmitter or receiver covers
+B. The frequency range occupied by a message signal prior to modulation
+C. The unmodulated bandwidth of the transmitted signal
+D. The basic oscillator frequency in an FM transmitter that is multiplied to increase the deviation and carrier frequency
+
+E7E08 (C)
+What are the principal frequencies that appear at the output of a mixer circuit?
+A. Two and four times the original frequency
+B. The square root of the product of input frequencies
+C. The two input frequencies along with their sum and difference frequencies
+D. 1.414 and 0.707 times the input frequency
+
+E7E09 (A)
+What occurs when an excessive amount of signal energy reaches a mixer circuit?
+A. Spurious mixer products are generated
+B. Mixer blanking occurs
+C. Automatic limiting occurs
+D. A beat frequency is generated
+
+E7E10 (A)
+How does a diode envelope detector function?
+A. By rectification and filtering of RF signals
+B. By breakdown of the Zener voltage
+C. By mixing signals with noise in the transition region of the diode
+D. By sensing the change of reactance in the diode with respect to frequency
+
+E7E11 (C)
+Which type of detector circuit is used for demodulating SSB signals?
+A. Discriminator
+B. Phase detector
+C. Product detector
+D. Phase comparator
+
+E7F01 (C)
+What is meant by direct digital conversion as applied to software defined radios?
+A. Software is converted from source code to object code during operation of the receiver
+B. Incoming RF is converted to a control voltage for a voltage controlled oscillator
+C. Incoming RF is digitized by an analog-to-digital converter without being mixed with a local oscillator signal
+D. A switching mixer is used to generate I and Q signals directly from the RF input
+
+E7F02 (A)
+What kind of digital signal processing audio filter is used to remove unwanted noise from a received SSB signal?
+A. An adaptive filter
+B. A crystal-lattice filter
+C. A Hilbert-transform filter
+D. A phase-inverting filter
+
+E7F03 (C)
+What type of digital signal processing filter is used to generate an SSB signal?
+A. An adaptive filter
+B. A notch filter
+C. A Hilbert-transform filter
+D. An elliptical filter
+
+E7F04 (D)
+What is a common method of generating an SSB signal using digital signal processing?
+A. Mixing products are converted to voltages and subtracted by adder circuits
+B. A frequency synthesizer removes the unwanted sidebands
+C. Varying quartz crystal characteristics emulated in digital form
+D. Signals are combined in quadrature phase relationship
+
+E7F05 (B)
+How frequently must an analog signal be sampled by an analog-to-digital converter so that the signal can be accurately reproduced?
+A. At least half the rate of the highest frequency component of the signal
+B. At least twice the rate of the highest frequency component of the signal
+C. At the same rate as the highest frequency component of the signal
+D. At four times the rate of the highest frequency component of the signal
+
+E7F06 (D)
+What is the minimum number of bits required for an analog-to-digital converter to sample a signal with a range of 1 volt at a resolution of 1 millivolt?
+A. 4 bits
+B. 6 bits
+C. 8 bits
+D. 10 bits
+
+E7F07 (C)
+What function is performed by a Fast Fourier Transform?
+A. Converting analog signals to digital form
+B. Converting digital signals to analog form
+C. Converting digital signals from the time domain to the frequency domain
+D. Converting 8-bit data to 16-bit data
+
+E7F08 (B)
+What is the function of decimation?
+A. Converting data to binary code decimal form
+B. Reducing the effective sample rate by removing samples
+C. Attenuating the signal
+D. Removing unnecessary significant digits
+
+E7F09 (A)
+Why is an anti-aliasing digital filter required in a digital decimator?
+A. It removes high-frequency signal components that would otherwise be reproduced as lower frequency components
+B. It peaks the response of the decimator, improving bandwidth
+C. It removes low-frequency signal components to eliminate the need for DC restoration
+D. It notches out the sampling frequency to avoid sampling errors
+
+E7F10 (A)
+What aspect of receiver analog-to-digital conversion determines the maximum receive bandwidth of a Direct Digital Conversion SDR?
+A. Sample rate
+B. Sample width in bits
+C. Sample clock phase noise
+D. Processor latency
+
+E7F11 (B)
+What sets the minimum detectable signal level for a direct-sampling SDR receiver in the absence of atmospheric or thermal noise?
+A. Sample clock phase noise
+B. Reference voltage level and sample width in bits
+C. Data storage transfer rate
+D. Missing codes and jitter
+
+E7F12 (A)
+Which of the following is an advantage of a Finite Impulse Response (FIR) filter vs an Infinite Impulse Response (IIR) digital filter?
+A. FIR filters can delay all frequency components of the signal by the same amount
+B. FIR filters are easier to implement for a given set of passband rolloff requirements
+C. FIR filters can respond faster to impulses
+D. All these choices are correct
+
+E7F13 (D)
+What is the function of taps in a digital signal processing filter?
+A. To reduce excess signal pressure levels
+B. Provide access for debugging software
+C. Select the point at which baseband signals are generated
+D. Provide incremental signal delays for filter algorithms
+
+E7F14 (B)
+Which of the following would allow a digital signal processing filter to create a sharper filter response?
+A. Higher data rate
+B. More taps
+C. Complex phasor representations
+D. Double-precision math routines
+
+E7G01 (A)
+What is the typical output impedance of an op-amp?
+A. Very low
+B. Very high
+C. 100 ohms
+D. 1000 ohms
+
+E7G02 (D)
+What is ringing in a filter?
+A. An echo caused by a long time delay
+B. A reduction in high frequency response
+C. Partial cancellation of the signal over a range of frequencies
+D. Undesired oscillations added to the desired signal
+
+E7G03 (D)
+What is the typical input impedance of an op-amp?
+A. 100 ohms
+B. 1000 ohms
+C. Very low
+D. Very high
+
+E7G04 (C)
+What is meant by the "op-amp input offset voltage"?
+A. The output voltage of the op-amp minus its input voltage
+B. The difference between the output voltage of the op-amp and the input voltage required in the immediately following stage
+C. The differential input voltage needed to bring the open loop output voltage to zero
+D. The potential between the amplifier input terminals of the op-amp in an open loop condition
+
+E7G05 (A)
+How can unwanted ringing and audio instability be prevented in an op-amp RC audio filter circuit?
+A. Restrict both gain and Q
+B. Restrict gain but increase Q
+C. Restrict Q but increase gain
+D. Increase both gain and Q
+
+E7G06 (B)
+What is the gain-bandwidth of an operational amplifier?
+A. The maximum frequency for a filter circuit using that type of amplifier
+B. The frequency at which the open-loop gain of the amplifier equals one
+C. The gain of the amplifier at a filter's cutoff frequency
+D. The frequency at which the amplifier's offset voltage is zero
+
+E7G07 (C)
+What magnitude of voltage gain can be expected from the circuit in Figure E73 when R1 is 10 ohms and RF is 470 ohms?
+A. 0.21
+B. 94
+C. 47
+D. 24
+
+E7G08 (D)
+How does the gain of an ideal operational amplifier vary with frequency?
+A. It increases linearly with increasing frequency
+B. It decreases linearly with increasing frequency
+C. It decreases logarithmically with increasing frequency
+D. It does not vary with frequency
+
+E7G09 (D)
+What will be the output voltage of the circuit shown in Figure E7-3 if R1 is 1000 ohms, RF is 10,000 ohms, and 0.23 volts DC is applied to the input?
+A. 0.23 volts
+B. 2.3 volts
+C. -0.23 volts
+D. -2.3 volts
+
+E7G10 (C)
+What absolute voltage gain can be expected from the circuit in Figure E7-3 when R1 is 1800 ohms and RF is 68 kilohms?
+A. 1
+B. 0.03
+C. 38
+D. 76
+
+E7G11 (B)
+What absolute voltage gain can be expected from the circuit in Figure E7-3 when R1 is 3300 ohms and RF is 47 kilohms?
+A. 28
+B. 14
+C. 7
+D. 0.07
+
+E7G12 (A)
+What is an operational amplifier?
+A. A high-gain, direct-coupled differential amplifier with very high input impedance and very low output impedance
+B. A digital audio amplifier whose characteristics are determined by components external to the amplifier
+C. An amplifier used to increase the average output of frequency modulated amateur signals to the legal limit
+D. A RF amplifier used in the UHF and microwave regions
+
+E7H01 (D)
+What are three oscillator circuits used in amateur radio equipment?
+A. Taft, Pierce and negative feedback
+B. Pierce, Fenner and Beane
+C. Taft, Hartley and Pierce
+D. Colpitts, Hartley and Pierce
+
+E7H02 (C)
+What is a microphonic?
+A. An IC used for amplifying microphone signals
+B. Distortion caused by RF pickup on the microphone cable
+C. Changes in oscillator frequency due to mechanical vibration
+D. Excess loading of the microphone by an oscillator
+
+E7H03 (A)
+How is positive feedback supplied in a Hartley oscillator?
+A. Through a tapped coil
+B. Through a capacitive divider
+C. Through link coupling
+D. Through a neutralizing capacitor
+
+E7H04 (C)
+How is positive feedback supplied in a Colpitts oscillator?
+A. Through a tapped coil
+B. Through link coupling
+C. Through a capacitive divider
+D. Through a neutralizing capacitor
+
+E7H05 (D)
+How is positive feedback supplied in a Pierce oscillator?
+A. Through a tapped coil
+B. Through link coupling
+C. Through a neutralizing capacitor
+D. Through a quartz crystal
+
+E7H06 (B)
+Which of the following oscillator circuits are commonly used in VFOs?
+A. Pierce and Zener
+B. Colpitts and Hartley
+C. Armstrong and deForest
+D. Negative feedback and balanced feedback
+
+E7H07 (D)
+How can an oscillator's microphonic responses be reduced?
+A. Use NP0 capacitors
+B. Reduce noise on the oscillator's power supply
+C. Increase the bias voltage
+D. Mechanically isolate the oscillator circuitry from its enclosure
+
+E7H08 (A)
+Which of the following components can be used to reduce thermal drift in crystal oscillators?
+A. NP0 capacitors
+B. Toroidal inductors
+C. Wirewound resistors
+D. Non-inductive resistors
+
+E7H09 (A)
+What type of frequency synthesizer circuit uses a phase accumulator, lookup table, digital to analog converter, and a low-pass anti-alias filter?
+A. A direct digital synthesizer
+B. A hybrid synthesizer
+C. A phase-locked loop synthesizer
+D. A diode-switching matrix synthesizer
+
+E7H10 (B)
+What information is contained in the lookup table of a direct digital synthesizer (DDS)?
+A. The phase relationship between a reference oscillator and the output waveform
+B. Amplitude values that represent the desired waveform
+C. The phase relationship between a voltage-controlled oscillator and the output waveform
+D. Frequently used receiver and transmitter frequencies
+
+E7H11 (C)
+What are the major spectral impurity components of direct digital synthesizers?
+A. Broadband noise
+B. Digital conversion noise
+C. Spurious signals at discrete frequencies
+D. Nyquist limit noise
+
+E7H12 (B)
+Which of the following must be done to ensure that a crystal oscillator provides the frequency specified by the crystal manufacturer?
+A. Provide the crystal with a specified parallel inductance
+B. Provide the crystal with a specified parallel capacitance
+C. Bias the crystal at a specified voltage
+D. Bias the crystal at a specified current
+
+E7H13 (D)
+Which of the following is a technique for providing highly accurate and stable oscillators needed for microwave transmission and reception?
+A. Use a GPS signal reference
+B. Use a rubidium stabilized reference oscillator
+C. Use a temperature-controlled high Q dielectric resonator
+D. All these choices are correct
+
+E7H14 (C)
+What is a phase-locked loop circuit?
+A. An electronic servo loop consisting of a ratio detector, reactance modulator, and voltage-controlled oscillator
+B. An electronic circuit also known as a monostable multivibrator
+C. An electronic servo loop consisting of a phase detector, a low-pass filter, a voltage-controlled oscillator, and a stable reference oscillator
+D. An electronic circuit consisting of a precision push-pull amplifier with a differential input
+
+E7H15 (D)
+Which of these functions can be performed by a phase-locked loop?
+A. Wide-band AF and RF power amplification
+B. Comparison of two digital input signals, digital pulse counter
+C. Photovoltaic conversion, optical coupling
+D. Frequency synthesis, FM demodulation
+
+E8A01 (A)
+What is the name of the process that shows that a square wave is made up of a sine wave plus all its odd harmonics?
+A. Fourier analysis
+B. Vector analysis
+C. Numerical analysis
+D. Differential analysis
+
+E8A02 (A)
+Which of the following is a type of analog-to-digital conversion?
+A. Successive approximation
+B. Harmonic regeneration
+C. Level shifting
+D. Phase reversal
+
+E8A03 (A)
+What type of wave does a Fourier analysis show to be made up of sine waves of a given fundamental frequency plus all its harmonics?
+A. A sawtooth wave
+B. A square wave
+C. A sine wave
+D. A cosine wave
+
+E8A04 (B)
+What is "dither" with respect to analog-to-digital converters?
+A. An abnormal condition where the converter cannot settle on a value to represent the signal
+B. A small amount of noise added to the input signal to allow more precise representation of a signal over time
+C. An error caused by irregular quantization step size
+D. A method of decimation by randomly skipping samples
+
+E8A05 (D)
+What of the following instruments would be the most accurate for measuring the RMS voltage of a complex waveform?
+A. A grid dip meter
+B. A D'Arsonval meter
+C. An absorption wave meter
+D. A true-RMS calculating meter
+
+E8A06 (A)
+What is the approximate ratio of PEP-to-average power in a typical single-sideband phone signal?
+A. 2.5 to 1
+B. 25 to 1
+C. 1 to 1
+D. 100 to 1
+
+E8A07 (B)
+What determines the PEP-to-average power ratio of a single-sideband phone signal?
+A. The frequency of the modulating signal
+B. Speech characteristics
+C. The degree of carrier suppression 
+D. Amplifier gain
+
+E8A08 (C)
+Why would a direct or flash conversion analog-to-digital converter be useful for a software defined radio?
+A. Very low power consumption decreases frequency drift
+B. Immunity to out-of-sequence coding reduces spurious responses
+C. Very high speed allows digitizing high frequencies
+D. All these choices are correct
+
+E8A09 (D)
+How many different input levels can be encoded by an analog-to-digital converter with 8-bit resolution?
+A. 8
+B. 8 multiplied by the gain of the input amplifier
+C. 256 divided by the gain of the input amplifier
+D. 256
+
+E8A10 (C)
+What is the purpose of a low-pass filter used in conjunction with a digital-to-analog converter?
+A. Lower the input bandwidth to increase the effective resolution
+B. Improve accuracy by removing out-of-sequence codes from the input
+C. Remove harmonics from the output caused by the discrete analog levels generated
+D. All these choices are correct
+
+E8A11 (A)
+Which of the following is a measure of the quality of an analog-to-digital converter?
+A. Total harmonic distortion
+B. Peak envelope power
+C. Reciprocal mixing
+D. Power factor
+
+E8B01 (A)
+What is the modulation index of an FM signal?
+A. The ratio of frequency deviation to modulating signal frequency
+B. The ratio of modulating signal amplitude to frequency deviation
+C. The type of modulation used by the transmitter
+D. The bandwidth of the transmitted signal divided by the modulating signal frequency
+
+E8B02 (D)
+How does the modulation index of a phase-modulated emission vary with RF carrier frequency?
+A. It increases as the RF carrier frequency increases
+B. It decreases as the RF carrier frequency increases
+C. It varies with the square root of the RF carrier frequency
+D. It does not depend on the RF carrier frequency
+
+E8B03 (A)
+What is the modulation index of an FM-phone signal having a maximum frequency deviation of 3000 Hz either side of the carrier frequency when the modulating frequency is 1000 Hz?
+A. 3
+B. 0.3
+C. 3000
+D. 1000
+
+E8B04 (B)
+What is the modulation index of an FM-phone signal having a maximum carrier deviation of plus or minus 6 kHz when modulated with a 2 kHz modulating frequency?
+A. 6000
+B. 3
+C. 2000
+D. 1/3
+
+E8B05 (D)
+What is the deviation ratio of an FM-phone signal having a maximum frequency swing of plus-or-minus 5 kHz when the maximum modulation frequency is 3 kHz?
+A. 60
+B. 0.167
+C. 0.6
+D. 1.67
+
+E8B06 (A)
+What is the deviation ratio of an FM-phone signal having a maximum frequency swing of plus or minus 7.5 kHz when the maximum modulation frequency is 3.5 kHz?
+A. 2.14
+B. 0.214
+C. 0.47
+D. 47
+
+E8B07 (A)
+Orthogonal Frequency Division Multiplexing is a technique used for which type of amateur communication?
+A. High-speed digital modes
+B. Extremely low-power contacts
+C. EME
+D. OFDM signals are not allowed on amateur bands
+
+E8B08 (D)
+What describes Orthogonal Frequency Division Multiplexing?
+A. A frequency modulation technique that uses non-harmonically related frequencies
+B. A bandwidth compression technique using Fourier transforms
+C. A digital mode for narrow-band, slow-speed transmissions
+D. A digital modulation technique using subcarriers at frequencies chosen to avoid intersymbol interference
+
+E8B09 (B)
+What is deviation ratio?
+A. The ratio of the audio modulating frequency to the center carrier frequency
+B. The ratio of the maximum carrier frequency deviation to the highest audio modulating frequency
+C. The ratio of the carrier center frequency to the audio modulating frequency
+D. The ratio of the highest audio modulating frequency to the average audio modulating frequency
+
+E8B10 (B)
+What is frequency division multiplexing?
+A. The transmitted signal jumps from band to band at a predetermined rate
+B. Two or more information streams are merged into a baseband, which then modulates the transmitter
+C. The transmitted signal is divided into packets of information
+D. Two or more information streams are merged into a digital combiner, which then pulse position modulates the transmitter
+
+E8B11 (B)
+What is digital time division multiplexing?
+A. Two or more data streams are assigned to discrete sub-carriers on an FM transmitter
+B. Two or more signals are arranged to share discrete time slots of a data transmission
+C. Two or more data streams share the same channel by transmitting time of transmission as the sub-carrier
+D. Two or more signals are quadrature modulated to increase bandwidth efficiency
+
+E8C01 (C)
+How is Forward Error Correction implemented?
+A. By the receiving station repeating each block of three data characters
+B. By transmitting a special algorithm to the receiving station along with the data characters
+C. By transmitting extra data that may be used to detect and correct transmission errors
+D. By varying the frequency shift of the transmitted signal according to a predefined algorithm
+
+E8C02 (C)
+What is the definition of symbol rate in a digital transmission?
+A. The number of control characters in a message packet
+B. The duration of each bit in a message sent over the air
+C. The rate at which the waveform changes to convey information
+D. The number of characters carried per second by the station-to-station link 
+
+E8C03 (A)
+Why should phase-shifting of a PSK signal be done at the zero crossing of the RF signal?
+A. To minimize bandwidth
+B. To simplify modulation
+C. To improve carrier suppression
+D. All these choices are correct
+
+E8C04 (C)
+What technique minimizes the bandwidth of a PSK31 signal?
+A. Zero-sum character encoding
+B. Reed-Solomon character encoding
+C. Use of sinusoidal data pulses
+D. Use of trapezoidal data pulses
+
+E8C05 (C)
+What is the approximate bandwidth of a 13-WPM International Morse Code transmission?
+A. 13 Hz
+B. 26 Hz
+C. 52 Hz
+D. 104 Hz
+
+E8C06 (C)
+What is the bandwidth of a 170-hertz shift, 300-baud ASCII transmission?
+A. 0.1 Hz
+B. 0.3 kHz
+C. 0.5 kHz
+D. 1.0 kHz
+
+E8C07 (A)
+What is the bandwidth of a 4800-Hz frequency shift, 9600-baud ASCII FM transmission?
+A. 15.36 kHz
+B. 9.6 kHz
+C. 4.8 kHz
+D. 5.76 kHz
+
+E8C08 (D)
+How does ARQ accomplish error correction?
+A. Special binary codes provide automatic correction
+B. Special polynomial codes provide automatic correction
+C. If errors are detected, redundant data is substituted
+D. If errors are detected, a retransmission is requested
+
+E8C09 (D)
+Which digital code allows only one bit to change between sequential code values?
+A. Binary Coded Decimal Code
+B. Extended Binary Coded Decimal Interchange Code
+C. Excess 3 code
+D. Gray code
+
+E8C10 (C)
+How may symbol rate be increased without increasing bandwidth?
+A. It is impossible
+B. Increasing analog-to-digital conversion resolution
+C. Using a more efficient digital code
+D. Using forward error correction
+
+E8C11 (A)
+What is the relationship between symbol rate and baud?
+A. They are the same
+B. Baud is twice the symbol rate
+C. Symbol rate is only used for packet-based modes
+D. Baud is only used for RTTY
+
+E8C12 (C)
+What factors affect the bandwidth of a transmitted CW signal?
+A. IF bandwidth and Q
+B. Modulation index and output power
+C. Keying speed and shape factor (rise and fall time)
+D. All these choices are correct
+
+E8D01 (A)
+Why are received spread spectrum signals resistant to interference?
+A. Signals not using the spread spectrum algorithm are suppressed in the receiver
+B. The high power used by a spread spectrum transmitter keeps its signal from being easily overpowered
+C. The receiver is always equipped with a digital blanker
+D. If interference is detected by the receiver it will signal the transmitter to change frequencies
+
+E8D02 (B)
+What spread spectrum communications technique uses a high-speed binary bit stream to shift the phase of an RF carrier?
+A. Frequency hopping
+B. Direct sequence
+C. Binary phase-shift keying
+D. Phase compandored spread spectrum
+
+E8D03 (D)
+How does the spread spectrum technique of frequency hopping work?
+A. If interference is detected by the receiver it will signal the transmitter to change frequencies
+B. If interference is detected by the receiver it will signal the transmitter to wait until the frequency is clear
+C. A binary bit stream is used to shift the phase of an RF carrier very rapidly in a pseudorandom sequence
+D. The frequency of the transmitted signal is changed very rapidly according to a pseudorandom sequence also used by the receiving station
+
+E8D04 (C)
+What is the primary effect of extremely short rise or fall time on a CW signal?
+A. More difficult to copy
+B. The generation of RF harmonics
+C. The generation of key clicks
+D. Limits data speed
+
+E8D05 (A)
+What is the most common method of reducing key clicks?
+A. Increase keying waveform rise and fall times
+B. Low-pass filters at the transmitter output
+C. Reduce keying waveform rise and fall times
+D. High-pass filters at the transmitter output
+
+E8D06 (D)
+What is the advantage of including parity bits in ASCII characters?
+A. Faster transmission rate
+B. The signal can overpower interfering signals
+C. Foreign language characters can be sent
+D. Some types of errors can be detected
+
+E8D07 (D)
+What is a common cause of overmodulation of AFSK signals?
+A. Excessive numbers of retries
+B. Ground loops
+C. Bit errors in the modem
+D. Excessive transmit audio levels
+
+E8D08 (D)
+What parameter evaluates distortion of an AFSK signal caused by excessive input audio levels?
+A. Signal-to-noise ratio
+B. Baud rate
+C. Repeat Request Rate (RRR)
+D. Intermodulation Distortion (IMD)
+
+E8D09 (D)
+What is considered an acceptable maximum IMD level for an idling PSK signal?
+A. +10 dB
+B. +15 dB
+C. -20 dB
+D. -30 dB
+
+E8D10 (B)
+What are some of the differences between the Baudot digital code and ASCII?
+A. Baudot uses 4 data bits per character, ASCII uses 7 or 8; Baudot uses 1 character as a letters/figures shift code, ASCII has no letters/figures code
+B. Baudot uses 5 data bits per character, ASCII uses 7 or 8; Baudot uses 2 characters as letters/figures shift codes, ASCII has no letters/figures shift code
+C. Baudot uses 6 data bits per character, ASCII uses 7 or 8; Baudot has no letters/figures shift code, ASCII uses 2 letters/figures shift codes
+D. Baudot uses 7 data bits per character, ASCII uses 8; Baudot has no letters/figures shift code, ASCII uses 2 letters/figures shift codes
+
+E8D11 (C)
+What is one advantage of using ASCII code for data communications?
+A. It includes built-in error correction features
+B. It contains fewer information bits per character than any other code
+C. It is possible to transmit both upper and lower case text
+D. It uses one character as a shift code to send numeric and special characters
+
+E9A01 (C)
+What is an isotropic antenna?
+A. A grounded antenna used to measure Earth conductivity
+B. A horizontally polarized antenna used to compare Yagi antennas
+C. A theoretical, omnidirectional antenna used as a reference for antenna gain
+D. A spacecraft antenna used to direct signals toward Earth
+
+E9A02 (D)
+What is the effective radiated power relative to a dipole of a repeater station with 150 watts transmitter power output, 2 dB feed line loss, 2.2 dB duplexer loss, and 7 dBd antenna gain?
+A. 1977 watts
+B. 78.7 watts
+C. 420 watts
+D. 286 watts
+
+E9A03 (C)
+What is the radiation resistance of an antenna?
+A. The combined losses of the antenna elements and feed line
+B. The specific impedance of the antenna
+C. The value of a resistance that would dissipate the same amount of power as that radiated from an antenna
+D. The resistance in the atmosphere that an antenna must overcome to be able to radiate a signal
+
+E9A04 (B)
+Which of the following factors affect the feed point impedance of an antenna?
+A. Transmission line length
+B. Antenna height
+C. The settings of an antenna tuner at the transmitter
+D. The input power level
+
+E9A05 (D)
+What is included in the total resistance of an antenna system?
+A. Radiation resistance plus space impedance
+B. Radiation resistance plus transmission resistance
+C. Transmission-line resistance plus radiation resistance
+D. Radiation resistance plus loss resistance
+
+E9A06 (A)
+What is the effective radiated power relative to a dipole of a repeater station with 200 watts transmitter power output, 4 dB feed line loss, 3.2 dB duplexer loss, 0.8 dB circulator loss, and 10 dBd antenna gain?
+A. 317 watts
+B. 2000 watts
+C. 126 watts
+D. 300 watts
+
+E9A07 (B)
+What is the effective isotropic radiated power of a repeater station with 200 watts transmitter power output, 2 dB feed line loss, 2.8 dB duplexer loss, 1.2 dB circulator loss, and 7 dBi antenna gain?
+A. 159 watts
+B. 252 watts
+C. 632 watts
+D. 63.2 watts
+
+E9A08 (B)
+What is antenna bandwidth?
+A. Antenna length divided by the number of elements
+B. The frequency range over which an antenna satisfies a performance requirement
+C. The angle between the half-power radiation points
+D. The angle formed between two imaginary lines drawn through the element ends
+
+E9A09 (B)
+What is antenna efficiency?
+A. Radiation resistance divided by transmission resistance
+B. Radiation resistance divided by total resistance
+C. Total resistance divided by radiation resistance
+D. Effective radiated power divided by transmitter output
+
+E9A10 (A)
+Which of the following improves the efficiency of a ground-mounted quarter-wave vertical antenna?
+A. Installing a radial system
+B. Isolating the coax shield from ground
+C. Shortening the radiating element
+D. All these choices are correct
+
+E9A11 (C)
+Which of the following factors determines ground losses for a ground-mounted vertical antenna operating in the 3 MHz to 30 MHz range?
+A. The standing wave ratio
+B. Distance from the transmitter
+C. Soil conductivity
+D. Take-off angle
+
+E9A12 (A)
+How much gain does an antenna have compared to a 1/2-wavelength dipole when it has 6 dB gain over an isotropic antenna?
+A. 3.85 dB
+B. 6.0 dB
+C. 8.15 dB
+D. 2.79 dB
+
+E9A13 (C)
+What term describes station output, taking into account all gains and losses?
+A. Power factor
+B. Half-power bandwidth
+C. Effective radiated power
+D. Apparent power
+
+E9B01 (B)
+In the antenna radiation pattern shown in Figure E9-1, what is the beamwidth?
+A. 75 degrees
+B. 50 degrees
+C. 25 degrees
+D. 30 degrees
+
+E9B02 (B)
+In the antenna radiation pattern shown in Figure E9-1, what is the front-to-back ratio?
+A. 36 dB
+B. 18 dB
+C. 24 dB
+D. 14 dB
+
+E9B03 (B)
+In the antenna radiation pattern shown in Figure E9-1, what is the front-to-side ratio?
+A. 12 dB
+B. 14 dB
+C. 18 dB
+D. 24 dB
+
+E9B04 (B)
+What is the front-to-back ratio of the radiation pattern shown in Figure E92?
+A. 15 dB
+B. 28 dB
+C. 3 dB
+D. 38 dB
+
+E9B05 (A)
+What type of antenna pattern is shown in Figure E9-2?
+A. Elevation
+B. Azimuth
+C. Radiation resistance
+D. Polarization
+
+E9B06 (C)
+What is the elevation angle of peak response in the antenna radiation pattern shown in Figure E9-2?
+A. 45 degrees
+B. 75 degrees
+C. 7.5 degrees
+D. 25 degrees
+
+E9B07 (C)
+How does the total amount of radiation emitted by a directional gain antenna compare with the total amount of radiation emitted from a theoretical isotropic antenna, assuming each is driven by the same amount of power?
+A. The total amount of radiation from the directional antenna is increased by the gain of the antenna
+B. The total amount of radiation from the directional antenna is stronger by its front-to-back ratio
+C. They are the same
+D. The radiation from the isotropic antenna is 2.15 dB stronger than that from the directional antenna
+
+E9B08 (D)
+What is the far field of an antenna?
+A. The region of the ionosphere where radiated power is not refracted
+B. The region where radiated power dissipates over a specified time period
+C. The region where radiated field strengths are constant
+D. The region where the shape of the antenna pattern is independent of distance
+
+E9B09 (B)
+What type of computer program technique is commonly used for modeling antennas?
+A. Graphical analysis
+B. Method of Moments
+C. Mutual impedance analysis
+D. Calculus differentiation with respect to physical properties
+
+E9B10 (A)
+What is the principle of a Method of Moments analysis?
+A. A wire is modeled as a series of segments, each having a uniform value of current
+B. A wire is modeled as a single sine-wave current generator
+C. A wire is modeled as a single sine-wave voltage source
+D. A wire is modeled as a series of segments, each having a distinct value of voltage across it
+
+E9B11 (C)
+What is a disadvantage of decreasing the number of wire segments in an antenna model below 10 segments per half-wavelength?
+A. Ground conductivity will not be accurately modeled
+B. The resulting design will favor radiation of harmonic energy
+C. The computed feed point impedance may be incorrect
+D. The antenna will become mechanically unstable
+
+E9C01 (D)
+What is the radiation pattern of two 1/4-wavelength vertical antennas spaced 1/2-wavelength apart and fed 180 degrees out of phase?
+A. Cardioid
+B. Omni-directional
+C. A figure-8 broadside to the axis of the array
+D. A figure-8 oriented along the axis of the array
+
+E9C02 (A)
+What is the radiation pattern of two 1/4 wavelength vertical antennas spaced 1/4 wavelength apart and fed 90 degrees out of phase?
+A. Cardioid
+B. A figure-8 end-fire along the axis of the array
+C. A figure-8 broadside to the axis of the array
+D. Omni-directional
+
+E9C03 (C)
+What is the radiation pattern of two 1/4-wavelength vertical antennas spaced 1/2 wavelength apart and fed in phase?
+A. Omni-directional
+B. Cardioid
+C. A Figure-8 broadside to the axis of the array
+D. A Figure-8 end-fire along the axis of the array
+
+E9C04 (B)
+What happens to the radiation pattern of an unterminated long wire antenna as the wire length is increased?
+A. The lobes become more perpendicular to the wire
+B. The lobes align more in the direction of the wire
+C. The vertical angle increases
+D. The front-to-back ratio decreases
+
+E9C05 (A)
+Which of the following is a type of OCFD antenna?
+A. A dipole fed approximately 1/3 the way from one end with a 4:1 balun to provide multiband operation
+B. A remotely tunable dipole antenna using orthogonally controlled frequency diversity
+C. A folded dipole center-fed with 300-ohm transmission line
+D. A multiband dipole antenna using one-way circular polarization for frequency diversity
+
+E9C06 (B)
+What is the effect of adding a terminating resistor to a rhombic antenna?
+A. It reflects the standing waves on the antenna elements back to the transmitter
+B. It changes the radiation pattern from bidirectional to unidirectional
+C. It changes the radiation pattern from horizontal to vertical polarization
+D. It decreases the ground loss
+
+E9C07 (A)
+What is the approximate feed point impedance at the center of a two-wire folded dipole antenna?
+A. 300 ohms
+B. 72 ohms
+C. 50 ohms
+D. 450 ohms
+
+E9C08 (C)
+What is a folded dipole antenna?
+A. A dipole one-quarter wavelength long
+B. A type of ground-plane antenna
+C. A half-wave dipole with an additional parallel wire connecting its two ends
+D. A dipole configured to provide forward gain
+
+E9C09 (A)
+Which of the following describes a G5RV antenna?
+A. A multi-band dipole antenna fed with coax and a balun through a selected length of open wire transmission line
+B. A multi-band trap antenna
+C. A phased array antenna consisting of multiple loops
+D. A wide band dipole using shorted coaxial cable for the radiating elements and fed with a�4:1 balun
+
+E9C10 (B)
+Which of the following describes a Zepp antenna?
+A. A dipole constructed from zip cord
+B. An end-fed dipole antenna
+C. An omni-directional antenna commonly used for satellite communications
+D. A vertical array capable of quickly changing the direction of maximum radiation by changing phasing lines
+
+E9C11 (D)
+How is the far-field elevation pattern of a vertically polarized antenna affected by being mounted over seawater versus soil?
+A. The low-angle radiation decreases
+B. Additional higher vertical angle lobes will appear
+C. Fewer vertical angle lobes will be present
+D. The low-angle radiation increases
+
+E9C12 (C)
+Which of the following describes an Extended Double Zepp antenna?
+A. A wideband vertical antenna constructed from precisely tapered aluminum tubing
+B. A portable antenna erected using two push support poles
+C. A center-fed 1.25-wavelength antenna (two 5/8-wave elements in phase)
+D. An end-fed folded dipole antenna
+
+E9C13 (B)
+How does the radiation pattern of a horizontally polarized 3-element beam antenna vary with increasing height above ground?
+A. The takeoff angle of the lowest elevation lobe increases
+B. The takeoff angle of the lowest elevation lobe decreases
+C. The horizontal beamwidth increases
+D. The horizontal beamwidth decreases
+
+E9C14 (B)
+How does the performance of a horizontally polarized antenna mounted on the side of a hill compare with the same antenna mounted on flat ground?
+A. The main lobe takeoff angle increases in the downhill direction
+B. The main lobe takeoff angle decreases in the downhill direction
+C. The horizontal beamwidth decreases in the downhill direction
+D. The horizontal beamwidth increases in the uphill direction
+
+E9D01 (D)
+How much does the gain of an ideal parabolic dish antenna change when the operating frequency is doubled?
+A. 2 dB
+B. 3 dB
+C. 4 dB
+D. 6 dB
+
+E9D02 (C)
+How can linearly polarized Yagi antennas be used to produce circular polarization?
+A. Stack two Yagis fed 90 degrees out of phase to form an array with the respective elements in parallel planes
+B. Stack two Yagis fed in phase to form an array with the respective elements in parallel planes
+C. Arrange two Yagis perpendicular to each other with the driven elements at the same point on the boom fed 90 degrees out of phase
+D. Arrange two Yagis collinear to each other with the driven elements fed 180 degrees out of phase
+
+E9D03 (A)
+Where should a high Q loading coil be placed to minimize losses in a shortened vertical antenna?
+A. Near the center of the vertical radiator
+B. As low as possible on the vertical radiator
+C. As close to the transmitter as possible
+D. At a voltage node
+
+E9D04 (C)
+Why should an HF mobile antenna loading coil have a high ratio of reactance to resistance?
+A. To swamp out harmonics
+B. To lower the radiation angle
+C. To minimize losses
+D. To minimize the Q
+
+E9D05 (B)
+What usually occurs if a Yagi antenna is designed solely for maximum forward gain?
+A. The front-to-back ratio increases
+B. The front-to-back ratio decreases
+C. The frequency response is widened over the whole frequency band
+D. The SWR is reduced
+
+E9D06 (B)
+What happens to the SWR bandwidth when one or more loading coils are used to resonate an electrically short antenna?
+A. It is increased
+B. It is decreased
+C. It is unchanged if the loading coil is located at the feed point
+D. It is unchanged if the loading coil is located at a voltage maximum point 
+
+E9D07 (D)
+What is an advantage of using top loading in a shortened HF vertical antenna?
+A. Lower Q
+B. Greater structural strength
+C. Higher losses
+D. Improved radiation efficiency
+
+E9D08 (B)
+What happens as the Q of an antenna increases?
+A. SWR bandwidth increases
+B. SWR bandwidth decreases
+C. Gain is reduced
+D. More common-mode current is present on the feed line
+
+E9D09 (D)
+What is the function of a loading coil used as part of an HF mobile antenna?
+A. To increase the SWR bandwidth
+B. To lower the losses
+C. To lower the Q
+D. To cancel capacitive reactance
+
+E9D10 (B)
+What happens to feed-point impedance at the base of a fixed length HF mobile antenna when operated below its resonant frequency?
+A. The radiation resistance decreases and the capacitive reactance decreases
+B. The radiation resistance decreases and the capacitive reactance increases
+C. The radiation resistance increases and the capacitive reactance decreases
+D. The radiation resistance increases and the capacitive reactance increases
+
+E9D11 (B)
+Which of the following conductors would be best for minimizing losses in a station's RF ground system?
+A. Resistive wire, such as spark plug wire
+B. Wide flat copper strap
+C. Stranded wire
+D. Solid wire
+
+E9D12 (C)
+Which of the following would provide the best RF ground for your station?
+A. A 50-ohm resistor connected to ground
+B. An electrically short connection to a metal water pipe
+C. An electrically short connection to 3 or 4 interconnected ground rods driven into the Earth
+D. An electrically short connection to 3 or 4 interconnected ground rods via a series RF choke
+
+E9E01 (B)
+What system matches a higher-impedance transmission line to a lower-impedance antenna by connecting the line to the driven element in two places spaced a fraction of a wavelength each side of element center?
+A. The gamma matching system
+B. The delta matching system
+C. The omega matching system
+D. The stub matching system
+
+E9E02 (A)
+What is the name of an antenna matching system that matches an unbalanced feed line to an antenna by feeding the driven element both at the center of the element and at a fraction of a wavelength to one side of center?
+A. The gamma match
+B. The delta match
+C. The epsilon match
+D. The stub match
+
+E9E03 (D)
+What is the name of the matching system that uses a section of transmission line connected in parallel with the feed line at or near the feed point?
+A. The gamma match
+B. The delta match
+C. The omega match
+D. The stub match
+
+E9E04 (B)
+What is the purpose of the series capacitor in a gamma-type antenna matching network?
+A. To provide DC isolation between the feed line and the antenna
+B. To cancel the inductive reactance of the matching network
+C. To provide a rejection notch that prevents the radiation of harmonics
+D. To transform the antenna impedance to a higher value
+
+E9E05 (A)
+How must an antenna's driven element be tuned to use a hairpin matching system?
+A. The driven element reactance must be capacitive
+B. The driven element reactance must be inductive
+C. The driven element resonance must be lower than the operating frequency
+D. The driven element radiation resistance must be higher than the characteristic impedance of the transmission line
+
+E9E06 (C)
+Which of these feed line impedances would be suitable for constructing a quarter-wave Q-section for matching a 100-ohm loop to 50-ohm feed line?
+A. 50 ohms
+B. 62 ohms
+C. 75 ohms
+D. 450 ohms
+
+E9E07 (B)
+What parameter describes the interactions at the load end of a mismatched transmission line?
+A. Characteristic impedance
+B. Reflection coefficient
+C. Velocity factor
+D. Dielectric constant
+
+E9E08 (C)
+What is a use for a Wilkinson divider?
+A. It divides the operating frequency of a transmitter signal so it can be used on a lower frequency band
+B. It is used to feed high-impedance antennas from a low-impedance source
+C. It is used to divide power equally between two 50-ohm loads while maintaining 50-ohm input impedance
+D. It is used to feed low-impedance loads from a high-impedance source
+
+E9E09 (C){ }
+Which of the following is used to shunt-feed a grounded tower at its base?
+A. Double-bazooka match
+B. Hairpin match
+C. Gamma match
+D. All these choices are correct
+
+E9E10 (C)
+Which of these choices is an effective way to match an antenna with a 100-ohm feed point impedance to a 50-ohm coaxial cable feed line?
+A. Connect a 1/4-wavelength open stub of 300-ohm twinlead in parallel with the coaxial feed line where it connects to the antenna
+B. Insert a 1/2 wavelength piece of 300-ohm twinlead in series between the antenna terminals and the 50-ohm feed cable
+C. Insert a 1/4-wavelength piece of 75-ohm coaxial cable transmission line in series between the antenna terminals and the 50-ohm feed cable
+D. Connect a 1/2 wavelength shorted stub of 75-ohm cable in parallel with the 50-ohm cable where it attaches to the antenna
+
+E9E11 (A)
+What is the primary purpose of phasing lines when used with an antenna having multiple driven elements?
+A. It ensures that each driven element operates in concert with the others to create the desired antenna pattern
+B. It prevents reflected power from traveling back down the feed line and causing harmonic radiation from the transmitter
+C. It allows single-band antennas to operate on other bands
+D. It creates a low-angle radiation pattern
+
+E9F01 (D)
+What is the velocity factor of a transmission line?
+A. The ratio of the characteristic impedance of the line to the terminating impedance
+B. The index of shielding for coaxial cable
+C. The velocity of the wave in the transmission line multiplied by the velocity of light in a vacuum
+D. The velocity of the wave in the transmission line divided by the velocity of light in a vacuum
+
+E9F02 (C)
+Which of the following has the biggest effect on the velocity factor of a transmission line?
+A. The termination impedance
+B. The line length
+C. Dielectric materials used in the line
+D. The center conductor resistivity
+
+E9F03 (D)
+Why is the physical length of a coaxial cable transmission line shorter than its electrical length?
+A. Skin effect is less pronounced in the coaxial cable
+B. The characteristic impedance is higher in a parallel feed line
+C. The surge impedance is higher in a parallel feed line
+D. Electrical signals move more slowly in a coaxial cable than in air
+
+E9F04 (B)
+What impedance does a 1/2-wavelength transmission line present to a generator when the line is shorted at the far end?
+A. Very high impedance
+B. Very low impedance
+C. The same as the characteristic impedance of the line
+D. The same as the output impedance of the generator
+
+E9F05 (D)
+What is the approximate physical length of a solid polyethylene dielectric coaxial transmission line that is electrically 1/4 wavelength long at 14.1 MHz?
+A. 10.6 meters
+B. 5.3 meters
+C. 4.3 meters
+D. 3.5 meters
+
+E9F06 (C)
+What is the approximate physical length of an air-insulated, parallel conductor transmission line that is electrically 1/2 wavelength long at 14.10 MHz?
+A. 7.0 meters
+B. 8.5 meters
+C. 10.6 meters
+D. 13.3 meters
+
+E9F07 (A)
+How does ladder line compare to small-diameter coaxial cable such as RG-58 at 50 MHz?
+A. Lower loss
+B. Higher SWR
+C. Smaller reflection coefficient
+D. Lower velocity factor
+
+E9F08 (D)
+Which of the following is a significant difference between foam dielectric coaxial cable and solid dielectric cable, assuming all other parameters are the same?
+A. Foam dielectric has lower safe operating voltage limits
+B. Foam dielectric has lower loss per unit of length
+C. Foam dielectric has higher velocity factor
+D. All these choices are correct
+
+E9F09 (B)
+What is the approximate physical length of a foam polyethylene dielectric coaxial transmission line that is electrically 1/4 wavelength long at 7.2 MHz?
+A. 10.4 meters
+B. 8.3 meters
+C. 6.9 meters
+D. 5.2 meters
+
+E9F10 (C)
+What impedance does a 1/8-wavelength transmission line present to a generator when the line is shorted at the far end?
+A. A capacitive reactance
+B. The same as the characteristic impedance of the line
+C. An inductive reactance
+D. Zero
+
+E9F11 (C)
+What impedance does a 1/8-wavelength transmission line present to a generator when the line is open at the far end?
+A. The same as the characteristic impedance of the line
+B. An inductive reactance
+C. A capacitive reactance
+D. Infinite
+
+E9F12 (D)
+What impedance does a 1/4-wavelength transmission line present to a generator when the line is open at the far end?
+A. The same as the characteristic impedance of the line
+B. The same as the input impedance to the generator
+C. Very high impedance
+D. Very low impedance
+
+E9F13 (A)
+What impedance does a 1/4-wavelength transmission line present to a generator when the line is shorted at the far end?
+A. Very high impedance
+B. Very low impedance
+C. The same as the characteristic impedance of the transmission line
+D. The same as the generator output impedance
+
+E9G01 (A)
+Which of the following can be calculated using a Smith chart?
+A. Impedance along transmission lines
+B. Radiation resistance
+C. Antenna radiation pattern
+D. Radio propagation
+
+E9G02 (B)
+What type of coordinate system is used in a Smith chart?
+A. Voltage circles and current arcs
+B. Resistance circles and reactance arcs
+C. Voltage lines and current chords
+D. Resistance lines and reactance chords
+
+E9G03 (C)
+Which of the following is often determined using a Smith chart?
+A. Beam headings and radiation patterns
+B. Satellite azimuth and elevation bearings
+C. Impedance and SWR values in transmission lines
+D. Trigonometric functions
+
+E9G04 (C)
+What are the two families of circles and arcs that make up a Smith chart?
+A. Resistance and voltage
+B. Reactance and voltage
+C. Resistance and reactance
+D. Voltage and impedance
+
+E9G05 (A)
+Which of the following is a common use for a Smith chart?
+A. Determine the length and position of an impedance matching stub
+B. Determine the impedance of a transmission line, given the physical dimensions
+C. Determine the gain of an antenna given the physical and electrical parameters
+D. Determine the loss/100 feet of a transmission line, given the velocity factor and conductor materials
+
+E9G06 (B)
+On the Smith chart shown in Figure E9-3, what is the name for the large outer circle on which the reactance arcs terminate?
+A. Prime axis
+B. Reactance axis
+C. Impedance axis
+D. Polar axis
+
+E9G07 (D)
+On the Smith chart shown in Figure E9-3, what is the only straight line shown?
+A. The reactance axis
+B. The current axis
+C. The voltage axis
+D. The resistance axis
+
+E9G08 (C)
+What is the process of normalization with regard to a Smith chart?
+A. Reassigning resistance values with regard to the reactance axis
+B. Reassigning reactance values with regard to the resistance axis
+C. Reassigning impedance values with regard to the prime center
+D. Reassigning prime center with regard to the reactance axis
+
+E9G09 (A)
+What third family of circles is often added to a Smith chart during the process of solving problems?
+A. Standing wave ratio circles
+B. Antenna-length circles
+C. Coaxial-length circles
+D. Radiation-pattern circles
+
+E9G10 (D)
+What do the arcs on a Smith chart represent?
+A. Frequency
+B. SWR
+C. Points with constant resistance
+D. Points with constant reactance
+
+E9G11 (B)
+How are the wavelength scales on a Smith chart calibrated?
+A. In fractions of transmission line electrical frequency
+B. In fractions of transmission line electrical wavelength
+C. In fractions of antenna electrical wavelength
+D. In fractions of antenna electrical frequency
+
+E9H01 (D)
+When constructing a Beverage antenna, which of the following factors should be included in the design to achieve good performance at the desired frequency?
+A. Its overall length must not exceed 1/4 wavelength
+B. It must be mounted more than 1 wavelength above ground
+C. It should be configured as a four-sided loop
+D. It should be one or more wavelengths long
+
+E9H02 (A)
+Which is generally true for low band (160 meter and 80 meter) receiving antennas?
+A. Atmospheric noise is so high that gain over a dipole is not important
+B. They must be erected at least 1/2 wavelength above the ground to attain good directivity
+C. Low loss coax transmission line is essential for good performance
+D. All these choices are correct
+
+E9H03 (D)
+What is Receiving Directivity Factor (RDF)?
+A. Forward gain compared to the gain in the reverse direction
+B. Relative directivity compared to isotropic
+C. Relative directivity compared to a dipole
+D. Forward gain compared to average gain over the entire hemisphere 
+
+E9H04 (B)
+What is an advantage of placing a grounded electrostatic shield around a small loop direction-finding antenna?
+A. It adds capacitive loading, increasing the bandwidth of the antenna
+B. It eliminates unbalanced capacitive coupling to the surroundings, improving the nulls
+C. It eliminates tracking errors caused by strong out-of-band signals
+D. It increases signal strength by providing a better match to the feed line
+
+E9H05 (A)
+What is the main drawback of a small wire-loop antenna for direction finding?
+A. It has a bidirectional pattern
+B. It has no clearly defined null
+C. It is practical for use only on VHF and higher bands
+D. All these choices are correct
+
+E9H06 (C)
+What is the triangulation method of direction finding?
+A. The geometric angles of sky waves from the source are used to determine its position
+B. A fixed receiving station plots three headings to the signal source
+C. Antenna headings from several different receiving locations are used to locate the signal source
+D. A fixed receiving station uses three different antennas to plot the location of the signal source
+
+E9H07 (D)
+Why is RF attenuation used when direction-finding?
+A. To narrow the receiver bandwidth
+B. To compensate for isotropic directivity and the antenna effect of feed lines
+C. To increase receiver sensitivity 
+D. To prevent receiver overload which reduces pattern nulls
+
+E9H08 (A)
+What is the function of a sense antenna?
+A. It modifies the pattern of a DF antenna array to provide a null in one direction
+B. It increases the sensitivity of a DF antenna array
+C. It allows DF antennas to receive signals at different vertical angles
+D. It provides diversity reception that cancels multipath signals
+
+E9H09 (B)
+What is a Pennant antenna?
+A. A four-element, high-gain vertical array invented by George Pennant
+B. A small, vertically oriented receiving antenna consisting of a triangular loop terminated in approximately 900 ohms 
+C. A form of rhombic antenna terminated in a variable capacitor to provide frequency diversity
+D. A stealth antenna built to look like a flagpole
+
+E9H10 (D)
+How can the output voltage of a multiple-turn receiving loop antenna be increased?
+A. By reducing the permeability of the loop shield
+B. By utilizing high impedance wire for the coupling loop
+C. By winding adjacent turns in opposing directions
+D. By increasing the number of turns and/or the area
+
+E9H11 (B)
+What feature of a cardioid pattern antenna makes it useful for direction finding?
+A. A very sharp peak
+B. A very sharp single null
+C. Broadband response 
+D. High radiation angle 
+
+E0A01 (B)
+What is the primary function of an external earth connection or ground rod?
+A. Reduce received noise
+B. Lightning protection
+C. Reduce RF current flow between pieces of equipment
+D. Reduce RFI to telephones and home entertainment systems
+
+E0A02 (B)
+When evaluating RF exposure levels from your station at a neighbor's home, what must you do?
+A. Ensure signals from your station are less than the controlled Maximum Permitted Exposure (MPE) limits
+B. Ensure signals from your station are less than the uncontrolled Maximum Permitted Exposure (MPE) limits
+C. Ensure signals from your station are less than the controlled Maximum Permitted Emission (MPE) limits
+D. Ensure signals from your station are less than the uncontrolled Maximum Permitted Emission (MPE) limits 
+
+E0A03 (C)
+Over what range of frequencies are the FCC human body RF exposure limits most restrictive?
+A. 300 kHz to 3 MHz
+B. 3 to 30 MHz
+C. 30 to 300 MHz
+D. 300 to 3000 MHz
+
+E0A04 (C)
+When evaluating a site with multiple transmitters operating at the same time, the operators and licensees of which transmitters are responsible for mitigating over-exposure situations?
+A. Only the most powerful transmitter
+B. Only commercial transmitters
+C. Each transmitter that produces 5 percent or more of its MPE limit in areas where the total MPE limit is exceeded.
+D. Each transmitter operating with a duty cycle greater than 50 percent
+
+E0A05 (B)
+What is one of the potential hazards of operating in the amateur radio microwave bands?
+A. Microwaves are ionizing radiation
+B. The high gain antennas commonly used can result in high exposure levels
+C. Microwaves often travel long distances by ionospheric reflection
+D. The extremely high frequency energy can damage the joints of antenna structures
+
+E0A06 (D)
+Why are there separate electric (E) and magnetic (H) field MPE limits?
+A. The body reacts to electromagnetic radiation from both the E and H fields
+B. Ground reflections and scattering make the field strength vary with location
+C. E field and H field radiation intensity peaks can occur at different locations
+D. All these choices are correct
+
+E0A07 (B)
+How may dangerous levels of carbon monoxide from an emergency generator be detected?
+A. By the odor
+B. Only with a carbon monoxide detector
+C. Any ordinary smoke detector can be used
+D. By the yellowish appearance of the gas
+
+E0A08 (C)
+What does SAR measure?
+A. Synthetic Aperture Ratio of the human body
+B. Signal Amplification Rating
+C. The rate at which RF energy is absorbed by the body
+D. The rate of RF energy reflected from stationary terrain
+
+E0A09 (C)
+Which insulating material commonly used as a thermal conductor for some types of electronic devices is extremely toxic if broken or crushed and the particles are accidentally inhaled?
+A. Mica
+B. Zinc oxide
+C. Beryllium Oxide
+D. Uranium Hexafluoride
+
+E0A10 (A)
+What toxic material may be present in some electronic components such as high voltage capacitors and transformers?
+A. Polychlorinated biphenyls
+B. Polyethylene
+C. Polytetrafluoroethylene
+D. Polymorphic silicon
+
+E0A11 (C)
+Which of the following injuries can result from using high-power UHF or microwave transmitters?
+A. Hearing loss caused by high voltage corona discharge
+B. Blood clotting from the intense magnetic field
+C. Localized heating of the body from RF exposure in excess of the MPE limits
+D. Ingestion of ozone gas from the cooling system
+

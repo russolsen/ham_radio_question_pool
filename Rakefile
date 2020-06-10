@@ -2,10 +2,11 @@
 tech_dir = "technician-2018-2022"
 gen_dir = "general-2019-2023"
 extra_dir = "extra-2016-2020"
+new_extra_dir = "extra-2020-2024"
 
 process_prog = "../programs/process.rb"
 
-task default: [:technician_formats, :general_formats, :extra_formats]
+task default: [:technician_formats, :general_formats, :extra_formats, :new_extra_formats]
 
 task :technician_formats => "#{tech_dir}/technician.txt" do
   cd tech_dir do
@@ -20,6 +21,12 @@ task :general_formats => "#{gen_dir}/general.txt" do
 end
 
 task :extra_formats => "#{extra_dir}/extra.txt" do
+  cd extra_dir do
+    ruby process_prog, "extra"
+  end
+end
+
+task :new_extra_formats => "#{new_extra_dir}/extra.txt" do
   cd extra_dir do
     ruby process_prog, "extra"
   end

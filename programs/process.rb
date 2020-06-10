@@ -4,6 +4,12 @@ require 'json'
 require 'yaml'
 require 'csv'
 
+def readline(io)
+  text = io.readline.rstrip
+  #puts("Read #{text}")
+  text
+end
+
 def parse_header(header)
   id = header[0,5]
   correct_char = header[7,1]
@@ -12,7 +18,7 @@ def parse_header(header)
 end
 
 def read_header(io)
-  text = io.readline.rstrip
+  text = readline(io)
   #puts "Header #{text}"
   parse_header(text)
 end
@@ -22,13 +28,13 @@ def parse_answer(answer)
 end
 
 def read_answer(io)
-  text = io.readline.rstrip
+  text = readline(io)
   #puts("answer text is #{text}")
   parse_answer(text)
 end
 
 def read_blank(io)
-  text = io.readline.strip
+  text = readline(io).strip
   raise "Expected blank line, not [#{text}]" unless text.empty?
   text
 end
