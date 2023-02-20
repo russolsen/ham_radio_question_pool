@@ -1949,7 +1949,7 @@
   - Lead-acid
   - Lithium-ion
 - :id: T6A12
-  :correct: -24
+  :correct: 0
   :question: What type of switch is represented by component 3 in figure T-2?
   :answers:
   - Single-pole single-throw
