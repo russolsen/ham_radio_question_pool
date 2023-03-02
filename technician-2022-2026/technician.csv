@@ -223,7 +223,7 @@ T6A08,2,What is the function of an SPDT switch?,A single circuit is opened or cl
 T6A09,0,What electrical component is used to protect other circuit components from current overloads?,Fuse,Thyratron,Varactor,All these choices are correct
 T6A10,3,Which of the following battery chemistries is rechargeable?,Nickel-metal hydride,Lithium-ion,Lead-acid,All these choices are correct
 T6A11,1,Which of the following battery chemistries is not rechargeable?,Nickel-cadmium,Carbon-zinc,Lead-acid,Lithium-ion
-T6A12,-24,What type of switch is represented by component 3 in figure T-2?,Single-pole single-throw,Single-pole double-throw,Double-pole single-throw,Double-pole double-throw
+T6A12,0,What type of switch is represented by component 3 in figure T-2?,Single-pole single-throw,Single-pole double-throw,Double-pole single-throw,Double-pole double-throw
 T6B01,0,Which is true about forward voltage drop in a diode?,It is lower in some diode types than in others,It is proportional to peak inverse voltage,It indicates that the diode is defective,It has no impact on the voltage delivered to the load
 T6B02,2,What electronic component allows current to flow in only one direction?,Resistor,Fuse,Diode,Driven element
 T6B03,2,Which of these components can be used as an electronic switch?,Varistor,Potentiometer,Transistor,Thermistor
