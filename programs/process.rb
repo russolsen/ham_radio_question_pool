@@ -39,8 +39,10 @@ class PushableFile
   end
 end
 
+HEADER_RE = /^([GET]\d+[A-Z]\d+) *\(([ABCD])\)(.*)/
+
 def question?(line)
-  line =~ /E\d[A-Z]\d\d.*/
+  line =~ HEADER_RE
 end
 
 def read_text_block(io)
@@ -48,7 +50,7 @@ def read_text_block(io)
   while true
     line = readline(io)
     break if line.empty?
-    print("line::: #{line}")
+    #print("line::: #{line}")
     text = "#{text}#{line} "
   end
   return text.strip
@@ -57,7 +59,7 @@ end
 def skip_to_question(io)
   while not io.eof?
     line = io.readline
-    print("line: #{line}")
+    #print("skip: line: #{line}")
     if question?(line)
       io.push_line(line)
       return line
@@ -73,11 +75,13 @@ def readline(io)
 end
 
 def parse_header(header)
-  id = header[0,5]
-  correct_char = header[7,1]
-  extra = header[8,]
+  m = HEADER_RE.match(header)
+  id = m[1].strip
+  correct_char = m[2].strip
+  refs = m[3]
+  refs = refs.strip if refs
   correct = correct_char.ord - 'A'.ord
-  [id, correct]
+  [id, correct, refs]
 end
 
 def read_header(io)
@@ -103,23 +107,24 @@ def read_blank(io)
 end
   
 def read_question(io)
-  puts "\nquestion:"
+  #puts "\nquestion:"
   a=[]
-  id, correct = read_header(io)
-  puts "Id: #{id} Correct: #{correct}"
+  id, correct, refs = read_header(io)
+  #puts "Id: #{id} Correct: #{correct}"
   question = read_text_block(io)
-  puts "Question text: <<#{question}>>"
+  #puts "Question text: <<#{question}>>"
   answers = []
   answers << read_answer(io)
-  puts answers
+  #puts answers
   answers << read_answer(io)
-  puts answers
+  #puts answers
   answers << read_answer(io)
-  puts answers
+  #puts answers
   answers << read_answer(io)
-  puts "<<< #{answers} >>>"
+  #puts "<<< #{answers} >>>"
 
   {id: id, correct: correct, question: question, answers: answers}
+  {id: id, correct: correct, refs: refs, question: question, answers: answers}
 end
 
 def read_questions(io)
@@ -143,22 +148,18 @@ def hash_to_array(h)
 end
 
 
-name=ARGV[0]
-text_name = "#{name}.txt"
-json_name = "#{name}.json"
-yaml_name = "#{name}.yaml"
-csv_name = "#{name}.csv"
+input_name = ARGV[0]
+output_name = ARGV[1]
+text_name = "#{output_name}.txt"
+json_name = "#{output_name}.json"
+yaml_name = "#{output_name}.yaml"
+csv_name = "#{output_name}.csv"
 
 
-puts "reading #{text_name}"
-#open(text_name) do |f| 
-#  io = PushableFile.new(f)
-#  #skip_to_question(io)
-#  puts(read_questions(io))
-#end
+puts "reading #{input_name}"
 
 questions = nil
-PushableFile.open(text_name) { |f| questions = read_questions(f) }
+PushableFile.open(input_name) { |f| questions = read_questions(f) }
 
 puts "writing #{json_name}"
 open(json_name, 'w') {|f| f.puts(JSON.pretty_generate(questions))}
@@ -174,10 +175,14 @@ CSV.open(csv_name, 'w') do |csv|
   end
 end
 
-open("processed_#{text_name}", 'w') do |f|
+puts "writing #{text_name}"
+open(text_name, 'w') do |f|
   questions.each do |q|
+    #puts("question:", q)
     correct = ['A', 'B', 'C', 'D'][q[:correct]]
-    f.puts("#{q[:id]} #{correct}")
+    f.print("#{q[:id]} (#{correct})")
+    f.print(" #{q[:refs]}") if q[:refs] and (not q[:refs].empty?)
+    f.puts
     f.puts(q[:question])
     answer = q[:answers]
     f.puts("A. #{answer[0]}")

@@ -27,7 +27,7 @@ then general, then amateur extra, but there's no requirement
 that you keep going - you can stop at technican or general.
 
 In any case, while the questions are publically available at
-[NCVEC](http://www.ncvec.org/page.php?id=338), they are delivered
+[NCVEC](https://www.ncvec.org/), they are delivered
 in Word or PDF format. This project aims to make the questions
 accessable in various machine readable formats, including:
 * JSON

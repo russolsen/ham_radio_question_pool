@@ -31,7 +31,7 @@ On which of the following frequencies are General class licensees prohibited fro
 A. 7.125 MHz to 7.175 MHz
 B. 28.000 MHz to 28.025 MHz
 C. 21.275 MHz to 21.300 MHz
-D. All of the above
+D. All these choices are correct
 
 G1A06 (C) [97.303]
 Which of the following applies when the FCC rules designate the amateur service as a secondary user on a band?
@@ -201,26 +201,12 @@ B. Obtain an experimental license from the FCC
 C. Publicly document the technical characteristics of the protocol
 D. Submit a rule-making proposal to the FCC describing the codes and methods of the technique
 
-G1C08 (D) [97.307(f)(3)]
-What is the maximum symbol rate permitted for RTTY or data emission transmitted at frequencies below 28 MHz?
-A. 56 kilobaud
-B. 19.6 kilobaud
-C. 1200 baud
-D. 300 baud
-
 G1C09 (C) [97.313(i)]
 What is the maximum power limit on the 60-meter band?
 A. 1500 watts PEP
 B. 10 watts RMS
 C. ERP of 100 watts PEP with respect to a dipole
 D. ERP of 100 watts PEP with respect to an isotropic antenna
-
-G1C10 (C) [97.305(c) and 97.307(f)(4)]
-What is the maximum symbol rate permitted for RTTY or data emission transmissions on the 10-meter band?
-A. 56 kilobaud
-B. 19.6 kilobaud
-C. 1200 baud
-D. 300 baud
 
 G1C11 (D) [97.313]
 What measurement is specified by FCC rules that regulate maximum power?
@@ -314,7 +300,7 @@ C. Only those of the remote station’s country
 D. Only those of the FCC
 
 G1E01 (A) [97.115(b)(2)]
-Which of the following would disqualify a third party from participatingin sending a message via an amateur station?
+Which of the following would disqualify a third party from participating in sending a message via an amateur station?
 A. The third party’s amateur license has been revoked and not reinstated
 B. The third party is not a US citizen
 C. The third party is speaking in a language other than English
@@ -377,7 +363,7 @@ C. When messages are not encrypted
 D. When under automatic control
 
 G1E10 (A) [97.101]
-Why should an amateur operator normally avoid transmitting on 14.100, 18.110, 21.150, 24. 930 and 28.200 MHz?
+Why should an amateur operator normally avoid transmitting on 14.100, 18.110, 21.150, 24.930 and 28.200 MHz?
 A. A system of propagation beacon stations operates on those frequencies
 B. A system of automatic digital stations operates on those frequencies 
 C. These frequencies are set aside for emergency operations
@@ -724,7 +710,7 @@ What is VARA?
 A. A low signal-to-noise digital mode used for EME (moonbounce)
 B. A digital protocol used with Winlink
 C. A radio direction finding system used on VHF and UHF
-D.A DX spotting system using a network of software defined radios
+D. DX spotting system using a network of software defined radios
 
 G2E03 (D)
 What symptoms may result from other signals interfering with a PACTOR or VARA transmission?
@@ -794,7 +780,7 @@ Which of the following describes Winlink?
 A. An amateur radio wireless network to send and receive email on the internet
 B. A form of Packet Radio
 C. A wireless network capable of both VHF and HF band operation
-D. All of the above
+D. All these choices are correct
 
 G2E13 (B)
 What is another name for a Winlink Remote Message Server?
@@ -960,9 +946,9 @@ D. They are refracted and trapped in the ionosphere to circle Earth
 G3B07 (A)
 What does LUF stand for?
 A. The Lowest Usable Frequency for communications between two specific points
-B. Lowest Usable Frequency for communications to any point outside a 100-mile radius
+B. The Lowest Usable Frequency for communications to any point outside a 100-mile radius
 C. The Lowest Usable Frequency during a 24-hour period
-D. Lowest Usable Frequency during the past 60 minutes
+D. The Lowest Usable Frequency during the past 60 minutes
 
 G3B08 (B)
 What does MUF stand for?
@@ -1916,13 +1902,6 @@ B. At the Zener voltage
 C. Reverse biased
 D. Forward biased
 
-G6B09 (A)
-How does a liquid crystal display compare to an LED display?
-A. Higher contrast in high ambient lighting
-B. Wider dynamic range
-C. Higher power consumption
-D. Shorter lifetime
-
 G6B10 (A)
 How does a ferrite bead or core reduce common-mode RF current on the shield of a coaxial cable?
 A. By creating an impedance in the current’s path
@@ -2136,7 +2115,7 @@ D. To minimize radiation resistance
 G7C04 (D)
 How is a product detector used?
 A. Used in test gear to detect spurious mixing products
-B. Used in transmitter to perform frequency multiplication
+B. Used in a transmitter to perform frequency multiplication
 C. Used in an FM receiver to filter out unwanted sidebands
 D. Used in a single sideband receiver to extract the modulated signal
 
@@ -2753,7 +2732,7 @@ G9D01 (A)
 Which of the following antenna types will be most effective as a near vertical incidence skywave (NVIS) antenna for short-skip communications on 40 meters during the day?
 A. A horizontal dipole placed between 1/10 and 1/4 wavelength above the ground
 B. A vertical antenna placed between 1/4 and 1/2 wavelength above the ground
-C. horizontal dipole placed at approximately 1/2 wavelength above the ground
+C. A horizontal dipole placed at approximately 1/2 wavelength above the ground
 D. A vertical dipole placed at approximately 1/2 wavelength above the ground
 
 G9D02 (D)
@@ -2870,7 +2849,7 @@ D. All these choices are correct
 
 G0A06 (A) [97.13(c)(2), 1.1307(1)(b)(3)(i)]
 What must you do if your station fails to meet the FCC RF exposure exemption criteria?
-A. Perform an RF Exposure Evaluation in accordance with FCC OET Bulletin 65
+A. Perform an RF exposure evaluation in accordance with FCC OET Bulletin 65
 B. Contact the FCC for permission to transmit
 C. Perform an RF exposure evaluation in accordance with World Meteorological Organization guidelines
 D. Use an FCC-approved band-pass filter

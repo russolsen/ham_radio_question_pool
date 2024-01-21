@@ -1,6 +1,7 @@
 ---
 - :id: G1A01
   :correct: 2
+  :refs: "[97.301(d)]"
   :question: On which HF and/or MF amateur bands are there portions where General
     class licensees cannot transmit?
   :answers:
@@ -10,6 +11,7 @@
   - 80 meters, 20 meters, 15 meters, and 10 meters
 - :id: G1A02
   :correct: 1
+  :refs: "[97.305]"
   :question: On which of the following bands is phone operation prohibited?
   :answers:
   - 160 meters
@@ -18,6 +20,7 @@
   - 12 meters
 - :id: G1A03
   :correct: 1
+  :refs: "[97.305]"
   :question: On which of the following bands is image transmission prohibited?
   :answers:
   - 160 meters
@@ -26,6 +29,7 @@
   - 12 meters
 - :id: G1A04
   :correct: 3
+  :refs: "[97.303(h)]"
   :question: Which of the following amateur bands is restricted to communication only
     on specific channels, rather than frequency ranges?
   :answers:
@@ -35,15 +39,17 @@
   - 60 meters
 - :id: G1A05
   :correct: 0
+  :refs: "[97.301(d)]"
   :question: On which of the following frequencies are General class licensees prohibited
     from operating as control operator?
   :answers:
   - 7.125 MHz to 7.175 MHz
   - 28.000 MHz to 28.025 MHz
   - 21.275 MHz to 21.300 MHz
-  - All of the above
+  - All these choices are correct
 - :id: G1A06
   :correct: 2
+  :refs: "[97.303]"
   :question: Which of the following applies when the FCC rules designate the amateur
     service as a secondary user on a band?
   :answers:
@@ -56,6 +62,7 @@
     users are permitted 24-hour use of the band
 - :id: G1A07
   :correct: 3
+  :refs: "[97.305(a)]"
   :question: On which amateur frequencies in the 10-meter band may stations with a
     General class control operator transmit CW emissions?
   :answers:
@@ -65,6 +72,7 @@
   - The entire band
 - :id: G1A08
   :correct: 1
+  :refs: "[97.301(b)]"
   :question: Which HF bands have segments exclusively allocated to Amateur Extra licensees?
   :answers:
   - All HF bands
@@ -73,6 +81,7 @@
   - 60 meters, 30 meters, 17 meters, and 12 meters
 - :id: G1A09
   :correct: 2
+  :refs: "[97.301(d)]"
   :question: Which of the following frequencies is within the General class portion
     of the 15-meter band?
   :answers:
@@ -82,6 +91,7 @@
   - 24900 kHz
 - :id: G1A10
   :correct: 3
+  :refs: "[97.205(b)]"
   :question: What portion of the 10-meter band is available for repeater use?
   :answers:
   - The entire band
@@ -90,6 +100,7 @@
   - The portion above 29.5 MHz
 - :id: G1A11
   :correct: 1
+  :refs: "[97.301]"
   :question: When General class licensees are not permitted to use the entire voice
     portion of a band, which portion of the voice segment is available to them?
   :answers:
@@ -101,6 +112,7 @@
     on frequencies above 14.150 MHz
 - :id: G1B01
   :correct: 2
+  :refs: "[97.15(a)]"
   :question: What is the maximum height above ground for an antenna structure not
     near a public use airport without requiring notification to the FAA and registration
     with the FCC?
@@ -111,6 +123,7 @@
   - 250 feet
 - :id: G1B02
   :correct: 0
+  :refs: "[97.203(b)]"
   :question: With which of the following conditions must beacon stations comply?
   :answers:
   - No more than one beacon station may transmit in the same band from the same station
@@ -120,6 +133,7 @@
   - All these choices are correct
 - :id: G1B03
   :correct: 0
+  :refs: "[97.3(a)(9)]"
   :question: Which of the following is a purpose of a beacon station as identified
     in the FCC rules?
   :answers:
@@ -129,6 +143,7 @@
   - All these choices are correct
 - :id: G1B04
   :correct: 2
+  :refs: "[97.113(c)]"
   :question: Which of the following transmissions is permitted for all amateur stations?
   :answers:
   - Unidentified transmissions of less than 10 seconds duration for test purposes
@@ -139,6 +154,7 @@
   - Encrypted messages, if not intended to facilitate a criminal act
 - :id: G1B05
   :correct: 1
+  :refs: "[97.111((5)(b)]"
   :question: Which of the following one-way transmissions are permitted?
   :answers:
   - Unidentified test transmissions of less than 10 seconds in duration
@@ -148,6 +164,7 @@
   - All these choices are correct
 - :id: G1B06
   :correct: 3
+  :refs: "[97.15(b), PRB-1, 101 FCC 2d 952 (1985)]"
   :question: Under what conditions are state and local governments permitted to regulate
     amateur radio antenna structures?
   :answers:
@@ -161,6 +178,7 @@
     state or local entity
 - :id: G1B07
   :correct: 1
+  :refs: "[97.113(a)(4)]"
   :question: What are the restrictions on the use of abbreviations or procedural signals
     in the amateur service?
   :answers:
@@ -170,6 +188,7 @@
   - They are limited to those expressly listed in Part 97 of the FCC rules
 - :id: G1B08
   :correct: 1
+  :refs: "[97.111(a)(1)]"
   :question: When is it permissible to communicate with amateur stations in countries
     outside the areas administered by the Federal Communications Commission?
   :answers:
@@ -184,6 +203,7 @@
     a country
 - :id: G1B09
   :correct: 3
+  :refs: "[97.203(d)]"
   :question: On what HF frequencies are automatically controlled beacons permitted?
   :answers:
   - On any frequency if power is less than 1 watt
@@ -192,6 +212,7 @@
   - 28.20 MHz to 28.30 MHz
 - :id: G1B10
   :correct: 2
+  :refs: "[97.203(c)]"
   :question: What is the power limit for beacon stations?
   :answers:
   - 10 watts PEP output
@@ -200,6 +221,7 @@
   - 200 watts PEP output
 - :id: G1B11
   :correct: 0
+  :refs: "[97.101(a)]"
   :question: Who or what determines “good engineering and good amateur practice,”
     as applied to the operation of an amateur station in all respects not covered
     by the Part 97 rules?
@@ -210,6 +232,7 @@
   - The ITU
 - :id: G1C01
   :correct: 0
+  :refs: "[97.313(c)(1)]"
   :question: What is the maximum transmitter power an amateur station may use on 10.140
     MHz?
   :answers:
@@ -219,6 +242,7 @@
   - 2000 watts PEP output
 - :id: G1C02
   :correct: 2
+  :refs: "[97.313]"
   :question: What is the maximum transmitter power an amateur station may use on the
     12-meter band?
   :answers:
@@ -228,6 +252,7 @@
   - An effective radiated power equivalent to 100 watts from a half-wave dipole
 - :id: G1C03
   :correct: 0
+  :refs: "[97.303(h)(1)]"
   :question: What is the maximum bandwidth permitted by FCC rules for amateur radio
     stations transmitting on USB frequencies in the 60-meter band?
   :answers:
@@ -237,6 +262,7 @@
   - 3 kHz
 - :id: G1C04
   :correct: 0
+  :refs: "[97.303(i)]"
   :question: Which of the following is required by the FCC rules when operating in
     the 60-meter band?
   :answers:
@@ -248,6 +274,7 @@
   - You must keep a record of the manufacturer of your equipment and the antenna used
 - :id: G1C05
   :correct: 2
+  :refs: "[97.313]"
   :question: What is the limit for transmitter power on the 28 MHz band for a General
     Class control operator?
   :answers:
@@ -257,6 +284,7 @@
   - 2000 watts PEP output
 - :id: G1C06
   :correct: 3
+  :refs: "[97.313]"
   :question: What is the limit for transmitter power on the 1.8 MHz band?
   :answers:
   - 200 watts PEP output
@@ -265,6 +293,7 @@
   - 1500 watts PEP output
 - :id: G1C07
   :correct: 2
+  :refs: "[97.309(a)(4)]"
   :question: What must be done before using a new digital protocol on the air?
   :answers:
   - Type-certify equipment to FCC standards
@@ -272,34 +301,18 @@
   - Publicly document the technical characteristics of the protocol
   - Submit a rule-making proposal to the FCC describing the codes and methods of the
     technique
-- :id: G1C08
-  :correct: 3
-  :question: What is the maximum symbol rate permitted for RTTY or data emission transmitted
-    at frequencies below 28 MHz?
-  :answers:
-  - 56 kilobaud
-  - 19.6 kilobaud
-  - 1200 baud
-  - 300 baud
 - :id: G1C09
   :correct: 2
+  :refs: "[97.313(i)]"
   :question: What is the maximum power limit on the 60-meter band?
   :answers:
   - 1500 watts PEP
   - 10 watts RMS
   - ERP of 100 watts PEP with respect to a dipole
   - ERP of 100 watts PEP with respect to an isotropic antenna
-- :id: G1C10
-  :correct: 2
-  :question: What is the maximum symbol rate permitted for RTTY or data emission transmissions
-    on the 10-meter band?
-  :answers:
-  - 56 kilobaud
-  - 19.6 kilobaud
-  - 1200 baud
-  - 300 baud
 - :id: G1C11
   :correct: 3
+  :refs: "[97.313]"
   :question: What measurement is specified by FCC rules that regulate maximum power?
   :answers:
   - RMS output from the transmitter
@@ -308,6 +321,7 @@
   - PEP output from the transmitter
 - :id: G1D01
   :correct: 0
+  :refs: "[97.501, 97.505(a)]"
   :question: Who may receive partial credit for the elements represented by an expired
     amateur radio license?
   :answers:
@@ -321,6 +335,7 @@
     license
 - :id: G1D02
   :correct: 2
+  :refs: "[97.509(b)(3)(i)]"
   :question: What license examinations may you administer as an accredited Volunteer
     Examiner holding a General class operator license?
   :answers:
@@ -330,6 +345,7 @@
   - Amateur Extra, General, and Technician
 - :id: G1D03
   :correct: 2
+  :refs: "[97.9(b)]"
   :question: On which of the following band segments may you operate if you are a
     Technician class operator and have an unexpired Certificate of Successful Completion
     of Examination (CSCE) for General class privileges?
@@ -341,6 +357,7 @@
   - On any General or Technician class band segment except 30 meters and 60 meters
 - :id: G1D04
   :correct: 0
+  :refs: "[97.509(3)(i)(c)]"
   :question: Who must observe the administration of a Technician class license examination?
   :answers:
   - At least three Volunteer Examiners of General class or higher
@@ -349,6 +366,7 @@
   - At least three Volunteer Examiners of Technician class
 - :id: G1D05
   :correct: 0
+  :refs: "[97.7]"
   :question: When operating a US station by remote control from outside the country,
     what license is required of the control operator?
   :answers:
@@ -361,6 +379,7 @@
     FCC
 - :id: G1D06
   :correct: 0
+  :refs: "[97.119(f)(2)]"
   :question: Until an upgrade to General class is shown in the FCC database, when
     must a Technician licensee identify with “AG” after their call sign?
   :answers:
@@ -371,6 +390,7 @@
     has been filed with the FCC
 - :id: G1D07
   :correct: 2
+  :refs: "[97.509(b)(1)]"
   :question: Volunteer Examiners are accredited by what organization?
   :answers:
   - The Federal Communications Commission
@@ -379,6 +399,7 @@
   - The Wireless Telecommunications Bureau
 - :id: G1D08
   :correct: 1
+  :refs: "[97.509(b)(3)]"
   :question: Which of the following criteria must be met for a non-US citizen to be
     an accredited Volunteer Examiner?
   :answers:
@@ -389,6 +410,7 @@
   - None of these choices is correct; a non-US citizen cannot be a Volunteer Examiner
 - :id: G1D09
   :correct: 2
+  :refs: "[97.9(b)]"
   :question: How long is a Certificate of Successful Completion of Examination (CSCE)
     valid for exam element credit?
   :answers:
@@ -398,6 +420,7 @@
   - For as long as your current license is valid
 - :id: G1D10
   :correct: 1
+  :refs: "[97.509(b)(2)]"
   :question: What is the minimum age that one must be to qualify as an accredited
     Volunteer Examiner?
   :answers:
@@ -407,6 +430,7 @@
   - There is no age limit
 - :id: G1D11
   :correct: 3
+  :refs: "[97.505]"
   :question: What action is required to obtain a new General class license after a
     previously held license has expired and the two-year grace period has passed?
   :answers:
@@ -419,6 +443,7 @@
     the current Element 2 exam
 - :id: G1D12
   :correct: 2
+  :refs: "[97.507]"
   :question: When operating a station in South America by remote control over the
     internet from the US, what regulations apply?
   :answers:
@@ -428,8 +453,9 @@
   - Only those of the FCC
 - :id: G1E01
   :correct: 0
-  :question: Which of the following would disqualify a third party from participatingin
-    sending a message via an amateur station?
+  :refs: "[97.115(b)(2)]"
+  :question: Which of the following would disqualify a third party from participating
+    in sending a message via an amateur station?
   :answers:
   - The third party’s amateur license has been revoked and not reinstated
   - The third party is not a US citizen
@@ -437,6 +463,7 @@
   - All these choices are correct
 - :id: G1E02
   :correct: 3
+  :refs: "[97.205(b)]"
   :question: When may a 10-meter repeater retransmit the 2-meter signal from a station
     that has a Technician class control operator?
   :answers:
@@ -448,6 +475,7 @@
     license
 - :id: G1E03
   :correct: 0
+  :refs: "[97.221]"
   :question: What is required to conduct communications with a digital station operating
     under automatic control outside the automatic control band segments?
   :answers:
@@ -459,6 +487,7 @@
     license
 - :id: G1E04
   :correct: 3
+  :refs: "[97.13(b), 97.303, 97.311(b)]"
   :question: Which of the following conditions require a licensed amateur radio operator
     to take specific steps to avoid harmful interference to other users or facilities?
   :answers:
@@ -468,6 +497,7 @@
   - All these choices are correct
 - :id: G1E05
   :correct: 2
+  :refs: "[97.115(a)(2), 97.117]"
   :question: What are the restrictions on messages sent to a third party in a country
     with which there is a Third-Party Agreement?
   :answers:
@@ -479,6 +509,7 @@
     of the third party must be recorded in the station log
 - :id: G1E06
   :correct: 2
+  :refs: "[97.301, ITU Radio Regulations]"
   :question: The frequency allocations of which ITU region apply to radio amateurs
     operating in North and South America?
   :answers:
@@ -488,6 +519,7 @@
   - Region 1
 - :id: G1E07
   :correct: 3
+  :refs: "[97.111]"
   :question: In what part of the 2.4 GHz band may an amateur station communicate with
     non-licensed Wi-Fi stations?
   :answers:
@@ -497,6 +529,7 @@
   - No part
 - :id: G1E08
   :correct: 1
+  :refs: "[97.313(j)]"
   :question: What is the maximum PEP output allowed for spread spectrum transmissions?
   :answers:
   - 100 milliwatts
@@ -505,6 +538,7 @@
   - 1500 watts
 - :id: G1E09
   :correct: 0
+  :refs: "[97.115]"
   :question: Under what circumstances are messages that are sent via digital modes
     exempt from Part 97 third-party rules that apply to other modes of communication?
   :answers:
@@ -514,8 +548,9 @@
   - When under automatic control
 - :id: G1E10
   :correct: 0
+  :refs: "[97.101]"
   :question: Why should an amateur operator normally avoid transmitting on 14.100,
-    18.110, 21.150, 24. 930 and 28.200 MHz?
+    18.110, 21.150, 24.930 and 28.200 MHz?
   :answers:
   - A system of propagation beacon stations operates on those frequencies
   - A system of automatic digital stations operates on those frequencies 
@@ -523,6 +558,7 @@
   - These frequencies are set aside for bulletins from the FCC
 - :id: G1E11
   :correct: 3
+  :refs: "[97.221, 97.305]"
   :question: On what bands may automatically controlled stations transmitting RTTY
     or data emissions communicate with other automatically controlled digital stations?
   :answers:
@@ -533,6 +569,7 @@
     some of the HF bands
 - :id: G1E12
   :correct: 0
+  :refs: "[97.115]"
   :question: When may third-party messages be transmitted via remote control?
   :answers:
   - Under any circumstances in which third party messages are permitted by FCC rules
@@ -542,6 +579,7 @@
     controlled by the FCC
 - :id: G2A01
   :correct: 0
+  :refs: ''
   :question: Which mode is most commonly used for voice communications on frequencies
     of 14 MHz or higher?
   :answers:
@@ -551,6 +589,7 @@
   - Double sideband
 - :id: G2A02
   :correct: 1
+  :refs: ''
   :question: Which mode is most commonly used for voice communications on the 160-,
     75-, and 40-meter bands?
   :answers:
@@ -560,6 +599,7 @@
   - Double sideband
 - :id: G2A03
   :correct: 0
+  :refs: ''
   :question: Which mode is most commonly used for SSB voice communications in the
     VHF and UHF bands?
   :answers:
@@ -569,6 +609,7 @@
   - Double sideband
 - :id: G2A04
   :correct: 0
+  :refs: ''
   :question: Which mode is most commonly used for voice communications on the 17-
     and 12-meter bands?
   :answers:
@@ -578,6 +619,7 @@
   - Double sideband
 - :id: G2A05
   :correct: 2
+  :refs: ''
   :question: Which mode of voice communication is most commonly used on the HF amateur
     bands?
   :answers:
@@ -587,6 +629,7 @@
   - Single phase modulation
 - :id: G2A06
   :correct: 3
+  :refs: ''
   :question: Which of the following is an advantage of using single sideband, as compared
     to other analog voice modes on the HF amateur bands?
   :answers:
@@ -596,6 +639,7 @@
   - Less bandwidth used and greater power efficiency
 - :id: G2A07
   :correct: 1
+  :refs: ''
   :question: Which of the following statements is true of single sideband (SSB)?
   :answers:
   - Only one sideband and the carrier are transmitted; the other sideband is suppressed
@@ -604,6 +648,7 @@
   - SSB is the only voice mode authorized on the 160-, 75-, and 40-meter amateur bands
 - :id: G2A08
   :correct: 1
+  :refs: ''
   :question: What is the recommended way to break into a phone contact?
   :answers:
   - Say “QRZ” several times, followed by your call sign
@@ -612,6 +657,7 @@
   - Say “CQ” followed by the call sign of either station
 - :id: G2A09
   :correct: 3
+  :refs: ''
   :question: Why do most amateur stations use lower sideband on the 160-, 75-, and
     40-meter bands?
   :answers:
@@ -621,6 +667,7 @@
   - It is commonly accepted amateur practice
 - :id: G2A10
   :correct: 1
+  :refs: ''
   :question: Which of the following statements is true of VOX operation versus PTT
     operation?
   :answers:
@@ -630,6 +677,7 @@
   - It provides more power output
 - :id: G2A11
   :correct: 2
+  :refs: ''
   :question: Generally, who should respond to a station in the contiguous 48 states
     calling “CQ DX”?
   :answers:
@@ -639,6 +687,7 @@
   - Only contest stations
 - :id: G2A12
   :correct: 1
+  :refs: ''
   :question: What control is typically adjusted for proper ALC setting on a single
     sideband transceiver?
   :answers:
@@ -648,6 +697,7 @@
   - Attenuator level
 - :id: G2B01
   :correct: 2
+  :refs: "[97.101(b), (c)]"
   :question: Which of the following is true concerning access to frequencies?
   :answers:
   - Nets have priority
@@ -656,6 +706,7 @@
   - Contest operations should yield to non-contest use of frequencies
 - :id: G2B02
   :correct: 1
+  :refs: ''
   :question: What is the first thing you should do if you are communicating with another
     amateur station and hear a station in distress break in?
   :answers:
@@ -665,6 +716,7 @@
   - Immediately cease all transmissions
 - :id: G2B03
   :correct: 2
+  :refs: ''
   :question: What is good amateur practice if propagation changes during a contact
     creating interference from other stations using the frequency?
   :answers:
@@ -676,6 +728,7 @@
   - Switch to the opposite sideband
 - :id: G2B04
   :correct: 1
+  :refs: ''
   :question: When selecting a CW transmitting frequency, what minimum separation from
     other stations should be used to minimize interference to stations on adjacent
     frequencies?
@@ -686,6 +739,7 @@
   - 3 kHz to 6 kHz
 - :id: G2B05
   :correct: 2
+  :refs: ''
   :question: When selecting an SSB transmitting frequency, what minimum separation
     should be used to minimize interference to stations on adjacent frequencies?
   :answers:
@@ -695,6 +749,7 @@
   - Approximately 6 kHz
 - :id: G2B06
   :correct: 0
+  :refs: ''
   :question: How can you avoid harmful interference on an apparently clear frequency
     before calling CQ on CW or phone?
   :answers:
@@ -707,6 +762,7 @@
     your call sign and listen for a response
 - :id: G2B07
   :correct: 2
+  :refs: ''
   :question: Which of the following complies with commonly accepted amateur practice
     when choosing a frequency on which to initiate a call?
   :answers:
@@ -716,6 +772,7 @@
   - All these choices are correct
 - :id: G2B08
   :correct: 0
+  :refs: ''
   :question: What is the voluntary band plan restriction for US stations transmitting
     within the 48 contiguous states in the 50.1 MHz to 50.125 MHz band segment?
   :answers:
@@ -725,6 +782,7 @@
   - Only SSTV contacts
 - :id: G2B09
   :correct: 0
+  :refs: "[97.407(a)]"
   :question: Who may be the control operator of an amateur station transmitting in
     RACES to assist relief operations during a disaster?
   :answers:
@@ -735,6 +793,7 @@
   - Any control operator when normal communication systems are operational
 - :id: G2B10
   :correct: 1
+  :refs: ''
   :question: Which of the following is good amateur practice for net management?
   :answers:
   - Always use multiple sets of phonetics during check-in
@@ -743,6 +802,7 @@
   - All these choices are correct
 - :id: G2B11
   :correct: 2
+  :refs: "[97.407(d)(4)]"
   :question: How often may RACES training drills and tests be routinely conducted
     without special authorization?
   :answers:
@@ -752,6 +812,7 @@
   - No more than 2 hours per week
 - :id: G2C01
   :correct: 3
+  :refs: ''
   :question: Which of the following describes full break-in CW operation (QSK)?
   :answers:
   - Breaking stations send the Morse code prosign “BK”
@@ -761,6 +822,7 @@
   - Transmitting stations can receive between code characters and elements
 - :id: G2C02
   :correct: 0
+  :refs: ''
   :question: What should you do if a CW station sends “QRS?”
   :answers:
   - Send slower
@@ -769,6 +831,7 @@
   - Repeat everything twice
 - :id: G2C03
   :correct: 2
+  :refs: ''
   :question: What does it mean when a CW operator sends “KN” at the end of a transmission?
   :answers:
   - No US stations should call
@@ -777,6 +840,7 @@
   - Closing station now
 - :id: G2C04
   :correct: 3
+  :refs: ''
   :question: What does the Q signal “QRL?” mean?
   :answers:
   - "“Will you keep the frequency clear?”"
@@ -785,6 +849,7 @@
   - "“Are you busy?” or “Is this frequency in use?”"
 - :id: G2C05
   :correct: 1
+  :refs: ''
   :question: What is the best speed to use when answering a CQ in Morse code?
   :answers:
   - The fastest speed at which you are comfortable copying, but no slower than the
@@ -795,6 +860,7 @@
   - At the standard calling speed of 5 wpm
 - :id: G2C06
   :correct: 3
+  :refs: ''
   :question: What does the term “zero beat” mean in CW operation?
   :answers:
   - Matching the speed of the transmitting station
@@ -803,6 +869,7 @@
   - Matching the transmit frequency to the frequency of a received signal
 - :id: G2C07
   :correct: 0
+  :refs: ''
   :question: When sending CW, what does a “C” mean when added to the RST report?
   :answers:
   - Chirpy or unstable signal
@@ -811,6 +878,7 @@
   - Key clicks
 - :id: G2C08
   :correct: 2
+  :refs: ''
   :question: What prosign is sent to indicate the end of a formal message when using
     CW?
   :answers:
@@ -820,6 +888,7 @@
   - KN
 - :id: G2C09
   :correct: 2
+  :refs: ''
   :question: What does the Q signal “QSL” mean?
   :answers:
   - Send slower
@@ -828,6 +897,7 @@
   - We have worked before
 - :id: G2C10
   :correct: 3
+  :refs: ''
   :question: What does the Q signal “QRN” mean?
   :answers:
   - Send more slowly
@@ -836,6 +906,7 @@
   - I am troubled by static
 - :id: G2C11
   :correct: 3
+  :refs: ''
   :question: What does the Q signal “QRV” mean?
   :answers:
   - You are sending too fast
@@ -844,6 +915,7 @@
   - I am ready to receive
 - :id: G2D01
   :correct: 0
+  :refs: ''
   :question: What is the Volunteer Monitor Program?
   :answers:
   - Amateur volunteers who are formally enlisted to monitor the airwaves for rules
@@ -854,6 +926,7 @@
     in times of emergency
 - :id: G2D02
   :correct: 3
+  :refs: ''
   :question: Which of the following are objectives of the Volunteer Monitor Program?
   :answers:
   - To conduct efficient and orderly amateur licensing examinations
@@ -862,6 +935,7 @@
   - To encourage amateur radio operators to self-regulate and comply with the rules
 - :id: G2D03
   :correct: 1
+  :refs: ''
   :question: What procedure may be used by Volunteer Monitors to localize a station
     whose continuous carrier is holding a repeater on in their area?
   :answers:
@@ -872,6 +946,7 @@
   - All these choices are correct
 - :id: G2D04
   :correct: 1
+  :refs: ''
   :question: Which of the following describes an azimuthal projection map?
   :answers:
   - A map that shows accurate land masses
@@ -881,6 +956,7 @@
     to move westward at the equator with each orbit
 - :id: G2D05
   :correct: 2
+  :refs: ''
   :question: Which of the following indicates that you are looking for an HF contact
     with any station?
   :answers:
@@ -894,6 +970,7 @@
     is” and your call sign, and pause to listen -- repeat as necessary
 - :id: G2D06
   :correct: 2
+  :refs: ''
   :question: How is a directional antenna pointed when making a “long-path” contact
     with another station?
   :answers:
@@ -903,6 +980,7 @@
   - Toward the north
 - :id: G2D07
   :correct: 3
+  :refs: ''
   :question: Which of the following are examples of the NATO Phonetic Alphabet?
   :answers:
   - Able, Baker, Charlie, Dog
@@ -911,6 +989,7 @@
   - Alpha, Bravo, Charlie, Delta
 - :id: G2D08
   :correct: 3
+  :refs: ''
   :question: Why do many amateurs keep a station log?
   :answers:
   - The FCC requires a log of all international contacts
@@ -919,6 +998,7 @@
   - To help with a reply if the FCC requests information about your station
 - :id: G2D09
   :correct: 2
+  :refs: ''
   :question: Which of the following is required when participating in a contest on
     HF frequencies?
   :answers:
@@ -928,6 +1008,7 @@
   - All these choices are correct
 - :id: G2D10
   :correct: 1
+  :refs: ''
   :question: What is QRP operation?
   :answers:
   - Remote piloted model control
@@ -936,6 +1017,7 @@
   - Traffic relay procedure net operation
 - :id: G2D11
   :correct: 0
+  :refs: ''
   :question: Why are signal reports typically exchanged at the beginning of an HF
     contact?
   :answers:
@@ -945,6 +1027,7 @@
   - To allow each station to calibrate their frequency display
 - :id: G2E01
   :correct: 3
+  :refs: ''
   :question: Which mode is normally used when sending RTTY signals via AFSK with an
     SSB transmitter?
   :answers:
@@ -954,14 +1037,16 @@
   - LSB
 - :id: G2E02
   :correct: 1
+  :refs: ''
   :question: What is VARA?
   :answers:
   - A low signal-to-noise digital mode used for EME (moonbounce)
   - A digital protocol used with Winlink
   - A radio direction finding system used on VHF and UHF
-  - " DX spotting system using a network of software defined radios"
+  - DX spotting system using a network of software defined radios
 - :id: G2E03
   :correct: 3
+  :refs: ''
   :question: What symptoms may result from other signals interfering with a PACTOR
     or VARA transmission?
   :answers:
@@ -971,6 +1056,7 @@
   - All these choices are correct
 - :id: G2E04
   :correct: 3
+  :refs: ''
   :question: Which of the following is good practice when choosing a transmitting
     frequency to answer a station calling CQ using FT8?
   :answers:
@@ -980,6 +1066,7 @@
   - Find a clear frequency during the alternate time slot to the calling station
 - :id: G2E05
   :correct: 1
+  :refs: ''
   :question: What is the standard sideband for JT65, JT9, FT4, or FT8 digital signal
     when using AFSK?
   :answers:
@@ -989,6 +1076,7 @@
   - SSB
 - :id: G2E06
   :correct: 1
+  :refs: ''
   :question: What is the most common frequency shift for RTTY emissions in the amateur
     HF bands?
   :answers:
@@ -998,6 +1086,7 @@
   - 850 Hz
 - :id: G2E07
   :correct: 1
+  :refs: ''
   :question: Which of the following is required when using FT8?
   :answers:
   - A special hardware modem
@@ -1006,6 +1095,7 @@
   - A vertically polarized antenna
 - :id: G2E08
   :correct: 3
+  :refs: ''
   :question: In what segment of the 20-meter band are most digital mode operations
     commonly found?
   :answers:
@@ -1015,6 +1105,7 @@
   - Between 14.070 MHz and 14.100 MHz
 - :id: G2E09
   :correct: 2
+  :refs: ''
   :question: How do you join a contact between two stations using the PACTOR protocol?
   :answers:
   - Send broadcast packets containing your call sign while in MONITOR mode
@@ -1024,6 +1115,7 @@
   - Send a NAK code
 - :id: G2E10
   :correct: 3
+  :refs: ''
   :question: Which of the following is a way to establish contact with a digital messaging
     system gateway station?
   :answers:
@@ -1033,6 +1125,7 @@
   - Transmit a connect message on the station’s published frequency
 - :id: G2E11
   :correct: 2
+  :refs: ''
   :question: What is the primary purpose of an Amateur Radio Emergency Data Network
     (AREDN) mesh network?
   :answers:
@@ -1043,14 +1136,16 @@
   - To provide DX spotting reports to aid contesters and DXers
 - :id: G2E12
   :correct: 3
+  :refs: ''
   :question: Which of the following describes Winlink?
   :answers:
   - An amateur radio wireless network to send and receive email on the internet
   - A form of Packet Radio
   - A wireless network capable of both VHF and HF band operation
-  - All of the above
+  - All these choices are correct
 - :id: G2E13
   :correct: 1
+  :refs: ''
   :question: What is another name for a Winlink Remote Message Server?
   :answers:
   - Terminal Node Controller
@@ -1059,6 +1154,7 @@
   - Printer/Server
 - :id: G2E14
   :correct: 3
+  :refs: ''
   :question: What could be wrong if you cannot decode an RTTY or other FSK signal
     even though it is apparently tuned in properly?
   :answers:
@@ -1068,6 +1164,7 @@
   - All these choices are correct
 - :id: G2E15
   :correct: 2
+  :refs: ''
   :question: Which of the following is a common location for FT8?
   :answers:
   - Anywhere in the voice portion of the band
@@ -1076,6 +1173,7 @@
   - Approximately 14.110 MHz to 14.113 MHz
 - :id: G3A01
   :correct: 0
+  :refs: ''
   :question: How does a higher sunspot number affect HF propagation?
   :answers:
   - Higher sunspot numbers generally indicate a greater probability of good propagation
@@ -1086,6 +1184,7 @@
   - A zero sunspot number indicates undisturbed conditions
 - :id: G3A02
   :correct: 1
+  :refs: ''
   :question: What effect does a sudden ionospheric disturbance have on the daytime
     ionospheric propagation?
   :answers:
@@ -1095,6 +1194,7 @@
   - None, because only areas on the night side of the Earth are affected
 - :id: G3A03
   :correct: 2
+  :refs: ''
   :question: Approximately how long does it take the increased ultraviolet and X-ray
     radiation from a solar flare to affect radio propagation on Earth?
   :answers:
@@ -1104,6 +1204,7 @@
   - 20 to 40 hours
 - :id: G3A04
   :correct: 3
+  :refs: ''
   :question: Which of the following are the least reliable bands for long-distance
     communications during periods of low solar activity?
   :answers:
@@ -1113,6 +1214,7 @@
   - 15 meters, 12 meters, and 10 meters
 - :id: G3A05
   :correct: 3
+  :refs: ''
   :question: What is the solar flux index?
   :answers:
   - A measure of the highest frequency that is useful for ionospheric propagation
@@ -1122,6 +1224,7 @@
   - A measure of solar radiation with a wavelength of 10.7 centimeters
 - :id: G3A06
   :correct: 3
+  :refs: ''
   :question: What is a geomagnetic storm?
   :answers:
   - A sudden drop in the solar flux index
@@ -1130,6 +1233,7 @@
   - A temporary disturbance in Earth’s geomagnetic field
 - :id: G3A07
   :correct: 3
+  :refs: ''
   :question: At what point in the solar cycle does the 20-meter band usually support
     worldwide propagation during daylight hours?
   :answers:
@@ -1139,6 +1243,7 @@
   - At any point
 - :id: G3A08
   :correct: 3
+  :refs: ''
   :question: How can a geomagnetic storm affect HF propagation?
   :answers:
   - Improve high-latitude HF propagation
@@ -1147,6 +1252,7 @@
   - Degrade high-latitude HF propagation
 - :id: G3A09
   :correct: 0
+  :refs: ''
   :question: How can high geomagnetic activity benefit radio communications?
   :answers:
   - Creates auroras that can reflect VHF signals
@@ -1155,6 +1261,7 @@
   - Reduce long delayed echoes
 - :id: G3A10
   :correct: 2
+  :refs: ''
   :question: What causes HF propagation conditions to vary periodically in a 26- to
     28-day cycle?
   :answers:
@@ -1164,6 +1271,7 @@
   - The position of the Moon in its orbit
 - :id: G3A11
   :correct: 3
+  :refs: ''
   :question: How long does it take a coronal mass ejection to affect radio propagation
     on Earth?
   :answers:
@@ -1173,6 +1281,7 @@
   - 15 hours to several days
 - :id: G3A12
   :correct: 1
+  :refs: ''
   :question: What does the K-index measure?
   :answers:
   - The relative position of sunspots on the surface of the Sun
@@ -1181,6 +1290,7 @@
   - The solar radio flux at Boulder, Colorado
 - :id: G3A13
   :correct: 2
+  :refs: ''
   :question: What does the A-index measure?
   :answers:
   - The relative position of sunspots on the surface of the Sun
@@ -1189,6 +1299,7 @@
   - The solar radio flux at Boulder, Colorado
 - :id: G3A14
   :correct: 1
+  :refs: ''
   :question: How is long distance radio communication usually affected by the charged
     particles that reach Earth from solar coronal holes?
   :answers:
@@ -1198,6 +1309,7 @@
   - VHF/UHF ducting is disturbed
 - :id: G3B01
   :correct: 3
+  :refs: ''
   :question: What is a characteristic of skywave signals arriving at your location
     by both short-path and long-path propagation?
   :answers:
@@ -1207,6 +1319,7 @@
   - A slightly delayed echo might be heard
 - :id: G3B02
   :correct: 3
+  :refs: ''
   :question: What factors affect the MUF?
   :answers:
   - Path distance and location
@@ -1215,6 +1328,7 @@
   - All these choices are correct
 - :id: G3B03
   :correct: 0
+  :refs: ''
   :question: Which frequency will have the least attenuation for long-distance skip
     propagation?
   :answers:
@@ -1224,6 +1338,7 @@
   - Just above the critical frequency
 - :id: G3B04
   :correct: 0
+  :refs: ''
   :question: Which of the following is a way to determine current propagation on a
     desired band from your station?
   :answers:
@@ -1234,6 +1349,7 @@
   - All these choices are correct
 - :id: G3B05
   :correct: 0
+  :refs: ''
   :question: How does the ionosphere affect radio waves with frequencies below the
     MUF and above the LUF?
   :answers:
@@ -1243,6 +1359,7 @@
   - They are refracted and trapped in the ionosphere to circle Earth
 - :id: G3B06
   :correct: 2
+  :refs: ''
   :question: What usually happens to radio waves with frequencies below the LUF?
   :answers:
   - They are refracted back to Earth
@@ -1251,14 +1368,17 @@
   - They are refracted and trapped in the ionosphere to circle Earth
 - :id: G3B07
   :correct: 0
+  :refs: ''
   :question: What does LUF stand for?
   :answers:
   - The Lowest Usable Frequency for communications between two specific points
-  - Lowest Usable Frequency for communications to any point outside a 100-mile radius
+  - The Lowest Usable Frequency for communications to any point outside a 100-mile
+    radius
   - The Lowest Usable Frequency during a 24-hour period
-  - Lowest Usable Frequency during the past 60 minutes
+  - The Lowest Usable Frequency during the past 60 minutes
 - :id: G3B08
   :correct: 1
+  :refs: ''
   :question: What does MUF stand for?
   :answers:
   - The Minimum Usable Frequency for communications between two points
@@ -1267,6 +1387,7 @@
   - The Maximum Usable Frequency during a 24-hour period
 - :id: G3B09
   :correct: 2
+  :refs: ''
   :question: What is the approximate maximum distance along the Earth’s surface normally
     covered in one hop using the F2 region?
   :answers:
@@ -1276,6 +1397,7 @@
   - 12,000 miles
 - :id: G3B10
   :correct: 1
+  :refs: ''
   :question: What is the approximate maximum distance along the Earth’s surface normally
     covered in one hop using the E region?
   :answers:
@@ -1285,6 +1407,7 @@
   - 12,000 miles
 - :id: G3B11
   :correct: 0
+  :refs: ''
   :question: What happens to HF propagation when the LUF exceeds the MUF?
   :answers:
   - Propagation via ordinary skywave communications is not possible over that path
@@ -1293,6 +1416,7 @@
   - Propagation over the path on all HF frequencies is enhanced
 - :id: G3B12
   :correct: 3
+  :refs: ''
   :question: Which of the following is typical of the lower HF frequencies during
     the summer?
   :answers:
@@ -1302,6 +1426,7 @@
   - High levels of atmospheric noise or static
 - :id: G3C01
   :correct: 0
+  :refs: ''
   :question: Which ionospheric region is closest to the surface of Earth?
   :answers:
   - The D region
@@ -1310,6 +1435,7 @@
   - The F2 region
 - :id: G3C02
   :correct: 0
+  :refs: ''
   :question: What is meant by the term “critical frequency” at a given incidence angle?
   :answers:
   - The highest frequency which is refracted back to Earth
@@ -1318,6 +1444,7 @@
   - The frequency at which the signal-to-noise ratio is 6 dB
 - :id: G3C03
   :correct: 2
+  :refs: ''
   :question: Why is skip propagation via the F2 region longer than that via the other
     ionospheric regions?
   :answers:
@@ -1327,6 +1454,7 @@
   - Because of temperature inversions
 - :id: G3C04
   :correct: 3
+  :refs: ''
   :question: What does the term “critical angle” mean, as applied to radio wave propagation?
   :answers:
   - The long path azimuth of a distant station
@@ -1337,6 +1465,7 @@
     ionospheric conditions
 - :id: G3C05
   :correct: 2
+  :refs: ''
   :question: Why is long-distance communication on the 40-, 60-, 80-, and 160-meter
     bands more difficult during the day?
   :answers:
@@ -1346,6 +1475,7 @@
   - The E region is unstable during daylight hours
 - :id: G3C06
   :correct: 1
+  :refs: ''
   :question: What is a characteristic of HF scatter?
   :answers:
   - Phone signals have high intelligibility
@@ -1354,6 +1484,7 @@
   - Scatter propagation occurs only at night
 - :id: G3C07
   :correct: 3
+  :refs: ''
   :question: What makes HF scatter signals often sound distorted?
   :answers:
   - The ionospheric region involved is unstable
@@ -1362,6 +1493,7 @@
   - Energy is scattered into the skip zone through several different paths
 - :id: G3C08
   :correct: 0
+  :refs: ''
   :question: Why are HF scatter signals in the skip zone usually weak?
   :answers:
   - Only a small part of the signal energy is scattered into the skip zone
@@ -1370,6 +1502,7 @@
   - Propagation is via ducts in the F region, which absorb most of the energy
 - :id: G3C09
   :correct: 1
+  :refs: ''
   :question: What type of propagation allows signals to be heard in the transmitting
     station’s skip zone?
   :answers:
@@ -1379,6 +1512,7 @@
   - Short-path
 - :id: G3C10
   :correct: 1
+  :refs: ''
   :question: What is near vertical incidence skywave (NVIS) propagation?
   :answers:
   - Propagation near the MUF
@@ -1387,6 +1521,7 @@
   - Double hop propagation near the LUF
 - :id: G3C11
   :correct: 3
+  :refs: ''
   :question: Which ionospheric region is the most absorbent of signals below 10 MHz
     during daylight hours?
   :answers:
@@ -1396,6 +1531,7 @@
   - The D region
 - :id: G4A01
   :correct: 1
+  :refs: ''
   :question: What is the purpose of the notch filter found on many HF transceivers?
   :answers:
   - To restrict the transmitter voice bandwidth
@@ -1404,6 +1540,7 @@
   - To remove interfering splatter generated by signals on adjacent frequencies
 - :id: G4A02
   :correct: 2
+  :refs: ''
   :question: What is the benefit of using the opposite or “reverse” sideband when
     receiving CW?
   :answers:
@@ -1413,6 +1550,7 @@
   - Accidental out-of-band operation can be prevented
 - :id: G4A03
   :correct: 2
+  :refs: ''
   :question: How does a noise blanker work?
   :answers:
   - By temporarily increasing received bandwidth
@@ -1421,6 +1559,7 @@
   - By clipping noise peaks
 - :id: G4A04
   :correct: 1
+  :refs: ''
   :question: What is the effect on plate current of the correct setting of a vacuum-tube
     RF power amplifier’s TUNE control?
   :answers:
@@ -1430,6 +1569,7 @@
   - A slow, rhythmic oscillation
 - :id: G4A05
   :correct: 2
+  :refs: ''
   :question: Why is automatic level control (ALC) used with an RF power amplifier?
   :answers:
   - To balance the transmitter audio frequency response
@@ -1438,6 +1578,7 @@
   - To increase overall efficiency
 - :id: G4A06
   :correct: 2
+  :refs: ''
   :question: What is the purpose of an antenna tuner?
   :answers:
   - Reduce the SWR in the feed line to the antenna
@@ -1446,6 +1587,7 @@
   - All these choices are correct
 - :id: G4A07
   :correct: 0
+  :refs: ''
   :question: What happens as a receiver’s noise reduction control level is increased?
   :answers:
   - Received signals may become distorted
@@ -1454,6 +1596,7 @@
   - Received frequency may shift several kHz
 - :id: G4A08
   :correct: 3
+  :refs: ''
   :question: What is the correct adjustment for the LOAD or COUPLING control of a
     vacuum tube RF power amplifier?
   :answers:
@@ -1463,6 +1606,7 @@
   - Desired power output without exceeding maximum allowable plate current
 - :id: G4A09
   :correct: 2
+  :refs: ''
   :question: What is the purpose of delaying RF output after activating a transmitter’s
     keying line to an external amplifier?
   :answers:
@@ -1473,6 +1617,7 @@
   - To allow time for the amplifier power supply to reach operating level
 - :id: G4A10
   :correct: 1
+  :refs: ''
   :question: What is the function of an electronic keyer?
   :answers:
   - Automatic transmit/receive switching
@@ -1481,6 +1626,7 @@
   - Computer interface for PSK and RTTY operation
 - :id: G4A11
   :correct: 1
+  :refs: ''
   :question: Why should the ALC system be inactive when transmitting AFSK data signals?
   :answers:
   - ALC will invert the modulation of the AFSK mode
@@ -1489,6 +1635,7 @@
   - All these choices are correct
 - :id: G4A12
   :correct: 2
+  :refs: ''
   :question: Which of the following is a common use of the dual-VFO feature on a transceiver?
   :answers:
   - To allow transmitting on two frequencies at once
@@ -1498,6 +1645,7 @@
   - To improve frequency accuracy by allowing variable frequency output (VFO) operation
 - :id: G4A13
   :correct: 0
+  :refs: ''
   :question: What is the purpose of using a receive attenuator?
   :answers:
   - To prevent receiver overload from strong incoming signals
@@ -1506,6 +1654,7 @@
   - To reduce excessive audio level on strong signals
 - :id: G4B01
   :correct: 3
+  :refs: ''
   :question: What item of test equipment contains horizontal and vertical channel
     amplifiers?
   :answers:
@@ -1515,6 +1664,7 @@
   - An oscilloscope
 - :id: G4B02
   :correct: 3
+  :refs: ''
   :question: Which of the following is an advantage of an oscilloscope versus a digital
     voltmeter?
   :answers:
@@ -1524,6 +1674,7 @@
   - Complex waveforms can be measured
 - :id: G4B03
   :correct: 0
+  :refs: ''
   :question: Which of the following is the best instrument to use for checking the
     keying waveform of a CW transmitter?
   :answers:
@@ -1533,6 +1684,7 @@
   - A wavemeter
 - :id: G4B04
   :correct: 3
+  :refs: ''
   :question: What signal source is connected to the vertical input of an oscilloscope
     when checking the RF envelope pattern of a transmitted signal?
   :answers:
@@ -1542,6 +1694,7 @@
   - The attenuated RF output of the transmitter
 - :id: G4B05
   :correct: 3
+  :refs: ''
   :question: Why do voltmeters have high input impedance?
   :answers:
   - It improves the frequency response
@@ -1550,6 +1703,7 @@
   - It decreases the loading on circuits being measured
 - :id: G4B06
   :correct: 2
+  :refs: ''
   :question: What is an advantage of a digital multimeter as compared to an analog
     multimeter?
   :answers:
@@ -1559,6 +1713,7 @@
   - Faster response
 - :id: G4B07
   :correct: 1
+  :refs: ''
   :question: What signals are used to conduct a two-tone test?
   :answers:
   - Two audio signals of the same frequency shifted 90 degrees
@@ -1567,6 +1722,7 @@
   - Two audio frequency range square wave signals of equal amplitude
 - :id: G4B08
   :correct: 0
+  :refs: ''
   :question: What transmitter performance parameter does a two-tone test analyze?
   :answers:
   - Linearity
@@ -1575,6 +1731,7 @@
   - Percentage of carrier phase shift
 - :id: G4B09
   :correct: 3
+  :refs: ''
   :question: When is an analog multimeter preferred to a digital multimeter?
   :answers:
   - When testing logic circuits
@@ -1583,6 +1740,7 @@
   - When adjusting circuits for maximum or minimum values
 - :id: G4B10
   :correct: 0
+  :refs: ''
   :question: Which of the following can be determined with a directional wattmeter?
   :answers:
   - Standing wave ratio
@@ -1591,6 +1749,7 @@
   - Radio wave propagation
 - :id: G4B11
   :correct: 2
+  :refs: ''
   :question: Which of the following must be connected to an antenna analyzer when
     it is being used for SWR measurements?
   :answers:
@@ -1600,6 +1759,7 @@
   - All these choices are correct
 - :id: G4B12
   :correct: 1
+  :refs: ''
   :question: What effect can strong signals from nearby transmitters have on an antenna
     analyzer?
   :answers:
@@ -1610,6 +1770,7 @@
   - All these choices are correct
 - :id: G4B13
   :correct: 2
+  :refs: ''
   :question: Which of the following can be measured with an antenna analyzer?
   :answers:
   - Front-to-back ratio of an antenna
@@ -1618,6 +1779,7 @@
   - Gain of a directional antenna
 - :id: G4C01
   :correct: 1
+  :refs: ''
   :question: Which of the following might be useful in reducing RF interference to
     audio frequency circuits?
   :answers:
@@ -1627,6 +1789,7 @@
   - Reverse-biased diode
 - :id: G4C02
   :correct: 2
+  :refs: ''
   :question: Which of the following could be a cause of interference covering a wide
     range of frequencies?
   :answers:
@@ -1636,6 +1799,7 @@
   - Using a balun to feed an unbalanced antenna
 - :id: G4C03
   :correct: 2
+  :refs: ''
   :question: What sound is heard from an audio device experiencing RF interference
     from a single sideband phone transmitter?
   :answers:
@@ -1645,6 +1809,7 @@
   - Clearly audible speech
 - :id: G4C04
   :correct: 0
+  :refs: ''
   :question: What sound is heard from an audio device experiencing RF interference
     from a CW transmitter?
   :answers:
@@ -1654,6 +1819,7 @@
   - Severely distorted audio
 - :id: G4C05
   :correct: 3
+  :refs: ''
   :question: What is a possible cause of high voltages that produce RF burns?
   :answers:
   - Flat braid rather than round wire has been used for the ground wire
@@ -1662,6 +1828,7 @@
   - The ground wire has high impedance on that frequency
 - :id: G4C06
   :correct: 2
+  :refs: ''
   :question: What is a possible effect of a resonant ground connection?
   :answers:
   - Overheating of ground straps
@@ -1670,6 +1837,7 @@
   - A ground loop
 - :id: G4C07
   :correct: 0
+  :refs: ''
   :question: Why should soldered joints not be used in lightning protection ground
     connections?
   :answers:
@@ -1679,6 +1847,7 @@
   - All these choices are correct
 - :id: G4C08
   :correct: 0
+  :refs: ''
   :question: Which of the following would reduce RF interference caused by common-mode
     current on an audio cable?
   :answers:
@@ -1689,6 +1858,7 @@
   - Add an additional insulating jacket to the cable
 - :id: G4C09
   :correct: 3
+  :refs: ''
   :question: How can the effects of ground loops be minimized?
   :answers:
   - Connect all ground conductors in series
@@ -1697,6 +1867,7 @@
   - Bond equipment enclosures together
 - :id: G4C10
   :correct: 0
+  :refs: ''
   :question: What could be a symptom caused by a ground loop in your station’s audio
     connections?
   :answers:
@@ -1706,6 +1877,7 @@
   - You receive reports of harmonic interference from your station
 - :id: G4C11
   :correct: 2
+  :refs: ''
   :question: What technique helps to minimize RF “hot spots” in an amateur station?
   :answers:
   - Building all equipment in a metal enclosure
@@ -1714,6 +1886,7 @@
   - Placing low-pass filters on all feed lines
 - :id: G4C12
   :correct: 3
+  :refs: ''
   :question: Why must all metal enclosures of station equipment be grounded?
   :answers:
   - It prevents a blown fuse in the event of an internal short circuit
@@ -1722,6 +1895,7 @@
   - It ensures that hazardous voltages cannot appear on the chassis
 - :id: G4D01
   :correct: 0
+  :refs: ''
   :question: What is the purpose of a speech processor in a transceiver?
   :answers:
   - Increase the apparent loudness of transmitted voice signals
@@ -1730,6 +1904,7 @@
   - Decrease high-frequency voice output to prevent out-of-band operation
 - :id: G4D02
   :correct: 1
+  :refs: ''
   :question: How does a speech processor affect a single sideband phone signal?
   :answers:
   - It increases peak power
@@ -1738,6 +1913,7 @@
   - It reduces intermodulation distortion
 - :id: G4D03
   :correct: 3
+  :refs: ''
   :question: What is the effect of an incorrectly adjusted speech processor?
   :answers:
   - Distorted speech
@@ -1746,6 +1922,7 @@
   - All these choices are correct
 - :id: G4D04
   :correct: 2
+  :refs: ''
   :question: What does an S meter measure?
   :answers:
   - Carrier suppression
@@ -1754,6 +1931,7 @@
   - Transmitter power output
 - :id: G4D05
   :correct: 3
+  :refs: ''
   :question: How does a signal that reads 20 dB over S9 compare to one that reads
     S9 on a receiver, assuming a properly calibrated S meter?
   :answers:
@@ -1763,6 +1941,7 @@
   - It is 100 times more powerful
 - :id: G4D06
   :correct: 0
+  :refs: ''
   :question: How much change in signal strength is typically represented by one S
     unit?
   :answers:
@@ -1772,6 +1951,7 @@
   - 18 dB
 - :id: G4D07
   :correct: 2
+  :refs: ''
   :question: How much must the power output of a transmitter be raised to change the
     S meter reading on a distant receiver from S8 to S9?
   :answers:
@@ -1781,6 +1961,7 @@
   - Approximately 8 times
 - :id: G4D08
   :correct: 2
+  :refs: ''
   :question: What frequency range is occupied by a 3 kHz LSB signal when the displayed
     carrier frequency is set to 7.178 MHz?
   :answers:
@@ -1790,6 +1971,7 @@
   - 7.1765 MHz to 7.1795 MHz
 - :id: G4D09
   :correct: 1
+  :refs: ''
   :question: What frequency range is occupied by a 3 kHz USB signal with the displayed
     carrier frequency set to 14.347 MHz?
   :answers:
@@ -1799,6 +1981,7 @@
   - 14.3455 MHz to 14.3485 MHz
 - :id: G4D10
   :correct: 0
+  :refs: ''
   :question: How close to the lower edge of a band’s phone segment should your displayed
     carrier frequency be when using 3 kHz wide LSB?
   :answers:
@@ -1808,6 +1991,7 @@
   - At least 1 kHz above the edge of the segment
 - :id: G4D11
   :correct: 1
+  :refs: ''
   :question: How close to the upper edge of a band’s phone segment should your displayed
     carrier frequency be when using 3 kHz wide USB?
   :answers:
@@ -1817,6 +2001,7 @@
   - At least 1 kHz below the edge of the segment
 - :id: G4E01
   :correct: 2
+  :refs: ''
   :question: What is the purpose of a capacitance hat on a mobile antenna?
   :answers:
   - To increase the power handling capacity of a whip antenna
@@ -1825,6 +2010,7 @@
   - To lower the radiation angle
 - :id: G4E02
   :correct: 3
+  :refs: ''
   :question: What is the purpose of a corona ball on an HF mobile antenna?
   :answers:
   - To narrow the operating bandwidth of the antenna
@@ -1833,6 +2019,7 @@
   - To reduce RF voltage discharge from the tip of the antenna while transmitting
 - :id: G4E03
   :correct: 0
+  :refs: ''
   :question: Which of the following direct, fused power connections would be the best
     for a 100-watt HF mobile installation?
   :answers:
@@ -1843,6 +2030,7 @@
     line
 - :id: G4E04
   :correct: 1
+  :refs: ''
   :question: Why should DC power for a 100-watt HF transceiver not be supplied by
     a vehicle’s auxiliary power socket?
   :answers:
@@ -1852,6 +2040,7 @@
   - Drawing more than 50 watts from this socket could cause the engine to overheat
 - :id: G4E05
   :correct: 2
+  :refs: ''
   :question: Which of the following most limits an HF mobile installation?
   :answers:
   - "“Picket fencing”"
@@ -1860,6 +2049,7 @@
   - FCC rules limiting mobile output power on the 75-meter band
 - :id: G4E06
   :correct: 2
+  :refs: ''
   :question: What is one disadvantage of using a shortened mobile antenna as opposed
     to a full-size antenna?
   :answers:
@@ -1869,6 +2059,7 @@
   - Harmonic radiation may increase
 - :id: G4E07
   :correct: 3
+  :refs: ''
   :question: Which of the following may cause receive interference to an HF transceiver
     installed in a vehicle?
   :answers:
@@ -1878,6 +2069,7 @@
   - All these choices are correct
 - :id: G4E08
   :correct: 0
+  :refs: ''
   :question: In what configuration are the individual cells in a solar panel connected
     together?
   :answers:
@@ -1887,6 +2079,7 @@
   - Full-wave bridge
 - :id: G4E09
   :correct: 1
+  :refs: ''
   :question: What is the approximate open-circuit voltage from a fully illuminated
     silicon photovoltaic cell?
   :answers:
@@ -1896,6 +2089,7 @@
   - 1.38 VDC
 - :id: G4E10
   :correct: 1
+  :refs: ''
   :question: Why should a series diode be connected between a solar panel and a storage
     battery that is being charged by the panel?
   :answers:
@@ -1907,6 +2101,7 @@
     levels
 - :id: G4E11
   :correct: 3
+  :refs: ''
   :question: What precaution should be taken when connecting a solar panel to a lithium
     iron phosphate battery?
   :answers:
@@ -1916,6 +2111,7 @@
   - The solar panel must have a charge controller
 - :id: G5A01
   :correct: 2
+  :refs: ''
   :question: What happens when inductive and capacitive reactance are equal in a series
     LC circuit?
   :answers:
@@ -1925,6 +2121,7 @@
   - Impedance is equal to the arithmetic mean of the inductance and capacitance
 - :id: G5A02
   :correct: 1
+  :refs: ''
   :question: What is reactance?
   :answers:
   - Opposition to the flow of direct current caused by resistance
@@ -1933,6 +2130,7 @@
   - Reinforcement of the flow of alternating current caused by capacitance or inductance
 - :id: G5A03
   :correct: 3
+  :refs: ''
   :question: Which of the following is opposition to the flow of alternating current
     in an inductor?
   :answers:
@@ -1942,6 +2140,7 @@
   - Reactance
 - :id: G5A04
   :correct: 2
+  :refs: ''
   :question: Which of the following is opposition to the flow of alternating current
     in a capacitor?
   :answers:
@@ -1951,6 +2150,7 @@
   - Admittance
 - :id: G5A05
   :correct: 3
+  :refs: ''
   :question: How does an inductor react to AC?
   :answers:
   - As the frequency of the applied AC increases, the reactance decreases
@@ -1959,6 +2159,7 @@
   - As the frequency of the applied AC increases, the reactance increases
 - :id: G5A06
   :correct: 0
+  :refs: ''
   :question: How does a capacitor react to AC?
   :answers:
   - As the frequency of the applied AC increases, the reactance decreases
@@ -1967,6 +2168,7 @@
   - As the amplitude of the applied AC increases, the reactance decreases
 - :id: G5A07
   :correct: 3
+  :refs: ''
   :question: What is the term for the inverse of impedance?
   :answers:
   - Conductance
@@ -1975,6 +2177,7 @@
   - Admittance
 - :id: G5A08
   :correct: 2
+  :refs: ''
   :question: What is impedance?
   :answers:
   - The ratio of current to voltage
@@ -1983,6 +2186,7 @@
   - The product of current and reactance
 - :id: G5A09
   :correct: 1
+  :refs: ''
   :question: What unit is used to measure reactance?
   :answers:
   - Farad
@@ -1991,6 +2195,7 @@
   - Siemens
 - :id: G5A10
   :correct: 3
+  :refs: ''
   :question: Which of the following devices can be used for impedance matching at
     radio frequencies?
   :answers:
@@ -2000,6 +2205,7 @@
   - All these choices are correct
 - :id: G5A11
   :correct: 1
+  :refs: ''
   :question: What letter is used to represent reactance?
   :answers:
   - Z
@@ -2008,6 +2214,7 @@
   - Y
 - :id: G5A12
   :correct: 3
+  :refs: ''
   :question: What occurs in an LC circuit at resonance?
   :answers:
   - Current and voltage are equal
@@ -2016,6 +2223,7 @@
   - Inductive reactance and capacitive reactance cancel
 - :id: G5B01
   :correct: 1
+  :refs: ''
   :question: What dB change represents a factor of two increase or decrease in power?
   :answers:
   - Approximately 2 dB
@@ -2024,6 +2232,7 @@
   - Approximately 9 dB
 - :id: G5B02
   :correct: 2
+  :refs: ''
   :question: How does the total current relate to the individual currents in a circuit
     of parallel resistors?
   :answers:
@@ -2033,6 +2242,7 @@
   - It is the sum of the reciprocal of each individual voltage drop
 - :id: G5B03
   :correct: 1
+  :refs: ''
   :question: How many watts of electrical power are consumed if 400 VDC is supplied
     to an 800-ohm load?
   :answers:
@@ -2042,6 +2252,7 @@
   - 3200 watts
 - :id: G5B04
   :correct: 0
+  :refs: ''
   :question: How many watts of electrical power are consumed by a 12 VDC light bulb
     that draws 0.2 amperes?
   :answers:
@@ -2051,6 +2262,7 @@
   - 60 watts
 - :id: G5B05
   :correct: 0
+  :refs: ''
   :question: How many watts are consumed when a current of 7.0 milliamperes flows
     through a 1,250-ohm resistance?
   :answers:
@@ -2060,6 +2272,7 @@
   - Approximately 11 watts
 - :id: G5B06
   :correct: 1
+  :refs: ''
   :question: What is the PEP produced by 200 volts peak-to-peak across a 50-ohm dummy
     load?
   :answers:
@@ -2069,6 +2282,7 @@
   - 400 watts
 - :id: G5B07
   :correct: 2
+  :refs: ''
   :question: What value of an AC signal produces the same power dissipation in a resistor
     as a DC voltage of the same value?
   :answers:
@@ -2078,6 +2292,7 @@
   - The reciprocal of the RMS value
 - :id: G5B08
   :correct: 3
+  :refs: ''
   :question: What is the peak-to-peak voltage of a sine wave with an RMS voltage of
     120 volts?
   :answers:
@@ -2087,6 +2302,7 @@
   - 339.4 volts
 - :id: G5B09
   :correct: 1
+  :refs: ''
   :question: What is the RMS voltage of a sine wave with a value of 17 volts peak?
   :answers:
   - 8.5 volts
@@ -2095,6 +2311,7 @@
   - 34 volts
 - :id: G5B10
   :correct: 2
+  :refs: ''
   :question: What percentage of power loss is equivalent to a loss of 1 dB?
   :answers:
   - 10.9 percent
@@ -2103,6 +2320,7 @@
   - 25.9 percent
 - :id: G5B11
   :correct: 1
+  :refs: ''
   :question: What is the ratio of PEP to average power for an unmodulated carrier?
   :answers:
   - '0.707'
@@ -2111,6 +2329,7 @@
   - '2.00'
 - :id: G5B12
   :correct: 1
+  :refs: ''
   :question: What is the RMS voltage across a 50-ohm dummy load dissipating 1200 watts?
   :answers:
   - 173 volts
@@ -2119,6 +2338,7 @@
   - 692 volts
 - :id: G5B13
   :correct: 1
+  :refs: ''
   :question: What is the output PEP of an unmodulated carrier if the average power
     is 1060 watts?
   :answers:
@@ -2128,6 +2348,7 @@
   - 2120 watts
 - :id: G5B14
   :correct: 1
+  :refs: ''
   :question: What is the output PEP of 500 volts peak-to-peak across a 50-ohm load?
   :answers:
   - 8.75 watts
@@ -2136,6 +2357,7 @@
   - 5000 watts
 - :id: G5C01
   :correct: 2
+  :refs: ''
   :question: What causes a voltage to appear across the secondary winding of a transformer
     when an AC voltage source is connected across its primary winding?
   :answers:
@@ -2145,6 +2367,7 @@
   - Mutual capacitance
 - :id: G5C02
   :correct: 0
+  :refs: ''
   :question: What is the output voltage if an input signal is applied to the secondary
     winding of a 4:1 voltage step-down transformer instead of the primary winding?
   :answers:
@@ -2155,6 +2378,7 @@
     overload
 - :id: G5C03
   :correct: 0
+  :refs: ''
   :question: What is the total resistance of a 10-, a 20-, and a 50-ohm resistor connected
     in parallel?
   :answers:
@@ -2164,6 +2388,7 @@
   - 80 ohms
 - :id: G5C04
   :correct: 3
+  :refs: ''
   :question: What is the approximate total resistance of a 100- and a 200-ohm resistor
     in parallel?
   :answers:
@@ -2173,6 +2398,7 @@
   - 67 ohms
 - :id: G5C05
   :correct: 1
+  :refs: ''
   :question: Why is the primary winding wire of a voltage step-up transformer usually
     a larger size than that of the secondary winding?
   :answers:
@@ -2183,6 +2409,7 @@
     secondary winding
 - :id: G5C06
   :correct: 0
+  :refs: ''
   :question: What is the voltage output of a transformer with a 500-turn primary and
     a 1500-turn secondary when 120 VAC is applied to the primary?
   :answers:
@@ -2192,6 +2419,7 @@
   - 25.5 volts
 - :id: G5C07
   :correct: 0
+  :refs: ''
   :question: What transformer turns ratio matches an antenna’s 600-ohm feed point
     impedance to a 50-ohm coaxial cable?
   :answers:
@@ -2201,6 +2429,7 @@
   - 144 to 1
 - :id: G5C08
   :correct: 3
+  :refs: ''
   :question: What is the equivalent capacitance of two 5.0-nanofarad capacitors and
     one 750-picofarad capacitor connected in parallel?
   :answers:
@@ -2210,6 +2439,7 @@
   - 10.750 nanofarads
 - :id: G5C09
   :correct: 2
+  :refs: ''
   :question: What is the capacitance of three 100-microfarad capacitors connected
     in series?
   :answers:
@@ -2219,6 +2449,7 @@
   - 300 microfarads
 - :id: G5C10
   :correct: 2
+  :refs: ''
   :question: What is the inductance of three 10-millihenry inductors connected in
     parallel?
   :answers:
@@ -2228,6 +2459,7 @@
   - 30 millihenries
 - :id: G5C11
   :correct: 2
+  :refs: ''
   :question: What is the inductance of a circuit with a 20-millihenry inductor connected
     in series with a 50-millihenry inductor?
   :answers:
@@ -2237,6 +2469,7 @@
   - 1,000 millihenries
 - :id: G5C12
   :correct: 1
+  :refs: ''
   :question: What is the capacitance of a 20-microfarad capacitor connected in series
     with a 50-microfarad capacitor?
   :answers:
@@ -2246,6 +2479,7 @@
   - 1,000 microfarads
 - :id: G5C13
   :correct: 2
+  :refs: ''
   :question: Which of the following components should be added to a capacitor to increase
     the capacitance?
   :answers:
@@ -2255,6 +2489,7 @@
   - A capacitor in series
 - :id: G5C14
   :correct: 3
+  :refs: ''
   :question: Which of the following components should be added to an inductor to increase
     the inductance?
   :answers:
@@ -2264,6 +2499,7 @@
   - An inductor in series
 - :id: G6A01
   :correct: 2
+  :refs: ''
   :question: What is the minimum allowable discharge voltage for maximum life of a
     standard 12-volt lead-acid battery?
   :answers:
@@ -2273,6 +2509,7 @@
   - 12 volts
 - :id: G6A02
   :correct: 1
+  :refs: ''
   :question: What is an advantage of batteries with low internal resistance?
   :answers:
   - Long life
@@ -2281,6 +2518,7 @@
   - Rapid recharge
 - :id: G6A03
   :correct: 1
+  :refs: ''
   :question: What is the approximate forward threshold voltage of a germanium diode?
   :answers:
   - 0.1 volt
@@ -2289,6 +2527,7 @@
   - 1.0 volts
 - :id: G6A04
   :correct: 2
+  :refs: ''
   :question: Which of the following is characteristic of an electrolytic capacitor?
   :answers:
   - Tight tolerance
@@ -2297,6 +2536,7 @@
   - Inexpensive RF capacitor
 - :id: G6A05
   :correct: 2
+  :refs: ''
   :question: What is the approximate forward threshold voltage of a silicon junction
     diode?
   :answers:
@@ -2306,6 +2546,7 @@
   - 1.0 volts
 - :id: G6A06
   :correct: 1
+  :refs: ''
   :question: Why should wire-wound resistors not be used in RF circuits?
   :answers:
   - The resistor’s tolerance value would not be adequate
@@ -2314,6 +2555,7 @@
   - The resistor’s internal capacitance would detune the circuit
 - :id: G6A07
   :correct: 0
+  :refs: ''
   :question: What are the operating points for a bipolar transistor used as a switch?
   :answers:
   - Saturation and cutoff
@@ -2322,6 +2564,7 @@
   - Enhancement and depletion modes
 - :id: G6A08
   :correct: 3
+  :refs: ''
   :question: Which of the following is characteristic of low voltage ceramic capacitors?
   :answers:
   - Tight tolerance
@@ -2330,6 +2573,7 @@
   - Comparatively low cost
 - :id: G6A09
   :correct: 1
+  :refs: ''
   :question: Which of the following describes MOSFET construction?
   :answers:
   - The gate is formed by a back-biased junction
@@ -2338,6 +2582,7 @@
   - The source is formed by depositing metal on silicon
 - :id: G6A10
   :correct: 0
+  :refs: ''
   :question: Which element of a vacuum tube regulates the flow of electrons between
     cathode and plate?
   :answers:
@@ -2347,6 +2592,7 @@
   - Trigger electrode
 - :id: G6A11
   :correct: 2
+  :refs: ''
   :question: What happens when an inductor is operated above its self-resonant frequency?
   :answers:
   - Its reactance increases
@@ -2355,6 +2601,7 @@
   - Catastrophic failure is likely
 - :id: G6A12
   :correct: 0
+  :refs: ''
   :question: What is the primary purpose of a screen grid in a vacuum tube?
   :answers:
   - To reduce grid-to-plate capacitance
@@ -2363,6 +2610,7 @@
   - To decrease plate resistance
 - :id: G6B01
   :correct: 2
+  :refs: ''
   :question: What determines the performance of a ferrite core at different frequencies?
   :answers:
   - Its conductivity
@@ -2371,6 +2619,7 @@
   - The ratio of outer diameter to inner diameter
 - :id: G6B02
   :correct: 1
+  :refs: ''
   :question: What is meant by the term MMIC?
   :answers:
   - Multi-Mode Integrated Circuit
@@ -2379,6 +2628,7 @@
   - Mode Modulated Integrated Circuit
 - :id: G6B03
   :correct: 0
+  :refs: ''
   :question: Which of the following is an advantage of CMOS integrated circuits compared
     to TTL integrated circuits?
   :answers:
@@ -2388,6 +2638,7 @@
   - Better suited for power supply regulation
 - :id: G6B04
   :correct: 2
+  :refs: ''
   :question: What is a typical upper frequency limit for low SWR operation of 50-ohm
     BNC connectors?
   :answers:
@@ -2397,6 +2648,7 @@
   - 40 GHz
 - :id: G6B05
   :correct: 3
+  :refs: ''
   :question: What is an advantage of using a ferrite core toroidal inductor?
   :answers:
   - Large values of inductance may be obtained
@@ -2405,6 +2657,7 @@
   - All these choices are correct
 - :id: G6B06
   :correct: 3
+  :refs: ''
   :question: What kind of device is an integrated circuit operational amplifier?
   :answers:
   - Digital
@@ -2413,6 +2666,7 @@
   - Analog
 - :id: G6B07
   :correct: 0
+  :refs: ''
   :question: Which of the following describes a type N connector?
   :answers:
   - A moisture-resistant RF connector useful to 10 GHz
@@ -2421,22 +2675,16 @@
   - A nickel plated version of the PL-259
 - :id: G6B08
   :correct: 3
+  :refs: ''
   :question: How is an LED biased when emitting light?
   :answers:
   - In the tunnel-effect region
   - At the Zener voltage
   - Reverse biased
   - Forward biased
-- :id: G6B09
-  :correct: 0
-  :question: How does a liquid crystal display compare to an LED display?
-  :answers:
-  - Higher contrast in high ambient lighting
-  - Wider dynamic range
-  - Higher power consumption
-  - Shorter lifetime
 - :id: G6B10
   :correct: 0
+  :refs: ''
   :question: How does a ferrite bead or core reduce common-mode RF current on the
     shield of a coaxial cable?
   :answers:
@@ -2446,6 +2694,7 @@
   - Ferrites expel magnetic fields
 - :id: G6B11
   :correct: 1
+  :refs: ''
   :question: What is an SMA connector?
   :answers:
   - A type-S to type-M adaptor
@@ -2454,6 +2703,7 @@
   - A type of push-on connector intended for high-voltage applications
 - :id: G6B12
   :correct: 2
+  :refs: ''
   :question: Which of these connector types is commonly used for low frequency or
     dc signal connections to a transceiver?
   :answers:
@@ -2463,6 +2713,7 @@
   - Type N
 - :id: G7A01
   :correct: 1
+  :refs: ''
   :question: What is the function of a power supply bleeder resistor?
   :answers:
   - It acts as a fuse for excess voltage
@@ -2471,6 +2722,7 @@
   - It eliminates ground loop current
 - :id: G7A02
   :correct: 2
+  :refs: ''
   :question: Which of the following components are used in a power supply filter network?
   :answers:
   - Diodes
@@ -2479,6 +2731,7 @@
   - All these choices are correct
 - :id: G7A03
   :correct: 0
+  :refs: ''
   :question: Which type of rectifier circuit uses two diodes and a center-tapped transformer?
   :answers:
   - Full-wave
@@ -2487,6 +2740,7 @@
   - Synchronous
 - :id: G7A04
   :correct: 0
+  :refs: ''
   :question: What is characteristic of a half-wave rectifier in a power supply?
   :answers:
   - Only one diode is required
@@ -2495,6 +2749,7 @@
   - The output voltage is two times the peak input voltage
 - :id: G7A05
   :correct: 1
+  :refs: ''
   :question: What portion of the AC cycle is converted to DC by a half-wave rectifier?
   :answers:
   - 90 degrees
@@ -2503,6 +2758,7 @@
   - 360 degrees
 - :id: G7A06
   :correct: 3
+  :refs: ''
   :question: What portion of the AC cycle is converted to DC by a full-wave rectifier?
   :answers:
   - 90 degrees
@@ -2511,6 +2767,7 @@
   - 360 degrees
 - :id: G7A07
   :correct: 0
+  :refs: ''
   :question: What is the output waveform of an unfiltered full-wave rectifier connected
     to a resistive load?
   :answers:
@@ -2520,6 +2777,7 @@
   - A steady DC voltage
 - :id: G7A08
   :correct: 2
+  :refs: ''
   :question: Which of the following is characteristic of a switchmode power supply
     as compared to a linear power supply?
   :answers:
@@ -2529,6 +2787,7 @@
   - Inherently more stable
 - :id: G7A09
   :correct: 2
+  :refs: ''
   :question: Which symbol in figure G7-1 represents a field effect transistor?
   :answers:
   - Symbol 2
@@ -2537,6 +2796,7 @@
   - Symbol 4
 - :id: G7A10
   :correct: 3
+  :refs: ''
   :question: Which symbol in figure G7-1 represents a Zener diode?
   :answers:
   - Symbol 4
@@ -2545,6 +2805,7 @@
   - Symbol 5
 - :id: G7A11
   :correct: 1
+  :refs: ''
   :question: Which symbol in figure G7-1 represents an NPN junction transistor?
   :answers:
   - Symbol 1
@@ -2553,6 +2814,7 @@
   - Symbol 11
 - :id: G7A12
   :correct: 2
+  :refs: ''
   :question: Which symbol in Figure G7-1 represents a solid core transformer?
   :answers:
   - Symbol 4
@@ -2561,6 +2823,7 @@
   - Symbol 1
 - :id: G7A13
   :correct: 0
+  :refs: ''
   :question: Which symbol in Figure G7-1 represents a tapped inductor?
   :answers:
   - Symbol 7
@@ -2569,6 +2832,7 @@
   - Symbol 1
 - :id: G7B01
   :correct: 1
+  :refs: ''
   :question: What is the purpose of neutralizing an amplifier?
   :answers:
   - To limit the modulation index
@@ -2577,6 +2841,7 @@
   - To keep the carrier on frequency
 - :id: G7B02
   :correct: 3
+  :refs: ''
   :question: Which of these classes of amplifiers has the highest efficiency?
   :answers:
   - Class A
@@ -2585,6 +2850,7 @@
   - Class C
 - :id: G7B03
   :correct: 1
+  :refs: ''
   :question: Which of the following describes the function of a two-input AND gate?
   :answers:
   - Output is high when either or both inputs are low
@@ -2593,6 +2859,7 @@
   - Output is low only when both inputs are high
 - :id: G7B04
   :correct: 0
+  :refs: ''
   :question: In a Class A amplifier, what percentage of the time does the amplifying
     device conduct?
   :answers:
@@ -2602,6 +2869,7 @@
   - Less than 50%
 - :id: G7B05
   :correct: 2
+  :refs: ''
   :question: How many states does a 3-bit binary counter have?
   :answers:
   - '3'
@@ -2610,6 +2878,7 @@
   - '16'
 - :id: G7B06
   :correct: 0
+  :refs: ''
   :question: What is a shift register?
   :answers:
   - A clocked array of circuits that passes data in steps along the array
@@ -2618,6 +2887,7 @@
   - An analog mixer
 - :id: G7B07
   :correct: 3
+  :refs: ''
   :question: Which of the following are basic components of a sine wave oscillator?
   :answers:
   - An amplifier and a divider
@@ -2626,6 +2896,7 @@
   - A filter and an amplifier operating in a feedback loop
 - :id: G7B08
   :correct: 1
+  :refs: ''
   :question: How is the efficiency of an RF power amplifier determined?
   :answers:
   - Divide the DC input power by the DC output power
@@ -2634,6 +2905,7 @@
   - Add the RF input power to the DC output power
 - :id: G7B09
   :correct: 2
+  :refs: ''
   :question: What determines the frequency of an LC oscillator?
   :answers:
   - The number of stages in the counter
@@ -2642,6 +2914,7 @@
   - The time delay of the lag circuit
 - :id: G7B10
   :correct: 1
+  :refs: ''
   :question: Which of the following describes a linear amplifier?
   :answers:
   - Any RF power amplifier used in conjunction with an amateur transceiver
@@ -2650,6 +2923,7 @@
   - An amplifier used as a frequency multiplier
 - :id: G7B11
   :correct: 1
+  :refs: ''
   :question: For which of the following modes is a Class C power stage appropriate
     for amplifying a modulated signal?
   :answers:
@@ -2659,6 +2933,7 @@
   - All these choices are correct
 - :id: G7C01
   :correct: 1
+  :refs: ''
   :question: What circuit is used to select one of the sidebands from a balanced modulator?
   :answers:
   - Carrier oscillator
@@ -2667,6 +2942,7 @@
   - RF amplifier
 - :id: G7C02
   :correct: 3
+  :refs: ''
   :question: What output is produced by a balanced modulator?
   :answers:
   - Frequency modulated RF
@@ -2675,6 +2951,7 @@
   - Double-sideband modulated RF
 - :id: G7C03
   :correct: 1
+  :refs: ''
   :question: What is one reason to use an impedance matching transformer at a transmitter
     output?
   :answers:
@@ -2684,14 +2961,16 @@
   - To minimize radiation resistance
 - :id: G7C04
   :correct: 3
+  :refs: ''
   :question: How is a product detector used?
   :answers:
   - Used in test gear to detect spurious mixing products
-  - Used in transmitter to perform frequency multiplication
+  - Used in a transmitter to perform frequency multiplication
   - Used in an FM receiver to filter out unwanted sidebands
   - Used in a single sideband receiver to extract the modulated signal
 - :id: G7C05
   :correct: 3
+  :refs: ''
   :question: Which of the following is characteristic of a direct digital synthesizer
     (DDS)?
   :answers:
@@ -2701,6 +2980,7 @@
   - Variable output frequency with the stability of a crystal oscillator
 - :id: G7C06
   :correct: 0
+  :refs: ''
   :question: Which of the following is an advantage of a digital signal processing
     (DSP) filter compared to an analog filter?
   :answers:
@@ -2710,6 +2990,7 @@
   - The DSP filter is much more effective at VHF frequencies
 - :id: G7C07
   :correct: 0
+  :refs: ''
   :question: What term specifies a filter’s attenuation inside its passband?
   :answers:
   - Insertion loss
@@ -2718,6 +2999,7 @@
   - Ultimate rejection
 - :id: G7C08
   :correct: 3
+  :refs: ''
   :question: Which parameter affects receiver sensitivity?
   :answers:
   - Input amplifier gain
@@ -2726,6 +3008,7 @@
   - All these choices are correct
 - :id: G7C09
   :correct: 1
+  :refs: ''
   :question: What is the phase difference between the I and Q RF signals that software-defined
     radio (SDR) equipment uses for modulation and demodulation?
   :answers:
@@ -2735,6 +3018,7 @@
   - 45 degrees
 - :id: G7C10
   :correct: 1
+  :refs: ''
   :question: What is an advantage of using I-Q modulation with software-defined radios
     (SDRs)?
   :answers:
@@ -2744,6 +3028,7 @@
   - Automatic conversion of the signal from digital to analog
 - :id: G7C11
   :correct: 3
+  :refs: ''
   :question: Which of these functions is performed by software in a software-defined
     radio (SDR)?
   :answers:
@@ -2753,6 +3038,7 @@
   - All these choices are correct
 - :id: G7C12
   :correct: 2
+  :refs: ''
   :question: What is the frequency above which a low-pass filter’s output power is
     less than half the input power?
   :answers:
@@ -2762,6 +3048,7 @@
   - Rolloff frequency
 - :id: G7C13
   :correct: 3
+  :refs: ''
   :question: What term specifies a filter’s maximum ability to reject signals outside
     its passband?
   :answers:
@@ -2771,6 +3058,7 @@
   - Ultimate rejection
 - :id: G7C14
   :correct: 0
+  :refs: ''
   :question: The bandwidth of a band-pass filter is measured between what two frequencies?
   :answers:
   - Upper and lower half-power
@@ -2779,6 +3067,7 @@
   - Image and harmonic
 - :id: G8A01
   :correct: 1
+  :refs: ''
   :question: How is direct binary FSK modulation generated?
   :answers:
   - By keying an FM transmitter with a sub-audible tone
@@ -2787,6 +3076,7 @@
   - By reconfiguring the CW keying input to act as a tone generator
 - :id: G8A02
   :correct: 1
+  :refs: ''
   :question: What is the name of the process that changes the phase angle of an RF
     signal to convey information?
   :answers:
@@ -2796,6 +3086,7 @@
   - Phase inversion
 - :id: G8A03
   :correct: 3
+  :refs: ''
   :question: What is the name of the process that changes the instantaneous frequency
     of an RF wave to convey information?
   :answers:
@@ -2805,6 +3096,7 @@
   - Frequency modulation
 - :id: G8A04
   :correct: 1
+  :refs: ''
   :question: What emission is produced by a reactance modulator connected to a transmitter
     RF amplifier stage?
   :answers:
@@ -2814,6 +3106,7 @@
   - Pulse modulation
 - :id: G8A05
   :correct: 3
+  :refs: ''
   :question: What type of modulation varies the instantaneous power level of the RF
     signal?
   :answers:
@@ -2823,6 +3116,7 @@
   - Amplitude modulation
 - :id: G8A06
   :correct: 3
+  :refs: ''
   :question: Which of the following is characteristic of QPSK31?
   :answers:
   - It is sideband sensitive
@@ -2831,6 +3125,7 @@
   - All these choices are correct
 - :id: G8A07
   :correct: 0
+  :refs: ''
   :question: Which of the following phone emissions uses the narrowest bandwidth?
   :answers:
   - Single sideband
@@ -2839,6 +3134,7 @@
   - Frequency modulation
 - :id: G8A08
   :correct: 3
+  :refs: ''
   :question: Which of the following is an effect of overmodulation?
   :answers:
   - Insufficient audio
@@ -2847,6 +3143,7 @@
   - Excessive bandwidth
 - :id: G8A09
   :correct: 0
+  :refs: ''
   :question: What type of modulation is used by FT8?
   :answers:
   - 8-tone frequency shift keying
@@ -2855,6 +3152,7 @@
   - 8-bit direct sequence spread spectrum
 - :id: G8A10
   :correct: 2
+  :refs: ''
   :question: What is meant by the term “flat-topping,” when referring to an amplitude-modulated
     phone signal?
   :answers:
@@ -2864,6 +3162,7 @@
   - The transmitter’s carrier is properly suppressed
 - :id: G8A11
   :correct: 0
+  :refs: ''
   :question: What is the modulation envelope of an AM signal?
   :answers:
   - The waveform created by connecting the peak values of the modulated signal
@@ -2872,6 +3171,7 @@
   - The bandwidth of the modulated signal
 - :id: G8A12
   :correct: 3
+  :refs: ''
   :question: What is QPSK modulation?
   :answers:
   - Modulation using quasi-parallel to serial conversion to reduce bandwidth
@@ -2883,6 +3183,7 @@
     phase shift to represent pairs of bits
 - :id: G8A13
   :correct: 2
+  :refs: ''
   :question: What is a link budget?
   :answers:
   - The financial costs associated with operating a radio link
@@ -2892,6 +3193,7 @@
   - The difference between transmit power and receiver sensitivity
 - :id: G8A14
   :correct: 1
+  :refs: ''
   :question: What is link margin?
   :answers:
   - The opposite of fade margin
@@ -2901,6 +3203,7 @@
   - Receiver sensitivity plus 3 dB
 - :id: G8B01
   :correct: 1
+  :refs: ''
   :question: Which mixer input is varied or tuned to convert signals of different
     frequencies to an intermediate frequency (IF)?
   :answers:
@@ -2910,6 +3213,7 @@
   - Beat frequency oscillator
 - :id: G8B02
   :correct: 1
+  :refs: ''
   :question: What is the term for interference from a signal at twice the IF frequency
     from the desired signal?
   :answers:
@@ -2919,6 +3223,7 @@
   - Intermediate interference
 - :id: G8B03
   :correct: 0
+  :refs: ''
   :question: What is another term for the mixing of two RF signals?
   :answers:
   - Heterodyning
@@ -2927,6 +3232,7 @@
   - Phase inversion
 - :id: G8B04
   :correct: 3
+  :refs: ''
   :question: What is the stage in a VHF FM transmitter that generates a harmonic of
     a lower frequency signal to reach the desired operating frequency?
   :answers:
@@ -2936,6 +3242,7 @@
   - Multiplier
 - :id: G8B05
   :correct: 2
+  :refs: ''
   :question: Which intermodulation products are closest to the original signal frequencies?
   :answers:
   - Second harmonics
@@ -2944,6 +3251,7 @@
   - Intercept point
 - :id: G8B06
   :correct: 3
+  :refs: ''
   :question: What is the total bandwidth of an FM phone transmission having 5 kHz
     deviation and 3 kHz modulating frequency?
   :answers:
@@ -2953,6 +3261,7 @@
   - 16 kHz
 - :id: G8B07
   :correct: 1
+  :refs: ''
   :question: What is the frequency deviation for a 12.21 MHz reactance modulated oscillator
     in a 5 kHz deviation, 146.52 MHz FM phone transmitter?
   :answers:
@@ -2962,6 +3271,7 @@
   - 60 kHz
 - :id: G8B08
   :correct: 1
+  :refs: ''
   :question: Why is it important to know the duty cycle of the mode you are using
     when transmitting?
   :answers:
@@ -2972,6 +3282,7 @@
   - To prevent overmodulation
 - :id: G8B09
   :correct: 3
+  :refs: ''
   :question: Why is it good to match receiver bandwidth to the bandwidth of the operating
     mode?
   :answers:
@@ -2981,6 +3292,7 @@
   - It results in the best signal-to-noise ratio
 - :id: G8B10
   :correct: 1
+  :refs: ''
   :question: What is the relationship between transmitted symbol rate and bandwidth?
   :answers:
   - Symbol rate and bandwidth are not related
@@ -2989,6 +3301,7 @@
   - Bandwidth is half the symbol rate
 - :id: G8B11
   :correct: 2
+  :refs: ''
   :question: What combination of a mixer’s Local Oscillator (LO) and RF input frequencies
     is found in the output?
   :answers:
@@ -2998,6 +3311,7 @@
   - The arithmetic product
 - :id: G8B12
   :correct: 0
+  :refs: ''
   :question: What process combines two signals in a non-linear circuit to produce
     unwanted spurious outputs?
   :answers:
@@ -3007,6 +3321,7 @@
   - Rolloff
 - :id: G8B13
   :correct: 2
+  :refs: ''
   :question: Which of the following is an odd-order intermodulation product of frequencies
     F1 and F2?
   :answers:
@@ -3016,6 +3331,7 @@
   - All these choices are correct
 - :id: G8C01
   :correct: 2
+  :refs: ''
   :question: On what band do amateurs share channels with the unlicensed Wi-Fi service?
   :answers:
   - 432 MHz
@@ -3024,6 +3340,7 @@
   - 10.7 GHz
 - :id: G8C02
   :correct: 0
+  :refs: ''
   :question: Which digital mode is used as a low-power beacon for assessing HF propagation?
   :answers:
   - WSPR
@@ -3032,6 +3349,7 @@
   - SSB-SC
 - :id: G8C03
   :correct: 2
+  :refs: ''
   :question: What part of a packet radio frame contains the routing and handling information?
   :answers:
   - Directory
@@ -3040,6 +3358,7 @@
   - Trailer
 - :id: G8C04
   :correct: 2
+  :refs: ''
   :question: Which of the following describes Baudot code?
   :answers:
   - A 7-bit code with start, stop, and parity bits
@@ -3048,6 +3367,7 @@
   - A code using SELCAL and LISTEN
 - :id: G8C05
   :correct: 0
+  :refs: ''
   :question: In an ARQ mode, what is meant by a NAK response to a transmitted packet?
   :answers:
   - Request retransmission of the packet
@@ -3056,6 +3376,7 @@
   - Entire file received correctly
 - :id: G8C06
   :correct: 1
+  :refs: ''
   :question: What action results from a failure to exchange information due to excessive
     transmission attempts when using an ARQ mode?
   :answers:
@@ -3065,6 +3386,7 @@
   - Encoding reverts to the default character set
 - :id: G8C07
   :correct: 1
+  :refs: ''
   :question: Which of the following narrow-band digital modes can receive signals
     with very low signal-to-noise ratios?
   :answers:
@@ -3074,6 +3396,7 @@
   - MFSK32
 - :id: G8C08
   :correct: 1
+  :refs: ''
   :question: Which of the following statements is true about PSK31?
   :answers:
   - Upper case letters are sent with more power
@@ -3082,6 +3405,7 @@
   - Higher power is needed as compared to RTTY for similar error rates
 - :id: G8C09
   :correct: 1
+  :refs: ''
   :question: Which is true of mesh network microwave nodes?
   :answers:
   - Having more nodes increases signal strengths
@@ -3091,6 +3415,7 @@
   - More nodes reduce overall microwave out of band interference
 - :id: G8C10
   :correct: 2
+  :refs: ''
   :question: How does forward error correction (FEC) allow the receiver to correct
     data errors?
   :answers:
@@ -3100,6 +3425,7 @@
   - By using a parity bit with each character
 - :id: G8C11
   :correct: 3
+  :refs: ''
   :question: How are the two separate frequencies of a Frequency Shift Keyed (FSK)
     signal identified?
   :answers:
@@ -3109,6 +3435,7 @@
   - Mark and space
 - :id: G8C12
   :correct: 0
+  :refs: ''
   :question: Which type of code is used for sending characters in a PSK31 signal?
   :answers:
   - Varicode
@@ -3117,6 +3444,7 @@
   - Binary
 - :id: G8C13
   :correct: 3
+  :refs: ''
   :question: What is indicated on a waterfall display by one or more vertical lines
     on either side of a data mode or RTTY signal?
   :answers:
@@ -3126,6 +3454,7 @@
   - Overmodulation
 - :id: G8C14
   :correct: 2
+  :refs: ''
   :question: Which of the following describes a waterfall display?
   :answers:
   - Frequency is horizontal, signal strength is vertical, time is intensity
@@ -3134,6 +3463,7 @@
   - Frequency is vertical, signal strength is horizontal, time is intensity
 - :id: G8C15
   :correct: 2
+  :refs: ''
   :question: What does an FT8 signal report of +3 mean?
   :answers:
   - The signal is 3 times the noise level of an equivalent SSB signal
@@ -3142,6 +3472,7 @@
   - The signal is 3 dB over S9
 - :id: G8C16
   :correct: 3
+  :refs: ''
   :question: Which of the following provide digital voice modes?
   :answers:
   - WSPR, MFSK16, and EasyPAL
@@ -3150,6 +3481,7 @@
   - DMR, D-STAR, and SystemFusion
 - :id: G9A01
   :correct: 0
+  :refs: ''
   :question: Which of the following factors determine the characteristic impedance
     of a parallel conductor feed line?
   :answers:
@@ -3159,6 +3491,7 @@
   - The frequency of the signal and the length of the line
 - :id: G9A02
   :correct: 1
+  :refs: ''
   :question: What is the relationship between high standing wave ratio (SWR) and transmission
     line loss?
   :answers:
@@ -3168,6 +3501,7 @@
   - High SWR reduces the relative effect of transmission line loss
 - :id: G9A03
   :correct: 3
+  :refs: ''
   :question: What is the nominal characteristic impedance of “window line” transmission
     line?
   :answers:
@@ -3177,6 +3511,7 @@
   - 450 ohms
 - :id: G9A04
   :correct: 2
+  :refs: ''
   :question: What causes reflected power at an antenna’s feed point?
   :answers:
   - Operating an antenna at its resonant frequency
@@ -3185,6 +3520,7 @@
   - Feeding the antenna with unbalanced feed line
 - :id: G9A05
   :correct: 1
+  :refs: ''
   :question: How does the attenuation of coaxial cable change with increasing frequency?
   :answers:
   - Attenuation is independent of frequency
@@ -3193,6 +3529,7 @@
   - Attenuation follows Marconi’s Law of Attenuation
 - :id: G9A06
   :correct: 3
+  :refs: ''
   :question: In what units is RF feed line loss usually expressed?
   :answers:
   - Ohms per 1,000 feet
@@ -3201,6 +3538,7 @@
   - Decibels per 100 feet
 - :id: G9A07
   :correct: 3
+  :refs: ''
   :question: What must be done to prevent standing waves on a feed line connected
     to an antenna?
   :answers:
@@ -3211,6 +3549,7 @@
     of the feed line
 - :id: G9A08
   :correct: 1
+  :refs: ''
   :question: If the SWR on an antenna feed line is 5:1, and a matching network at
     the transmitter end of the feed line is adjusted to present a 1:1 SWR to the transmitter,
     what is the resulting SWR on the feed line?
@@ -3221,6 +3560,7 @@
   - Between 1:1 and 5:1 depending on the reflected power at the transmitter
 - :id: G9A09
   :correct: 0
+  :refs: ''
   :question: What standing wave ratio results from connecting a 50-ohm feed line to
     a 200-ohm resistive load?
   :answers:
@@ -3230,6 +3570,7 @@
   - '1:2'
 - :id: G9A10
   :correct: 3
+  :refs: ''
   :question: What standing wave ratio results from connecting a 50-ohm feed line to
     a 10-ohm resistive load?
   :answers:
@@ -3239,6 +3580,7 @@
   - '5:1'
 - :id: G9A11
   :correct: 0
+  :refs: ''
   :question: What is the effect of transmission line loss on SWR measured at the input
     to the line?
   :answers:
@@ -3248,6 +3590,7 @@
   - Transmission line loss does not affect the SWR measurement
 - :id: G9B01
   :correct: 1
+  :refs: ''
   :question: What is a characteristic of a random-wire HF antenna connected directly
     to the transmitter?
   :answers:
@@ -3257,6 +3600,7 @@
   - It is more effective on the lower HF bands than on the higher bands
 - :id: G9B02
   :correct: 1
+  :refs: ''
   :question: Which of the following is a common way to adjust the feed point impedance
     of an elevated quarter-wave ground-plane vertical antenna to be approximately
     50 ohms?
@@ -3267,6 +3611,7 @@
   - Coil the radials
 - :id: G9B03
   :correct: 3
+  :refs: ''
   :question: Which of the following best describes the radiation pattern of a quarter-wave
     ground-plane vertical antenna?
   :answers:
@@ -3276,6 +3621,7 @@
   - Omnidirectional in azimuth
 - :id: G9B04
   :correct: 0
+  :refs: ''
   :question: What is the radiation pattern of a dipole antenna in free space in a
     plane containing the conductor?
   :answers:
@@ -3286,6 +3632,7 @@
     side
 - :id: G9B05
   :correct: 2
+  :refs: ''
   :question: How does antenna height affect the azimuthal radiation pattern of a horizontal
     dipole HF antenna at elevation angles higher than about 45 degrees?
   :answers:
@@ -3297,6 +3644,7 @@
     wire is eliminated
 - :id: G9B06
   :correct: 2
+  :refs: ''
   :question: Where should the radial wires of a ground-mounted vertical antenna system
     be placed?
   :answers:
@@ -3306,6 +3654,7 @@
   - At the center of the antenna
 - :id: G9B07
   :correct: 1
+  :refs: ''
   :question: How does the feed point impedance of a horizontal 1/2 wave dipole antenna
     change as the antenna height is reduced to 1/10 wavelength above ground?
   :answers:
@@ -3315,6 +3664,7 @@
   - It is unaffected by the height above ground
 - :id: G9B08
   :correct: 0
+  :refs: ''
   :question: How does the feed point impedance of a 1/2 wave dipole change as the
     feed point is moved from the center toward the ends?
   :answers:
@@ -3324,6 +3674,7 @@
   - It is unaffected by the location of the feed point
 - :id: G9B09
   :correct: 0
+  :refs: ''
   :question: Which of the following is an advantage of using a horizontally polarized
     as compared to a vertically polarized HF antenna?
   :answers:
@@ -3333,6 +3684,7 @@
   - Lower radiation resistance
 - :id: G9B10
   :correct: 3
+  :refs: ''
   :question: What is the approximate length for a 1/2 wave dipole antenna cut for
     14.250 MHz?
   :answers:
@@ -3342,6 +3694,7 @@
   - 33 feet
 - :id: G9B11
   :correct: 2
+  :refs: ''
   :question: What is the approximate length for a 1/2 wave dipole antenna cut for
     3.550 MHz?
   :answers:
@@ -3351,6 +3704,7 @@
   - 263 feet
 - :id: G9B12
   :correct: 0
+  :refs: ''
   :question: What is the approximate length for a 1/4 wave monopole antenna cut for
     28.5 MHz?
   :answers:
@@ -3360,6 +3714,7 @@
   - 21 feet
 - :id: G9C01
   :correct: 0
+  :refs: ''
   :question: Which of the following would increase the bandwidth of a Yagi antenna?
   :answers:
   - Larger-diameter elements
@@ -3368,6 +3723,7 @@
   - Tapered-diameter elements
 - :id: G9C02
   :correct: 1
+  :refs: ''
   :question: What is the approximate length of the driven element of a Yagi antenna?
   :answers:
   - 1/4 wavelength
@@ -3376,6 +3732,7 @@
   - 1 wavelength
 - :id: G9C03
   :correct: 0
+  :refs: ''
   :question: How do the lengths of a three-element Yagi reflector and director compare
     to that of the driven element?
   :answers:
@@ -3385,6 +3742,7 @@
   - Relative length depends on the frequency of operation
 - :id: G9C04
   :correct: 1
+  :refs: ''
   :question: How does antenna gain in dBi compare to gain stated in dBd for the same
     antenna?
   :answers:
@@ -3394,6 +3752,7 @@
   - Gain in dBd is 1.25 dBd higher
 - :id: G9C05
   :correct: 0
+  :refs: ''
   :question: What is the primary effect of increasing boom length and adding directors
     to a Yagi antenna?
   :answers:
@@ -3403,6 +3762,7 @@
   - Resonant frequency is lower
 - :id: G9C07
   :correct: 2
+  :refs: ''
   :question: What does “front-to-back ratio” mean in reference to a Yagi antenna?
   :answers:
   - The number of directors versus the number of reflectors
@@ -3412,6 +3772,7 @@
   - The ratio of forward gain to dipole gain
 - :id: G9C08
   :correct: 3
+  :refs: ''
   :question: What is meant by the “main lobe” of a directive antenna?
   :answers:
   - The magnitude of the maximum vertical angle of radiation
@@ -3420,6 +3781,7 @@
   - The direction of maximum radiated field strength from the antenna
 - :id: G9C09
   :correct: 1
+  :refs: ''
   :question: In free space, how does the gain of two three-element, horizontally polarized
     Yagi antennas spaced vertically 1/2 wavelength apart typically compare to the
     gain of a single three-element Yagi?
@@ -3430,6 +3792,7 @@
   - Approximately 9 dB higher
 - :id: G9C10
   :correct: 3
+  :refs: ''
   :question: Which of the following can be adjusted to optimize forward gain, front-to-back
     ratio, or SWR bandwidth of a Yagi antenna?
   :answers:
@@ -3439,6 +3802,7 @@
   - All these choices are correct
 - :id: G9C11
   :correct: 0
+  :refs: ''
   :question: What is a beta or hairpin match?
   :answers:
   - A shorted transmission line stub placed at the feed point of a Yagi antenna to
@@ -3451,6 +3815,7 @@
     antenna
 - :id: G9C12
   :correct: 0
+  :refs: ''
   :question: Which of the following is a characteristic of using a gamma match with
     a Yagi antenna?
   :answers:
@@ -3460,16 +3825,18 @@
   - All these choices are correct
 - :id: G9D01
   :correct: 0
+  :refs: ''
   :question: Which of the following antenna types will be most effective as a near
     vertical incidence skywave (NVIS) antenna for short-skip communications on 40
     meters during the day?
   :answers:
   - A horizontal dipole placed between 1/10 and 1/4 wavelength above the ground
   - A vertical antenna placed between 1/4 and 1/2 wavelength above the ground
-  - horizontal dipole placed at approximately 1/2 wavelength above the ground
+  - A horizontal dipole placed at approximately 1/2 wavelength above the ground
   - A vertical dipole placed at approximately 1/2 wavelength above the ground
 - :id: G9D02
   :correct: 3
+  :refs: ''
   :question: What is the feed point impedance of an end-fed half-wave antenna?
   :answers:
   - Very low
@@ -3478,6 +3845,7 @@
   - Very high
 - :id: G9D03
   :correct: 2
+  :refs: ''
   :question: In which direction is the maximum radiation from a VHF/UHF “halo” antenna?
   :answers:
   - Broadside to the plane of the halo
@@ -3486,6 +3854,7 @@
   - On the same side as the feed point
 - :id: G9D04
   :correct: 0
+  :refs: ''
   :question: What is the primary function of antenna traps?
   :answers:
   - To enable multiband operation
@@ -3494,6 +3863,7 @@
   - To prevent out-of-band operation
 - :id: G9D05
   :correct: 3
+  :refs: ''
   :question: What is an advantage of vertically stacking horizontally polarized Yagi
     antennas?
   :answers:
@@ -3503,6 +3873,7 @@
   - It narrows the main lobe in elevation
 - :id: G9D06
   :correct: 0
+  :refs: ''
   :question: Which of the following is an advantage of a log-periodic antenna?
   :answers:
   - Wide bandwidth
@@ -3511,6 +3882,7 @@
   - Polarization diversity
 - :id: G9D07
   :correct: 0
+  :refs: ''
   :question: Which of the following describes a log-periodic antenna?
   :answers:
   - Element length and spacing vary logarithmically along the boom
@@ -3519,6 +3891,7 @@
   - SWR varies periodically as a function of boom length
 - :id: G9D08
   :correct: 1
+  :refs: ''
   :question: How does a “screwdriver” mobile antenna adjust its feed point impedance?
   :answers:
   - By varying its body capacitance
@@ -3527,6 +3900,7 @@
   - By deploying a capacitance hat
 - :id: G9D09
   :correct: 0
+  :refs: ''
   :question: What is the primary use of a Beverage antenna?
   :answers:
   - Directional receiving for MF and low HF bands
@@ -3535,6 +3909,7 @@
   - Portable direction finding at lower HF frequencies
 - :id: G9D10
   :correct: 1
+  :refs: ''
   :question: In which direction or directions does an electrically small loop (less
     than 1/10 wavelength in circumference) have nulls in its radiation pattern?
   :answers:
@@ -3544,6 +3919,7 @@
   - Electrically small loops are omnidirectional
 - :id: G9D11
   :correct: 3
+  :refs: ''
   :question: Which of the following is a disadvantage of multiband antennas?
   :answers:
   - They present low impedance on all design frequencies
@@ -3552,6 +3928,7 @@
   - They have poor harmonic rejection
 - :id: G9D12
   :correct: 0
+  :refs: ''
   :question: What is the common name of a dipole with a single central support?
   :answers:
   - Inverted V
@@ -3560,6 +3937,7 @@
   - Lazy H
 - :id: G0A01
   :correct: 0
+  :refs: ''
   :question: What is one way that RF energy can affect human body tissue?
   :answers:
   - It heats body tissue
@@ -3568,6 +3946,7 @@
   - It cools body tissue
 - :id: G0A02
   :correct: 3
+  :refs: ''
   :question: Which of the following is used to determine RF exposure from a transmitted
     signal?
   :answers:
@@ -3577,6 +3956,7 @@
   - All these choices are correct
 - :id: G0A03
   :correct: 3
+  :refs: "[97.13(c)(1)]"
   :question: How can you determine that your station complies with FCC RF exposure
     regulations?
   :answers:
@@ -3586,6 +3966,7 @@
   - All these choices are correct
 - :id: G0A04
   :correct: 3
+  :refs: ''
   :question: What does “time averaging” mean when evaluating RF radiation exposure?
   :answers:
   - The average amount of power developed by the transmitter over a specific 24-hour
@@ -3595,6 +3976,7 @@
   - The total RF exposure averaged over a certain period
 - :id: G0A05
   :correct: 0
+  :refs: "[97.13(c)(2), 1.1307(b)]"
   :question: What must you do if an evaluation of your station shows that the RF energy
     radiated by your station exceeds permissible limits for possible human absorption?
   :answers:
@@ -3605,16 +3987,18 @@
   - All these choices are correct
 - :id: G0A06
   :correct: 0
+  :refs: "[97.13(c)(2), 1.1307(1)(b)(3)(i)]"
   :question: What must you do if your station fails to meet the FCC RF exposure exemption
     criteria?
   :answers:
-  - Perform an RF Exposure Evaluation in accordance with FCC OET Bulletin 65
+  - Perform an RF exposure evaluation in accordance with FCC OET Bulletin 65
   - Contact the FCC for permission to transmit
   - Perform an RF exposure evaluation in accordance with World Meteorological Organization
     guidelines
   - Use an FCC-approved band-pass filter
 - :id: G0A07
   :correct: 0
+  :refs: ''
   :question: What is the effect of modulation duty cycle on RF exposure?
   :answers:
   - A lower duty cycle permits greater power levels to be transmitted
@@ -3623,6 +4007,7 @@
   - High duty cycle transmitters are exempt from RF exposure requirements
 - :id: G0A08
   :correct: 2
+  :refs: "[97.13(c)(2)]"
   :question: Which of the following steps must an amateur operator take to ensure
     compliance with RF safety regulations?
   :answers:
@@ -3634,6 +4019,7 @@
   - All these choices are correct
 - :id: G0A09
   :correct: 1
+  :refs: ''
   :question: What type of instrument can be used to accurately measure an RF field
     strength?
   :answers:
@@ -3643,6 +4029,7 @@
   - An oscilloscope with a high-stability crystal marker generator
 - :id: G0A10
   :correct: 2
+  :refs: ''
   :question: What should be done if evaluation shows that a neighbor might experience
     more than the allowable limit of RF exposure from the main lobe of a directional
     antenna?
@@ -3654,6 +4041,7 @@
   - All these choices are correct
 - :id: G0A11
   :correct: 2
+  :refs: ''
   :question: What precaution should be taken if you install an indoor transmitting
     antenna?
   :answers:
@@ -3663,6 +4051,7 @@
   - Make sure the antenna is properly shielded
 - :id: G0A12
   :correct: 3
+  :refs: "[1.1307(1)(b)(3)(i)(A)]"
   :question: What stations are subject to the FCC rules on RF exposure?
   :answers:
   - All commercial stations; amateur radio stations are exempt
@@ -3671,6 +4060,7 @@
   - All stations with a time-averaged transmission of more than one milliwatt
 - :id: G0B01
   :correct: 0
+  :refs: ''
   :question: Which wire or wires in a four-conductor 240 VAC circuit should be attached
     to fuses or circuit breakers?
   :answers:
@@ -3680,6 +4070,7 @@
   - All wires
 - :id: G0B02
   :correct: 2
+  :refs: ''
   :question: According to the National Electrical Code, what is the minimum wire size
     that may be used safely for wiring with a 20-ampere circuit breaker?
   :answers:
@@ -3689,6 +4080,7 @@
   - AWG number 8
 - :id: G0B03
   :correct: 3
+  :refs: ''
   :question: Which size of fuse or circuit breaker would be appropriate to use with
     a circuit that uses AWG number 14 wiring?
   :answers:
@@ -3698,6 +4090,7 @@
   - 15 amperes
 - :id: G0B04
   :correct: 1
+  :refs: ''
   :question: Where should the station’s lightning protection ground system be located?
   :answers:
   - As close to the station equipment as possible
@@ -3706,6 +4099,7 @@
   - Parallel to the water supply line
 - :id: G0B05
   :correct: 1
+  :refs: ''
   :question: Which of the following conditions will cause a ground fault circuit interrupter
     (GFCI) to disconnect AC power?
   :answers:
@@ -3715,6 +4109,7 @@
   - All these choices are correct
 - :id: G0B06
   :correct: 2
+  :refs: ''
   :question: Which of the following is covered by the National Electrical Code?
   :answers:
   - Acceptable bandwidth limits
@@ -3723,6 +4118,7 @@
   - RF exposure limits of the human body
 - :id: G0B07
   :correct: 1
+  :refs: ''
   :question: Which of these choices should be observed when climbing a tower using
     a safety harness?
   :answers:
@@ -3733,6 +4129,7 @@
   - All these choices are correct
 - :id: G0B08
   :correct: 1
+  :refs: ''
   :question: What should be done before climbing a tower that supports electrically
     powered devices?
   :answers:
@@ -3742,6 +4139,7 @@
   - All these choices are correct
 - :id: G0B09
   :correct: 0
+  :refs: ''
   :question: Which of the following is true of an emergency generator installation?
   :answers:
   - The generator should be operated in a well-ventilated area
@@ -3750,6 +4148,7 @@
   - All these choices are correct
 - :id: G0B10
   :correct: 0
+  :refs: ''
   :question: Which of the following is a danger from lead-tin solder?
   :answers:
   - Lead can contaminate food if hands are not washed carefully after handling the
@@ -3759,6 +4158,7 @@
   - RF energy can convert the lead into a poisonous gas
 - :id: G0B11
   :correct: 3
+  :refs: ''
   :question: Which of the following is required for lightning protection ground rods?
   :answers:
   - They must be bonded to all buried water and gas lines
@@ -3767,6 +4167,7 @@
   - They must be bonded together with all other grounds
 - :id: G0B12
   :correct: 2
+  :refs: ''
   :question: What is the purpose of a power supply interlock?
   :answers:
   - To prevent unauthorized changes to the circuit that would void the manufacturer’s
@@ -3776,6 +4177,7 @@
   - To shut off the power supply if too much voltage is produced
 - :id: G0B13
   :correct: 0
+  :refs: ''
   :question: Where should lightning arrestors be located?
   :answers:
   - Where the feed lines enter the building

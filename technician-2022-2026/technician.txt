@@ -1566,7 +1566,7 @@ B. Carbon-zinc
 C. Lead-acid
 D. Lithium-ion
 
-T6A12(A)
+T6A12 (A)
 What type of switch is represented by component 3 in figure T-2?
 A. Single-pole single-throw
 B. Single-pole double-throw
