@@ -144,7 +144,8 @@ def hash_to_array(h)
    h[:answers][0],
    h[:answers][1],
    h[:answers][2],
-   h[:answers][3]]
+   h[:answers][3],
+   h[:refs]]
 end
 
 
@@ -169,7 +170,7 @@ open(yaml_name, 'w') {|f| f.puts(YAML.dump(questions))}
 
 puts "writing #{csv_name}"
 CSV.open(csv_name, 'w') do |csv|
-  csv << ['id', 'correct', 'question', 'a', 'b', 'c', 'd']
+  csv << ['id', 'correct', 'question', 'a', 'b', 'c', 'd','refs']
   questions.each do |q|
     csv << hash_to_array(q)
   end
