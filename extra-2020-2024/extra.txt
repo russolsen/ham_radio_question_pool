@@ -3142,7 +3142,7 @@ C. The gain of the amplifier at a filter's cutoff frequency
 D. The frequency at which the amplifier's offset voltage is zero
 
 E7G07 (C)
-What magnitude of voltage gain can be expected from the circuit in Figure E73 when R1 is 10 ohms and RF is 470 ohms?
+What magnitude of voltage gain can be expected from the circuit in Figure E7-3 when R1 is 10 ohms and RF is 470 ohms?
 A. 0.21
 B. 94
 C. 47
@@ -3716,7 +3716,7 @@ C. 18 dB
 D. 24 dB
 
 E9B04 (B)
-What is the front-to-back ratio of the radiation pattern shown in Figure E92?
+What is the front-to-back ratio of the radiation pattern shown in Figure E9-2?
 A. 15 dB
 B. 28 dB
 C. 3 dB
