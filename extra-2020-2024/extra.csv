@@ -448,7 +448,7 @@ E7G03,3,What is the typical input impedance of an op-amp?,100 ohms,1000 ohms,Ver
 E7G04,2,"What is meant by the ""op-amp input offset voltage""?",The output voltage of the op-amp minus its input voltage,The difference between the output voltage of the op-amp and the input voltage required in the immediately following stage,The differential input voltage needed to bring the open loop output voltage to zero,The potential between the amplifier input terminals of the op-amp in an open loop condition
 E7G05,0,How can unwanted ringing and audio instability be prevented in an op-amp RC audio filter circuit?,Restrict both gain and Q,Restrict gain but increase Q,Restrict Q but increase gain,Increase both gain and Q
 E7G06,1,What is the gain-bandwidth of an operational amplifier?,The maximum frequency for a filter circuit using that type of amplifier,The frequency at which the open-loop gain of the amplifier equals one,The gain of the amplifier at a filter's cutoff frequency,The frequency at which the amplifier's offset voltage is zero
-E7G07,2,What magnitude of voltage gain can be expected from the circuit in Figure E73 when R1 is 10 ohms and RF is 470 ohms?,0.21,94,47,24
+E7G07,2,What magnitude of voltage gain can be expected from the circuit in Figure E7-3 when R1 is 10 ohms and RF is 470 ohms?,0.21,94,47,24
 E7G08,3,How does the gain of an ideal operational amplifier vary with frequency?,It increases linearly with increasing frequency,It decreases linearly with increasing frequency,It decreases logarithmically with increasing frequency,It does not vary with frequency
 E7G09,3,"What will be the output voltage of the circuit shown in Figure E7-3 if R1 is 1000 ohms, RF is 10,000 ohms, and 0.23 volts DC is applied to the input?",0.23 volts,2.3 volts,-0.23 volts,-2.3 volts
 E7G10,2,What absolute voltage gain can be expected from the circuit in Figure E7-3 when R1 is 1800 ohms and RF is 68 kilohms?,1,0.03,38,76
@@ -530,7 +530,7 @@ E9A13,2,"What term describes station output, taking into account all gains and l
 E9B01,1,"In the antenna radiation pattern shown in Figure E9-1, what is the beamwidth?",75 degrees,50 degrees,25 degrees,30 degrees
 E9B02,1,"In the antenna radiation pattern shown in Figure E9-1, what is the front-to-back ratio?",36 dB,18 dB,24 dB,14 dB
 E9B03,1,"In the antenna radiation pattern shown in Figure E9-1, what is the front-to-side ratio?",12 dB,14 dB,18 dB,24 dB
-E9B04,1,What is the front-to-back ratio of the radiation pattern shown in Figure E92?,15 dB,28 dB,3 dB,38 dB
+E9B04,1,What is the front-to-back ratio of the radiation pattern shown in Figure E9-2?,15 dB,28 dB,3 dB,38 dB
 E9B05,0,What type of antenna pattern is shown in Figure E9-2?,Elevation,Azimuth,Radiation resistance,Polarization
 E9B06,2,What is the elevation angle of peak response in the antenna radiation pattern shown in Figure E9-2?,45 degrees,75 degrees,7.5 degrees,25 degrees
 E9B07,2,"How does the total amount of radiation emitted by a directional gain antenna compare with the total amount of radiation emitted from a theoretical isotropic antenna, assuming each is driven by the same amount of power?",The total amount of radiation from the directional antenna is increased by the gain of the antenna,The total amount of radiation from the directional antenna is stronger by its front-to-back ratio,They are the same,The radiation from the isotropic antenna is 2.15 dB stronger than that from the directional antenna

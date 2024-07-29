@@ -4036,7 +4036,7 @@
 - :id: E7G07
   :correct: 2
   :question: "What magnitude of voltage gain can be expected from the circuit in Figure
-    E7\x1E3 when R1 is 10 ohms and RF is 470 ohms?"
+    E7-3 when R1 is 10 ohms and RF is 470 ohms?"
   :answers:
   - '0.21'
   - '94'
@@ -4769,7 +4769,7 @@
 - :id: E9B04
   :correct: 1
   :question: "What is the front-to-back ratio of the radiation pattern shown in Figure
-    E9\x1E2?"
+    E9-2?"
   :answers:
   - 15 dB
   - 28 dB
