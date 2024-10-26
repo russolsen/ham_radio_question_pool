@@ -279,7 +279,7 @@ C. 5 watts
 D. 100 watts
 
 E1D07 (A) [97.207]
-Which group of HF amateur bands include allocations for space stations?
+Which of the following HF amateur bands include allocations for space stations?
 A. 40 meters, 20 meters, 15 meters, and 10 meters
 B. 30 meters, 17 meters, and 10 meters
 C. Only 10 meters
@@ -383,14 +383,14 @@ B. A fine of up to $1,000 per occurrence
 C. A sentence of up to one year in prison
 D. All these choices are correct
 
-E1E10 (C) [97.509(h)]
+E1E10 (C) [97.509(m)]
 What must the administering VEs do after the administration of a successful examination for an amateur operator license?
 A. They must collect and send the documents directly to the FCC
 B. They must collect and submit the documents to the coordinating VEC for grading
 C. They must submit the application document to the coordinating VEC according to the coordinating VEC instructions
 D. They must return the documents to the applicant for submission to the FCC according to the FCC instructions
 
-E1E11 (B) [97.509(m)]
+E1E11 (B) [97.509(i)]
 What must the VE team do if an examinee scores a passing grade on all examination elements needed for an upgrade or new license?
 A. Photocopy all examination documents and forward them to the FCC for processing
 B. Three VEs must certify that the examinee is qualified for the license grant and that they have complied with the administering VE requirements
@@ -416,7 +416,7 @@ Under what circumstances may a dealer sell an external RF power amplifier capabl
 A. Gain is less than 23 dB when driven by power of 10 watts or less
 B. The equipment dealer assembled it from a kit
 C. It was manufactured and certificated in a country which has a reciprocal certification agreement with the FCC
-D. It was purchased in used condition from an amateur operator and is sold to another amateur operator for use at that operator’s station
+D. The amplifier is constructed or modified by an amateur radio operator for use at an amateur station
 
 E1F04 (A) [97.3]
 Which of the following geographic descriptions approximately describes "Line A"?
@@ -1504,14 +1504,14 @@ C. Odd-order products are an indication of poor image rejection
 D. Odd-order intermodulation produces three products for every input signal within the band of interest
 
 E4D12 (C)
-What is the link margin in a system with a transmit power level of 100 W (+40 dBm), a system antenna gain of 10 dBi, a cable loss of 3 dB, a path loss of 136 dB, a receiver minimum discernable signal of -103 dBm, and a required signal-to-noise ratio of 6 dB?
+What is the link margin in a system with a transmit power level of 10 W (+40 dBm), a system antenna gain of 10 dBi, a cable loss of 3 dB, a path loss of 136 dB, a receiver minimum discernable signal of -103 dBm, and a required signal-to-noise ratio of 6 dB?
 A. -8dB
 B. -14dB
 C. +8dB
 D. +14dB
 
 E4D13 (A)
-What is the received signal level with a transmit power of 100 W (+40 dBm), a transmit antenna gain of 6 dBi, a receive antenna gain of 3 dBi, and a path loss of 100 dB?
+What is the received signal level with a transmit power of 10 W (+40 dBm), a transmit antenna gain of 6 dBi, a receive antenna gain of 3 dBi, and a path loss of 100 dB?
 A. -51 dBm
 B. -54 dBm
 C. -57 dBm
@@ -2003,7 +2003,7 @@ D. They are both high impedance
 E6A06 (B)
 What is the beta of a bipolar junction transistor?
 A. The frequency at which the current gain is reduced to 0.707
-B. The change in collector current with respect to base current
+B. The change in collector current with respect to the change in base current
 C. The breakdown voltage of the base-to-collector junction
 D. The switching speed
 
@@ -3009,7 +3009,7 @@ C. The gain of the amplifier at a filter’s cutoff frequency
 D. The frequency at which the amplifier’s offset voltage is zero
 
 E7G07 (C)
-What voltage gain can be expected from the circuit in Figure E7‑3 when R1 is 10 ohms and RF is 470 ohms?
+What voltage gain can be expected from the circuit in Figure E7-3 when R1 is 10 ohms and RF is 470 ohms?
 A. 0.21
 B. 4700
 C. 47
@@ -3583,7 +3583,7 @@ C. 18 dB
 D. 14 dB
 
 E9B04 (B)
-What is the front-to-back ratio of the radiation pattern shown in Figure E9‑2?
+What is the front-to-back ratio of the radiation pattern shown in Figure E9-2?
 A. 15 dB
 B. 28 dB
 C. 3 dB
@@ -3882,13 +3882,6 @@ A. Double-bazooka match
 B. Beta or hairpin match
 C. Gamma match
 D. All these choices are correct
-
-E9E10 (C)
-Which matching system places an inductance across the feed point of a vertical monopole antenna?
-A. Gamma
-B. Shunt-fed
-C. Beta or hairpin
-D. T-match
 
 E9E11 (A)
 What is the purpose of using multiple driven elements connected through phasing lines?

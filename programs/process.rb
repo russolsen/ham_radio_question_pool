@@ -56,6 +56,34 @@ def read_text_block(io)
   return text.strip
 end
 
+def answer_line?(line)
+  return line =~ /^[ABCD]\..*/
+end
+
+def term_line?(line)
+  return line =~ /^~~.*/
+end
+
+def join_line(text, line)
+  if text[-1] == '-'
+    return "#{text}#{line}"
+  end
+  return "#{text} #{line}"
+end
+
+def read_text_block(io)
+  text = readline(io).strip
+  while true
+    line = readline(io)
+    if answer_line?(line) or term_line?(line)
+      io.push_line(line)
+      break
+    end
+    text = join_line(text, line.strip)
+  end
+  return text
+end
+
 def skip_to_question(io)
   while not io.eof?
     line = io.readline
@@ -86,8 +114,8 @@ end
 
 def read_header(io)
   text = readline(io)
-  read_blank(io)
-  #puts "Header #{text}"
+  ###read_blank(io)
+  puts "Header #{text}"
   parse_header(text)
 end
 

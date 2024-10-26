@@ -428,7 +428,8 @@
 - :id: E1D07
   :correct: 0
   :refs: "[97.207]"
-  :question: Which group of HF amateur bands include allocations for space stations?
+  :question: Which of the following HF amateur bands include allocations for space
+    stations?
   :answers:
   - 40 meters, 20 meters, 15 meters, and 10 meters
   - 30 meters, 17 meters, and 10 meters
@@ -581,7 +582,7 @@
   - All these choices are correct
 - :id: E1E10
   :correct: 2
-  :refs: "[97.509(h)]"
+  :refs: "[97.509(m)]"
   :question: What must the administering VEs do after the administration of a successful
     examination for an amateur operator license?
   :answers:
@@ -593,7 +594,7 @@
     to the FCC instructions
 - :id: E1E11
   :correct: 1
-  :refs: "[97.509(m)]"
+  :refs: "[97.509(i)]"
   :question: What must the VE team do if an examinee scores a passing grade on all
     examination elements needed for an upgrade or new license?
   :answers:
@@ -634,8 +635,8 @@
   - The equipment dealer assembled it from a kit
   - It was manufactured and certificated in a country which has a reciprocal certification
     agreement with the FCC
-  - It was purchased in used condition from an amateur operator and is sold to another
-    amateur operator for use at that operator’s station
+  - The amplifier is constructed or modified by an amateur radio operator for use
+    at an amateur station
 - :id: E1F04
   :correct: 0
   :refs: "[97.3]"
@@ -2174,7 +2175,7 @@
 - :id: E4D12
   :correct: 2
   :refs: ''
-  :question: What is the link margin in a system with a transmit power level of 100
+  :question: What is the link margin in a system with a transmit power level of 10
     W (+40 dBm), a system antenna gain of 10 dBi, a cable loss of 3 dB, a path loss
     of 136 dB, a receiver minimum discernable signal of -103 dBm, and a required signal-to-noise
     ratio of 6 dB?
@@ -2186,7 +2187,7 @@
 - :id: E4D13
   :correct: 0
   :refs: ''
-  :question: What is the received signal level with a transmit power of 100 W (+40
+  :question: What is the received signal level with a transmit power of 10 W (+40
     dBm), a transmit antenna gain of 6 dBi, a receive antenna gain of 3 dBi, and a
     path loss of 100 dB?
   :answers:
@@ -2878,7 +2879,7 @@
   :question: What is the beta of a bipolar junction transistor?
   :answers:
   - The frequency at which the current gain is reduced to 0.707
-  - The change in collector current with respect to base current
+  - The change in collector current with respect to the change in base current
   - The breakdown voltage of the base-to-collector junction
   - The switching speed
 - :id: E6A07
@@ -4262,7 +4263,7 @@
 - :id: E7G07
   :correct: 2
   :refs: ''
-  :question: What voltage gain can be expected from the circuit in Figure E7‑3 when
+  :question: What voltage gain can be expected from the circuit in Figure E7-3 when
     R1 is 10 ohms and RF is 470 ohms?
   :answers:
   - '0.21'
@@ -5079,7 +5080,7 @@
   :correct: 1
   :refs: ''
   :question: What is the front-to-back ratio of the radiation pattern shown in Figure
-    E9‑2?
+    E9-2?
   :answers:
   - 15 dB
   - 28 dB
@@ -5508,16 +5509,6 @@
   - Beta or hairpin match
   - Gamma match
   - All these choices are correct
-- :id: E9E10
-  :correct: 2
-  :refs: ''
-  :question: Which matching system places an inductance across the feed point of a
-    vertical monopole antenna?
-  :answers:
-  - Gamma
-  - Shunt-fed
-  - Beta or hairpin
-  - T-match
 - :id: E9E11
   :correct: 0
   :refs: ''
