@@ -2175,6 +2175,7 @@
 - :id: T6A12
   :correct: 0
   :refs: ''
+  :figure: T2.jpg
   :question: What type of switch is represented by component 3 in figure T-2?
   :answers:
   - Single-pole single-throw
@@ -2304,6 +2305,7 @@
 - :id: T6C02
   :correct: 0
   :refs: ''
+  :figure: T1.jpg
   :question: What is component 1 in figure T-1?
   :answers:
   - Resistor
@@ -2313,6 +2315,7 @@
 - :id: T6C03
   :correct: 1
   :refs: ''
+  :figure: T1.jpg
   :question: What is component 2 in figure T-1?
   :answers:
   - Resistor
@@ -2322,6 +2325,7 @@
 - :id: T6C04
   :correct: 2
   :refs: ''
+  :figure: T1.jpg
   :question: What is component 3 in figure T-1?
   :answers:
   - Resistor
@@ -2331,6 +2335,7 @@
 - :id: T6C05
   :correct: 3
   :refs: ''
+  :figure: T1.jpg
   :question: What is component 4 in figure T-1?
   :answers:
   - Resistor
@@ -2340,6 +2345,7 @@
 - :id: T6C06
   :correct: 1
   :refs: ''
+  :figure: T2.jpg
   :question: What is component 6 in figure T-2?
   :answers:
   - Resistor
@@ -2349,6 +2355,7 @@
 - :id: T6C07
   :correct: 3
   :refs: ''
+  :figure: T2.jpg
   :question: What is component 8 in figure T-2?
   :answers:
   - Resistor
@@ -2358,6 +2365,7 @@
 - :id: T6C08
   :correct: 2
   :refs: ''
+  :figure: T2.jpg
   :question: What is component 9 in figure T-2?
   :answers:
   - Variable capacitor
@@ -2367,6 +2375,7 @@
 - :id: T6C09
   :correct: 3
   :refs: ''
+  :figure: T2.jpg
   :question: What is component 4 in figure T-2?
   :answers:
   - Variable inductor
@@ -2376,6 +2385,7 @@
 - :id: T6C10
   :correct: 3
   :refs: ''
+  :figure: T3.jpg
   :question: What is component 3 in figure T-3?
   :answers:
   - Connector
@@ -2385,6 +2395,7 @@
 - :id: T6C11
   :correct: 0
   :refs: ''
+  :figure: T3.jpg
   :question: What is component 4 in figure T-3?
   :answers:
   - Antenna
@@ -2488,6 +2499,7 @@
 - :id: T6D10
   :correct: 2
   :refs: ''
+  :figure: T1.jpg
   :question: What is the function of component 2 in figure T-1?
   :answers:
   - Give off light when current flows through it
