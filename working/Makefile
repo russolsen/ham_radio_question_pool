@@ -21,13 +21,13 @@ install:
 		$(MAKE) -C $$dir install; \
 	done
 
-clean:
+clean::
 	for dir in $(SUBDIRS); do \
 		$(MAKE) -C $$dir clean; \
 	done
 
 
-real_clean:
+real_clean::
 	for dir in $(SUBDIRS); do \
 		$(MAKE) -C $$dir real_clean; \
 	done

@@ -72,12 +72,12 @@ install: build
 
 # Clean the local files.
 
-clean:
+clean::
 	rm -f $(RESULTS) raw.txt raw.pdf
 
 # Clean the installed files as well as the remote ones.
 
-real_clean: clean
+real_clean:: clean
 	rm -rf $(INSTALL_DIR)
 
 
