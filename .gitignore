@@ -1,1 +1,9 @@
 **/__pycache__
+working/*/*.csv
+working/*/*.yaml
+working/*/*.txt
+working/*/*.json
+working/*/*.png
+working/*/raw.pdf
+working/*/raw.txt
+working/*/raw.txt.bak
