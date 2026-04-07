@@ -39,9 +39,9 @@ available in various machine readable formats, including:
 
 You can find the data files for the various tests in subdirectories, currently:
 
-* technician-2026-2030
-* general-2023-2027	
-* extra-2024-2028
+* technician-2026-2030/
+* general-2023-2027	/
+* extra-2024-2028/
 
 The JSON version looks like this:
 
@@ -110,6 +110,7 @@ A. Providing personal radio communications for as many citizens as possible
 B. Providing communications for international contesting
 C. Advancing skills in the technical and communication phases of the radio art
 D. All these choices are correct
+
 ...
 ```
 
