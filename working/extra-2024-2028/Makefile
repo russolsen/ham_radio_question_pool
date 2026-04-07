@@ -3,8 +3,11 @@ NAME:=extra-2024-2028
 IMAGES= e5-1.png e6-1.png e6-2.png e6-3.png e7-1.png e7-2.png e7-3.png e9-1.png e9-2.png e9-3.png
 
 IMAGE_PREFIX=e
-
 -include ../common.mk
+
+post_process_raw_txt:
+	sed -i .bak '1,225d' raw.txt
+
 
 rename_images:
 	mv e-1.png  e5-1.png
@@ -18,3 +21,5 @@ rename_images:
 	mv e-9.png  e9-2.png
 	mv e-10.png e9-3.png
 	
+clean::
+	rm -f raw.txt.bak
