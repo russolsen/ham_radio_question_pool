@@ -11,6 +11,11 @@ build:
 		$(MAKE) -C $$dir build; \
 	done
 
+check:
+	for dir in $(SUBDIRS); do \
+		$(MAKE) -C $$dir check; \
+	done
+
 install:
 	for dir in $(SUBDIRS); do \
 		$(MAKE) -C $$dir install; \
