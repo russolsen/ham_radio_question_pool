@@ -151,36 +151,62 @@
 
     <script>
         const STORAGE_KEY = 'extra-2024-2028-last-question';
+        const CACHE_KEY = 'extra-2024-2028-questions-cache';
 
         async function loadQuestions() {
-            try {
-                const response = await fetch('extra-2024-2028.json');
-                const questions = await response.json();
-                renderQuestions(questions);
+            let questions = null;
 
-                // Scroll to last visited question
-                const lastQuestion = localStorage.getItem(STORAGE_KEY);
-                if (lastQuestion) {
-                    const element = document.getElementById(lastQuestion);
-                    if (element) {
-                        element.scrollIntoView({ behavior: 'smooth' });
-                        element.classList.add('last-visited');
-                    }
+            // Try to load from localStorage cache first
+            const cached = localStorage.getItem(CACHE_KEY);
+            if (cached) {
+                try {
+                    questions = JSON.parse(cached);
+                    console.log('Loaded from cache');
+                } catch (e) {
+                    console.log('Cache parse error, will fetch fresh');
                 }
+            }
 
-                // Also handle hash in URL for direct bookmarks
-                if (window.location.hash) {
-                    const hashElement = document.getElementById(window.location.hash.slice(1));
-                    if (hashElement) {
-                        setTimeout(() => {
-                            hashElement.scrollIntoView({ behavior: 'smooth' });
-                        }, 100);
+            // If not cached, fetch from JSON file and cache it
+            if (!questions) {
+                try {
+                    const response = await fetch('extra-2024-2028.json');
+                    questions = await response.json();
+                    // Store in localStorage for offline use and faster loading
+                    try {
+                        localStorage.setItem(CACHE_KEY, JSON.stringify(questions));
+                        console.log('Cached questions to localStorage');
+                    } catch (e) {
+                        console.log('Could not cache to localStorage:', e);
                     }
+                } catch (error) {
+                    document.getElementById('content').innerHTML =
+                        '<p style="color: red; text-align: center;">Error loading questions. Make sure extra-2024-2028.json is in the same directory, or visit the page online first to cache it.</p>';
+                    console.error('Error loading questions:', error);
+                    return;
                 }
-            } catch (error) {
-                document.getElementById('content').innerHTML =
-                    '<p style="color: red; text-align: center;">Error loading questions. Make sure extra-2024-2028.json is in the same directory.</p>';
-                console.error('Error loading questions:', error);
+            }
+
+            renderQuestions(questions);
+
+            // Scroll to last visited question
+            const lastQuestion = localStorage.getItem(STORAGE_KEY);
+            if (lastQuestion) {
+                const element = document.getElementById(lastQuestion);
+                if (element) {
+                    element.scrollIntoView({ behavior: 'smooth' });
+                    element.classList.add('last-visited');
+                }
+            }
+
+            // Also handle hash in URL for direct bookmarks
+            if (window.location.hash) {
+                const hashElement = document.getElementById(window.location.hash.slice(1));
+                if (hashElement) {
+                    setTimeout(() => {
+                        hashElement.scrollIntoView({ behavior: 'smooth' });
+                    }, 100);
+                }
             }
         }
 

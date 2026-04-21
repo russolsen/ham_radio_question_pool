@@ -19,3 +19,15 @@
   - Page scrolls to last visited question on load
   - Back-to-top button for navigation
   - Last visited question highlighted with yellow border
+
+## 2026-04-21: Add localStorage caching for offline use
+
+**Request:** Cache the question data in localStorage so the page works offline and loads faster after the first visit.
+
+**Changes to `extra-2024-2028/extra-2024-2028.html`:**
+- Added `CACHE_KEY` constant for storing questions
+- Modified `loadQuestions()` to:
+  1. First check localStorage for cached questions
+  2. If cached, use immediately (instant load)
+  3. If not cached, fetch from JSON file and store in localStorage
+  4. Works fully offline after first visit
