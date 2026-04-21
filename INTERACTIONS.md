@@ -31,3 +31,27 @@
   2. If cached, use immediately (instant load)
   3. If not cached, fetch from JSON file and store in localStorage
   4. Works fully offline after first visit
+
+## 2026-04-21: Add General and Technician HTML viewers
+
+**Request:** Create similar HTML viewers for General and Technician question pools, and update index.html with links to all three.
+
+**Files Created:**
+- `general-2023-2027/general-2023-2027.html` - General Class question viewer
+- `technician-2026-2030/technician-2026-2030.html` - Technician Class question viewer
+
+**Files Modified:**
+- `index.html` - Redesigned with styled links to all three question pools (Technician, General, Extra)
+
+## 2026-04-21: Add outdated Technician 2022-2026 HTML viewer
+
+**Request:** Create HTML viewer for the outdated technician-2022-2026 question pool.
+
+**Files Created:**
+- `outdated/technician-2022-2026/technician-2022-2026.html` - Technician 2022-2026 viewer with:
+  - Orange color scheme to distinguish as outdated
+  - Notice banner linking to current pool
+  - Handles older JSON format (no `correct_letter` field)
+
+**Files Modified:**
+- `index.html` - Added "Outdated" section with link to the 2022-2026 Technician pool
