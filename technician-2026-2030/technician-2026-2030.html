@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technician Class Question Pool 2026-2030</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            font-size: 1.5rem;
+        }
+
+        .question-block {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            scroll-margin-top: 20px;
+        }
+
+        .question-block:hover {
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+
+        .question-id {
+            font-weight: bold;
+            color: #3498db;
+            font-size: 1.1rem;
+            cursor: pointer;
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+
+        .question-id:hover {
+            text-decoration: underline;
+        }
+
+        .question-id a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        .question-id a:hover {
+            text-decoration: underline;
+        }
+
+        .question-text {
+            font-size: 1rem;
+            margin-bottom: 15px;
+            color: #2c3e50;
+        }
+
+        .answer {
+            background: #e8f6e8;
+            border-left: 4px solid #27ae60;
+            padding: 12px 15px;
+            margin-top: 15px;
+            border-radius: 0 4px 4px 0;
+        }
+
+        .answer-label {
+            font-weight: bold;
+            color: #27ae60;
+            margin-right: 8px;
+        }
+
+        .back-to-top {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #3498db;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            font-size: 24px;
+            cursor: pointer;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+            display: none;
+        }
+
+        .back-to-top:hover {
+            background: #2980b9;
+        }
+
+        .last-visited {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+        }
+
+        #loading {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.2rem;
+            color: #666;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+
+            h1 {
+                font-size: 1.2rem;
+            }
+
+            .question-block {
+                padding: 15px;
+            }
+
+            .question-id {
+                font-size: 1rem;
+            }
+
+            .question-text {
+                font-size: 0.95rem;
+            }
+
+            .answer {
+                padding: 10px 12px;
+                font-size: 0.95rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Technician Class Question Pool 2026-2030</h1>
+    <div id="content">
+        <div id="loading">Loading questions...</div>
+    </div>
+    <button class="back-to-top" id="backToTop" title="Back to top">&uarr;</button>
+
+    <script>
+        const STORAGE_KEY = 'technician-2026-2030-last-question';
+        const CACHE_KEY = 'technician-2026-2030-questions-cache';
+
+        async function loadQuestions() {
+            let questions = null;
+
+            // Try to load from localStorage cache first
+            const cached = localStorage.getItem(CACHE_KEY);
+            if (cached) {
+                try {
+                    questions = JSON.parse(cached);
+                    console.log('Loaded from cache');
+                } catch (e) {
+                    console.log('Cache parse error, will fetch fresh');
+                }
+            }
+
+            // If not cached, fetch from JSON file and cache it
+            if (!questions) {
+                try {
+                    const response = await fetch('technician-2026-2030.json');
+                    questions = await response.json();
+                    // Store in localStorage for offline use and faster loading
+                    try {
+                        localStorage.setItem(CACHE_KEY, JSON.stringify(questions));
+                        console.log('Cached questions to localStorage');
+                    } catch (e) {
+                        console.log('Could not cache to localStorage:', e);
+                    }
+                } catch (error) {
+                    document.getElementById('content').innerHTML =
+                        '<p style="color: red; text-align: center;">Error loading questions. Make sure technician-2026-2030.json is in the same directory, or visit the page online first to cache it.</p>';
+                    console.error('Error loading questions:', error);
+                    return;
+                }
+            }
+
+            renderQuestions(questions);
+
+            // Scroll to last visited question
+            const lastQuestion = localStorage.getItem(STORAGE_KEY);
+            if (lastQuestion) {
+                const element = document.getElementById(lastQuestion);
+                if (element) {
+                    element.scrollIntoView({ behavior: 'smooth' });
+                    element.classList.add('last-visited');
+                }
+            }
+
+            // Also handle hash in URL for direct bookmarks
+            if (window.location.hash) {
+                const hashElement = document.getElementById(window.location.hash.slice(1));
+                if (hashElement) {
+                    setTimeout(() => {
+                        hashElement.scrollIntoView({ behavior: 'smooth' });
+                    }, 100);
+                }
+            }
+        }
+
+        function renderQuestions(questions) {
+            const content = document.getElementById('content');
+            content.innerHTML = '';
+
+            questions.forEach(q => {
+                const block = document.createElement('div');
+                block.className = 'question-block';
+                block.id = q.id;
+
+                const correctAnswer = q.answers[q.correct];
+
+                block.innerHTML = `
+                    <div class="question-id">
+                        <a href="#${q.id}">${q.id}</a>
+                    </div>
+                    <div class="question-text">${escapeHtml(q.question)}</div>
+                    <div class="answer">
+                        <span class="answer-label">${q.correct_letter}.</span>
+                        ${escapeHtml(correctAnswer)}
+                    </div>
+                `;
+
+                // Save to localStorage when clicked
+                block.addEventListener('click', () => {
+                    localStorage.setItem(STORAGE_KEY, q.id);
+                    // Remove highlight from previous
+                    document.querySelectorAll('.last-visited').forEach(el => {
+                        el.classList.remove('last-visited');
+                    });
+                });
+
+                content.appendChild(block);
+            });
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Back to top button
+        const backToTopBtn = document.getElementById('backToTop');
+
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 300) {
+                backToTopBtn.style.display = 'block';
+            } else {
+                backToTopBtn.style.display = 'none';
+            }
+        });
+
+        backToTopBtn.addEventListener('click', () => {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+
+        // Load questions on page load
+        loadQuestions();
+    </script>
+</body>
+</html>
