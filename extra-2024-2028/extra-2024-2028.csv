@@ -421,7 +421,7 @@ E7F12,0,Which of the following is generally true of Finite Impulse Response (FIR
 E7F13,3,What is the function of taps in a digital signal processing filter?,,To reduce excess signal pressure levels,Provide access for debugging software,Select the point at which baseband signals are generated,Provide incremental signal delays for filter algorithms,,D
 E7F14,1,Which of the following would allow a digital signal processing filter to create a sharper filter response?,,Higher data rate,More taps,Lower Q,Double-precision math routines,,B
 E7G01,0,What is the typical output impedance of an op-amp?,,Very low,Very high,100 ohms,"10,000 ohms",,A
-E7G02,1,What is the frequency response of the circuit in E7-3 if a capacitor is added across the feedback resistor?,,High-pass filter,Low-pass filter,Band-pass filter,Notch filter,,B
+E7G02,1,What is the frequency response of the circuit in E7-3 if a capacitor is added across the feedback resistor?,,High-pass filter,Low-pass filter,Band-pass filter,Notch filter,e7-3.png,B
 E7G03,3,What is the typical input impedance of an op-amp?,,100 ohms,"10,000 ohms",Very low,Very high,,D
 E7G04,2,What is meant by the term “op-amp input offset voltage”?,,The output voltage of the op-amp minus its input voltage,The difference between the output voltage of the op-amp and the input voltage required in the immediately following stage,The differential input voltage needed to bring the open loop output voltage to zero,The potential between the amplifier input terminals of the op-amp in an open loop condition,,C
 E7G05,0,How can unwanted ringing and audio instability be prevented in an op-amp audio filter?,,Restrict both gain and Q,Restrict gain but increase Q,Restrict Q but increase gain,Increase both gain and Q,,A
